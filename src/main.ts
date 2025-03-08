@@ -12,7 +12,7 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://unduck.link?q=%s"
+            value="https://unduck-eight.vercel.app?q=%s"
             readonly 
           />
           <button class="copy-button">
@@ -21,11 +21,9 @@ function noSearchDefaultPageRender() {
         </div>
       </div>
       <footer class="footer">
-        <a href="https://t3.chat" target="_blank">t3.chat</a>
+        <p>My custom fork of <a href="https://unduck.link" target="_blank">Theo's Und*ck</a>. I am just using this for fun and to add custom bang redirects</p>
         •
-        <a href="https://x.com/theo" target="_blank">theo</a>
-        •
-        <a href="https://github.com/t3dotgg/unduck" target="_blank">github</a>
+        <a href="https://github.com/saad-yasin/unduck" target="_blank">github</a>
       </footer>
     </div>
   `;
