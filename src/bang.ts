@@ -34495,12 +34495,6 @@ export const bangs = [
     u: "http://www.matweb.com/search/QuickText.aspx?SearchText={{{s}}}",
   },
   {
-    d: "matplotlib.sourceforge.net",
-    s: "matplotlib",
-    t: "matplotlib",
-    u: "http://matplotlib.sourceforge.net/search.html?q={{{s}}} ",
-  },
-  {
     d: "www.matweb.com",
     s: "MatWeb",
     t: "matweb",
@@ -36848,7 +36842,19 @@ export const bangs = [
     d: "matplotlib.org",
     s: "matplotlib",
     t: "mpl",
-    u: "https://matplotlib.org/search.html?q={{{s}}} ",
+    u: "https://matplotlib.org/search.html?q={{{s}}}",
+  },
+  {
+    d: "matplotlib.org",
+    s: "matplotlib",
+    t: "plt",
+    u: "https://matplotlib.org/search.html?q={{{s}}}",
+  },
+  {
+    d: "matplotlib.org",
+    s: "matplotlib",
+    t: "matplotlib",
+    u: "https://matplotlib.org/search.html?q={{{s}}}",
   },
   {
     d: "www.menupages.com",
