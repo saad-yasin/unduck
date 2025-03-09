@@ -156,18 +156,6 @@ export const bangs = [
     u: "http://aikatsustars.wikia.com/wiki/Special:Search?query={{{s}}}",
   },
   {
-    d: "www.amazon.it",
-    s: "Amazon.it",
-    t: "ait",
-    u: "https://www.amazon.it/s?k={{{s}}}",
-  },
-  {
-    d: "www.amazon.it",
-    s: "Amazon IT",
-    t: "a.it",
-    u: "https://www.amazon.it/s?k={{{s}}}",
-  },
-  {
     d: "aitopics.org",
     s: "AITopics",
     t: "aitopics",
@@ -382,12 +370,6 @@ export const bangs = [
     s: "alibris",
     t: "alibris",
     u: "http://www.alibris.com/booksearch?keyword={{{s}}}",
-  },
-  {
-    d: "mail.alice.it",
-    s: "Alice Mail",
-    t: "alicemail",
-    u: "https://mail.alice.it/?q={{{s}}}",
   },
   {
     d: "www.aliexpress.com",
@@ -642,12 +624,6 @@ export const bangs = [
     u: "http://alternativeto.net/browse/search?q={{{s}}} ",
   },
   {
-    d: "www.altroconsumo.it",
-    s: "Altroconsumo",
-    t: "altro",
-    u: "http://www.altroconsumo.it/Serp/ShowResults?keyword={{{s}}}",
-  },
-  {
     d: "altru.greatjob.net",
     s: "Altru Careers",
     t: "altru",
@@ -738,30 +714,6 @@ export const bangs = [
     u: "https://www.amazon.cn/s?k={{{s}}}",
   },
   {
-    d: "www.amazon.in",
-    s: "Amazon India",
-    t: "amazonin",
-    u: "https://www.amazon.in/s?k={{{s}}}",
-  },
-  {
-    d: "www.amazon.in",
-    s: "Amazon India",
-    t: "amazon.in",
-    u: "http://www.amazon.in/s?k={{{s}}}",
-  },
-  {
-    d: "www.amazon.it",
-    s: "Amazon.it",
-    t: "amazon.it",
-    u: "https://www.amazon.it/s/s?k={{{s}}}",
-  },
-  {
-    d: "www.amazon.it",
-    s: "Amazon.it",
-    t: "amazonit",
-    u: "https://www.amazon.it/s/s?k={{{s}}}",
-  },
-  {
     d: "www.amazon.com",
     s: "Amazon MP3 Store",
     t: "amazonmp3",
@@ -784,12 +736,6 @@ export const bangs = [
     s: "Amazon.com.tr",
     t: "amazontr",
     u: "https://www.amazon.com.tr/s?k={{{s}}}",
-  },
-  {
-    d: "www.amazon.co.uk",
-    s: "Amazon.co.uk",
-    t: "amazonuk",
-    u: "https://www.amazon.co.uk/s?k={{{s}}}",
   },
   {
     d: "www.amazon.ca",
@@ -882,12 +828,6 @@ export const bangs = [
     u: "http://slist.amiami.com/top/search/list?s_keywords={{{s}}}",
   },
   {
-    d: "www.amazon.in",
-    s: "Amazon India",
-    t: "amin",
-    u: "https://www.amazon.in/s?k={{{s}}}",
-  },
-  {
     d: "aminet.net",
     s: "Aminet",
     t: "aminet",
@@ -898,12 +838,6 @@ export const bangs = [
     s: "Have I Been Pwned?",
     t: "amipwned",
     u: "https://haveibeenpwned.com/account/{{{s}}}",
-  },
-  {
-    d: "www.amazon.it",
-    s: "Amazon.it",
-    t: "amit",
-    u: "https://www.amazon.it/s?k={{{s}}}",
   },
   {
     d: "marketplace.atlassian.com",
@@ -984,24 +918,6 @@ export const bangs = [
     u: "http://smile.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords={{{s}}}",
   },
   {
-    d: "smile.amazon.co.uk",
-    s: "Amazon Smile (UK)",
-    t: "amsuk",
-    u: "https://smile.amazon.co.uk/s?field-keywords={{{s}}}",
-  },
-  {
-    d: "www.amazon.co.uk",
-    s: "Amazon.co.uk",
-    t: "amuk",
-    u: "https://www.amazon.co.uk/s?k={{{s}}}",
-  },
-  {
-    d: "www.amazon.co.uk",
-    s: "Amazon.co.uk MP3",
-    t: "amukmp3",
-    u: "https://www.amazon.co.uk/s?k={{{s}}}&i=digital-music",
-  },
-  {
     d: "www.amazon.com",
     s: "Amazon.com",
     t: "amus",
@@ -1042,12 +958,6 @@ export const bangs = [
     s: "Amazon Books",
     t: "amzbks",
     u: "https://www.amazon.com/s?k={{{s}}}&i=stripbooks",
-  },
-  {
-    d: "www.amazon.in",
-    s: "Amazon India",
-    t: "amznin",
-    u: "https://www.amazon.in/s?k={{{s}}}",
   },
   {
     d: "anarchy101.org",
@@ -1230,12 +1140,6 @@ export const bangs = [
     u: "https://docs.angularjs.org/?as_q={{{s}}}",
   },
   {
-    d: "library.angus.gov.uk",
-    s: "Angus Libraries Catalogue",
-    t: "anguscatalogue",
-    u: "http://library.angus.gov.uk/ipac20/ipac.jsp?session=138BN7L458484.310312&menu=search&aspect=subtab184&npp=10&ipp=20&spp=20&profile=ang--7&ri=&term={{{s}}}&index=.AW&x=-354&y=-218&aspect=subtab184&term=&index=.TW&term=&index=.SE&term=&index=.SW&term=&index=BSTLLR&sort=",
-  },
-  {
     d: "anilist.co",
     s: "Anilist",
     t: "ani",
@@ -1396,12 +1300,6 @@ export const bangs = [
     s: "Amazon Prime Now",
     t: "aNOW",
     u: "https://primenow.amazon.com/search?k={{{s}}} ",
-  },
-  {
-    d: "www.ansa.it",
-    s: "Ansa",
-    t: "ansa",
-    u: "http://www.ansa.it/ricerca/index.jsp?si=1&ns=10&sb=date&lang=it&home=%2Fweb&search=1&c=webarchive&qt={{{s}}}&radio-search=ansa&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23009C41%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A10578b%3BLC%3A10578b%3BT%3A000000%3BGFNT%3A10578b%3BGIMP%3A10578b%3BFORID%3A11&hl=it&client=pub-2538762546398839",
   },
   {
     d: "docs.ansible.com",
@@ -1638,12 +1536,6 @@ export const bangs = [
     u: "https://apility.io/search/{{{s}}}",
   },
   {
-    d: "academicprogress.in",
-    s: "Academic Progress India",
-    t: "apin",
-    u: "https://academicprogress.in/library/search/?q={{{s}}}",
-  },
-  {
     d: "careers.activision.com",
     s: "Activision Careers",
     t: "apinc",
@@ -1780,12 +1672,6 @@ export const bangs = [
     s: "WineHQ AppDB",
     t: "appdb",
     u: "http://www.winehq.org/search?cx=partner-pub-0971840239976722%3Aw9sqbcsxtyf&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&siteurl=appdb.winehq.org%2F&ref=www.winehq.org%2Fsearch%2F%3Fcx%3Dpartner-pub-0971840239976722%253Aw9sqbcsxtyf%26cof%3DFORID%253A10%26ie%3DUTF-8%26q%3Dsomething&ss=674j114846j5",
-  },
-  {
-    d: "appear.in",
-    s: "Appear.in chat",
-    t: "appear",
-    u: "https://appear.in/{{{s}}}",
   },
   {
     d: "code.google.com",
@@ -2242,12 +2128,6 @@ export const bangs = [
     u: "http://www.glyphweb.com/arda/search.asp?search={{{s}}}",
   },
   {
-    d: "www.ardmoor.co.uk",
-    s: "ArdMoor",
-    t: "ardmoor",
-    u: "https://www.ardmoor.co.uk/search/{{{s}}}",
-  },
-  {
     d: "arduino.stackexchange.com",
     s: "Arduino Stack Exchange",
     t: "arduino",
@@ -2284,22 +2164,10 @@ export const bangs = [
     u: "https://duckduckgo.com/?q={{{s}}}+site%3Aar15.com&ia=web",
   },
   {
-    d: "www.argos.co.uk",
-    s: "http://www.argos.co.uk",
-    t: "argos",
-    u: "http://www.argos.co.uk/search/{{{s}}}",
-  },
-  {
     d: "www.argos.ie",
     s: "Argos Ireland",
     t: "argosie",
     u: "http://www.argos.ie/webapp/wcs/stores/servlet/Search?storeId=10152&catalogId=14551&langId=111&searchTerms={{{s}}}",
-  },
-  {
-    d: "www.aria.co.uk",
-    s: "Aria",
-    t: "aria",
-    u: "http://www.aria.co.uk/Products?search={{{s}}}",
   },
   {
     d: "whois.arin.net",
@@ -2390,30 +2258,6 @@ export const bangs = [
     s: "Ars Technica",
     t: "arstechnica",
     u: "https://arstechnica.com/search/?q={{{s}}}",
-  },
-  {
-    d: "arstechnica.co.uk",
-    s: "Ars Technica UK",
-    t: "arstechnicauk",
-    u: "http://arstechnica.co.uk/search/?query={{{s}}}",
-  },
-  {
-    d: "arstechnica.co.uk",
-    s: "Ars Technica UK",
-    t: "arsuk",
-    u: "http://arstechnica.co.uk/search/?query={{{s}}}",
-  },
-  {
-    d: "www.artdiscount.co.uk",
-    s: "ArtDiscount",
-    t: "artd",
-    u: "https://www.artdiscount.co.uk/catalogsearch/result/?cat=0&q={{{s}}} ",
-  },
-  {
-    d: "www.artdiscount.co.uk",
-    s: "ArtDiscount",
-    t: "artdiscount",
-    u: "https://www.artdiscount.co.uk/catalogsearch/result/?cat=0&q={{{s}}}",
   },
   {
     d: "www.arte.tv",
@@ -2686,12 +2530,6 @@ export const bangs = [
     u: "https://www.asthamobileshop.ml/_/search?query={{{s}}}",
   },
   {
-    d: "smile.amazon.co.uk",
-    s: "Amazon Smile (UK)",
-    t: "asmuk",
-    u: "https://smile.amazon.co.uk/s?field-keywords={{{s}}}",
-  },
-  {
     d: "www.ultratools.com",
     s: "Ultratools",
     t: "asnumber",
@@ -2744,12 +2582,6 @@ export const bangs = [
     s: "AstroBin",
     t: "astrobin",
     u: "http://www.astrobin.com/search/?q={{{s}}}&search_type=1&solar_system_main_subject=&telescope_type=any&camera_type=any&aperture_min=&aperture_max=&pixel_size_min=&pixel_size_max=&start_date=&end_date=&integration_min=&integration_max=&moon_phase_min=&moon_phase_max=",
-  },
-  {
-    d: "smile.amazon.co.uk",
-    s: "Amazon Smile (UK)",
-    t: "asuk",
-    u: "https://smile.amazon.co.uk/s?field-keywords={{{s}}}",
   },
   {
     d: "www.asus.com",
@@ -2962,12 +2794,6 @@ export const bangs = [
     u: "http://www.audible.com/search?advsearchKeywords={{{s}}}",
   },
   {
-    d: "www.audible.co.uk",
-    s: "Audible UK",
-    t: "audibleuk",
-    u: "http://www.audible.co.uk/search/?advsearchKeywords={{{s}}}&filterby=field-keywords&x=0&y=0",
-  },
-  {
     d: "fr.audiofanzine.com",
     s: "Audiofanzine",
     t: "audiofanzine",
@@ -3008,18 +2834,6 @@ export const bangs = [
     s: "National Audubon Society",
     t: "audubon",
     u: "http://www.audubon.org/search/node?keys={{{s}}}",
-  },
-  {
-    d: "www.amazon.co.uk",
-    s: "Amazon.co.uk",
-    t: "a.uk",
-    u: "https://www.amazon.co.uk/s?k={{{s}}}",
-  },
-  {
-    d: "www.amazon.co.uk",
-    s: "Amazon.co.uk",
-    t: "auk",
-    u: "https://www.amazon.co.uk/s?k={{{s}}}",
   },
   {
     d: "aur4.archlinux.org",
@@ -3092,12 +2906,6 @@ export const bangs = [
     s: "Autoblip",
     t: "autoblip",
     u: "http://www.autoblip.com/used/{{{s}}} ",
-  },
-  {
-    d: "www.autocar.co.uk",
-    s: "Autocar.co.uk",
-    t: "autocar",
-    u: "http://www.autocar.co.uk/SearchResults.aspx?q={{{s}}}",
   },
   {
     d: "www.autosar.org",
@@ -3356,12 +3164,6 @@ export const bangs = [
     s: "AZspot",
     t: "azs",
     u: "https://azspot.net/search/{{{s}}}",
-  },
-  {
-    d: "www.amazon.co.uk",
-    s: "Amazon UK",
-    t: "azuk",
-    u: "https://www.amazon.co.uk/s?k={{{s}}}",
   },
   {
     d: "azure.microsoft.com",
@@ -3795,46 +3597,10 @@ export const bangs = [
     u: "https://bitbucket.org/repo/all/?name={{{s}}}",
   },
   {
-    d: "www.bbc.co.uk",
-    s: "BBC.co.uk",
-    t: "bbc",
-    u: "http://www.bbc.co.uk/search/?q={{{s}}}",
-  },
-  {
-    d: "www.bbc.co.uk",
-    s: "BBC Food",
-    t: "bbcfood",
-    u: "http://www.bbc.co.uk/food/recipes/search?keywords={{{s}}}&x=0&y=0",
-  },
-  {
     d: "www.bbcgoodfood.com",
     s: "BBC Good Food",
     t: "bbcgf",
     u: "http://www.bbcgoodfood.com/search/recipes?query={{{s}}}",
-  },
-  {
-    d: "www.bbc.co.uk",
-    s: "BBC iPlayer",
-    t: "bbci",
-    u: "http://www.bbc.co.uk/iplayer/search?q={{{s}}}",
-  },
-  {
-    d: "www.bbc.co.uk",
-    s: "BBC Mundo",
-    t: "bbcm",
-    u: "http://www.bbc.co.uk/mundo/search/?q={{{s}}}",
-  },
-  {
-    d: "www.bbc.co.uk",
-    s: "BBC Music",
-    t: "bbcmusic",
-    u: "http://www.bbc.co.uk/music/search-results?q={{{s}}}",
-  },
-  {
-    d: "www.bbc.co.uk",
-    s: "BBC News",
-    t: "bbcnews",
-    u: "http://www.bbc.co.uk/search/news/?q={{{s}}}",
   },
   {
     d: "search.bodybuilding.com",
@@ -3843,40 +3609,16 @@ export const bangs = [
     u: "https://search.bodybuilding.com/slp/full?context=all&query={{{s}}}",
   },
   {
-    d: "www.bbc.co.uk",
-    s: "BBC Resources",
-    t: "bbcr",
-    u: "http://www.bbc.co.uk/search?q={{{s}}}",
-  },
-  {
     d: "bitbucket.org",
     s: "Bitbucket Code Search",
     t: "bbcs",
     u: "https://bitbucket.org/search?q={{{s}}}",
   },
   {
-    d: "www.bbc.co.uk",
-    s: "BBC Sport",
-    t: "bbcsport",
-    u: "http://www.bbc.co.uk/search/sport/{{{s}}}?video=on&audio=on&text=on",
-  },
-  {
-    d: "www.bbc.co.uk",
-    s: "BBC Weather",
-    t: "bbcw",
-    u: "https://www.bbc.co.uk/weather/search?s={{{s}}}",
-  },
-  {
     d: "developer.blackberry.com",
     s: "BlackBerry Developer",
     t: "bbdev",
     u: "https://developer.blackberry.com/native/search/?search={{{s}}}&searchaction=Search",
-  },
-  {
-    d: "www.bbfc.co.uk",
-    s: "British Board of Film Classification",
-    t: "bbfc",
-    u: "http://www.bbfc.co.uk/search/releases/{{{s}}}",
   },
   {
     d: "www.bing.com",
@@ -4041,12 +3783,6 @@ export const bangs = [
     u: "http://bandcamp.com/tag/{{{s}}}",
   },
   {
-    d: "bct.comperio.it",
-    s: "Biblioteche civiche torinesi",
-    t: "bct",
-    u: "http://bct.comperio.it/opac/search/lst?q={{{s}}}",
-  },
-  {
     d: "www.blockchainwalls.com",
     s: "Blockchainwalls",
     t: "bcwalls",
@@ -4057,12 +3793,6 @@ export const bangs = [
     s: "Box Critters Wiki",
     t: "bcw",
     u: "https://boxcritters.wiki/?search={{{s}}}",
-  },
-  {
-    d: "en.bitcoin.it",
-    s: "Bitcoin Wiki",
-    t: "bcwiki",
-    u: "https://en.bitcoin.it/w/index.php?title=Special%3ASearch&search={{{s}}}",
   },
   {
     d: "www.bing.com",
@@ -4159,12 +3889,6 @@ export const bangs = [
     s: "because.moe",
     t: "because",
     u: "http://because.moe/?q={{{s}}}",
-  },
-  {
-    d: "www.bournemouthecho.co.uk",
-    s: "Bournemouth Echo",
-    t: "becho",
-    u: "https://www.bournemouthecho.co.uk/search/?search={{{s}}}",
   },
   {
     d: "www.bedbathandbeyond.com",
@@ -4436,12 +4160,6 @@ export const bangs = [
     u: "http://www.buzzfeed.com/search?q={{{s}}}",
   },
   {
-    d: "www.bfi.org.uk",
-    s: "British Film Institute",
-    t: "bfi",
-    u: "https://www.bfi.org.uk/search/search-bfi/{{{s}}}",
-  },
-  {
     d: "www.bfm.my",
     s: "BFM: The Business Radio Station",
     t: "bfm899",
@@ -4514,12 +4232,6 @@ export const bangs = [
     u: "http://bgp.he.net/search?search%5Bsearch%5D={{{s}}}&commit=Search",
   },
   {
-    d: "boardgameprices.co.uk",
-    s: "BoardGamePrices",
-    t: "bgpuk",
-    u: "https://boardgameprices.co.uk/item/search?search={{{s}}}",
-  },
-  {
     d: "www.boardgamesearch.com.au",
     s: "Board Game Search (Australia)",
     t: "bgs",
@@ -4554,12 +4266,6 @@ export const bangs = [
     s: "bhive.org",
     t: "bhive",
     u: "https://www.bhive.org/?s={{{s}}}",
-  },
-  {
-    d: "www.british-history.ac.uk",
-    s: "British History Online",
-    t: "bho",
-    u: "http://www.british-history.ac.uk/search?query={{{s}}}",
   },
   {
     d: "www.bhphotovideo.com",
@@ -4652,12 +4358,6 @@ export const bangs = [
     u: "http://biblio.com/search.php?keyisbn={{{s}}}",
   },
   {
-    d: "milano.biblioteche.it",
-    s: "Sistema Bibliotecario di Milano",
-    t: "bibliomi",
-    u: "https://milano.biblioteche.it/opac/search/lst?q={{{s}}}",
-  },
-  {
     d: "bibliotek.dk",
     s: "Bibliotek.dk",
     t: "bibliotek",
@@ -4680,12 +4380,6 @@ export const bangs = [
     s: "BibSonomy",
     t: "bibsonomy",
     u: "http://www.bibsonomy.org/search/{{{s}}}",
-  },
-  {
-    d: "onesearch.unipi.it",
-    s: "Onesearch Unipi",
-    t: "bibunipi",
-    u: "http://onesearch.unipi.it/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=39UPI_V1&frbg=&tb=t&vl(freeText0)={{{s}}}&scp.scps=scope%3A(39UPI)%2C39UPI_EbscoLocal%2Cprimo_central_multiple_fe",
   },
   {
     d: "bitinfocharts.com",
@@ -4862,12 +4556,6 @@ export const bangs = [
     u: "https://www.bing.com/maps/?q={{{s}}}&obox=1",
   },
   {
-    d: "bing.co.uk",
-    s: "Bing UK",
-    t: "Binguk",
-    u: "http://bing.co.uk/?q={{{s}}}",
-  },
-  {
     d: "www.bing.com",
     s: "Bing",
     t: "bingvideos",
@@ -4992,12 +4680,6 @@ export const bangs = [
     s: "Blockchain.info",
     t: "bitcoin",
     u: "https://blockchain.info/search?search={{{s}}}",
-  },
-  {
-    d: "www.bbc.co.uk",
-    s: "BBC GCSE Bitesize",
-    t: "bitesizegcse",
-    u: "http://www.bbc.co.uk/schools/gcsebitesize/search/index.shtml?scope=gcsebitesize_include&q={{{s}}}",
   },
   {
     d: "wiki.bitlair.nl",
@@ -5132,12 +4814,6 @@ export const bangs = [
     u: "http://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a{{{s}}}&run=toolpage",
   },
   {
-    d: "blackwells.co.uk",
-    s: "Blackwell's",
-    t: "blackwells",
-    u: "https://blackwells.co.uk/bookshop/search/?keyword={{{s}}}",
-  },
-  {
     d: "www.bladehq.com",
     s: "BladeHQ",
     t: "bladehq",
@@ -5252,12 +4928,6 @@ export const bangs = [
     u: "http://www.bloomberg.com/search?query={{{s}}}",
   },
   {
-    d: "searcharchives.bl.uk",
-    s: "British Library Explore Archives and Manuscripts",
-    t: "blms",
-    u: "http://searcharchives.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}",
-  },
-  {
     d: "www.blendernation.com",
     s: "Blender Nation",
     t: "bln",
@@ -5336,12 +5006,6 @@ export const bangs = [
     u: "http://bloons.wikia.com/search?query={{{s}}}",
   },
   {
-    d: "explore.bl.uk",
-    s: "The British Library Catalogue",
-    t: "bl",
-    u: "http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}",
-  },
-  {
     d: "blueapron.com",
     s: "Blue Apron",
     t: "blueapron",
@@ -5364,18 +5028,6 @@ export const bangs = [
     s: "Bluelight",
     t: "bluelight",
     u: "http://cse.google.com/cse?cx=009513296995230692334:6ksgwcos37i&q={{{s}}}",
-  },
-  {
-    d: "rsw.me.uk",
-    s: "Blueline",
-    t: "blueline",
-    u: "https://rsw.me.uk/blueline/methods/search?q={{{s}}}",
-  },
-  {
-    d: "explore.bl.uk",
-    s: "The British Library Catalogue",
-    t: "bluk",
-    u: "http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}",
   },
   {
     d: "www.blu-ray.com",
@@ -5714,12 +5366,6 @@ export const bangs = [
     u: "https://www.amazon.com/s?k={{{s}}}&i=stripbooks",
   },
   {
-    d: "www.booksetc.co.uk",
-    s: "Books etc UK",
-    t: "booksetc",
-    u: "http://www.booksetc.co.uk/books/search?q={{{s}}}",
-  },
-  {
     d: "boomkat.com",
     s: "boomkat",
     t: "boomkat",
@@ -6038,12 +5684,6 @@ export const bangs = [
     u: "http://brickset.com/sets?query={{{s}}}",
   },
   {
-    d: "www.bricoman.it",
-    s: "Bricoman",
-    t: "bricoman",
-    u: "https://www.bricoman.it/search/?q={{{s}}}",
-  },
-  {
     d: "www.brightstorm.com",
     s: "Brightstorm",
     t: "brightstorm",
@@ -6090,12 +5730,6 @@ export const bangs = [
     s: "Britannica ImageQuest",
     t: "britimgq",
     u: "http://quest.eb.com/search/{{{s}}}",
-  },
-  {
-    d: "www.britishslang.co.uk",
-    s: "British Slang",
-    t: "british",
-    u: "http://www.britishslang.co.uk/search/default.aspx?q={{{s}}}",
   },
   {
     d: "school.eb.com",
@@ -6941,12 +6575,6 @@ export const bangs = [
     u: "https://fr.camelcamelcamel.com/search?sq={{{s}}}",
   },
   {
-    d: "www.camerapricebuster.co.uk",
-    s: "Camera Price Buster",
-    t: "camerapb",
-    u: "https://www.camerapricebuster.co.uk/Search?q={{{s}}}",
-  },
-  {
     d: "dictionary.cambridge.org",
     s: "Cambridge Dictionary Spanish-English",
     t: "camesen",
@@ -6963,12 +6591,6 @@ export const bangs = [
     s: "Cambridge University Press",
     t: "camg",
     u: "http://dictionary.cambridge.org/us/grammar/british-grammar/{{{s}}}",
-  },
-  {
-    d: "idiscover.lib.cam.ac.uk",
-    s: "University of Cambridge Libraries iDiscover",
-    t: "camlib",
-    u: "http://idiscover.lib.cam.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=cam_lib_coll&search_scope=SCOP_CAM_ALL&vid=44CAM_PROD&lang=en_US&offset=0",
   },
   {
     d: "dictionary.cambridge.org",
@@ -6993,12 +6615,6 @@ export const bangs = [
     s: "Cambridge Traditional Chinese",
     t: "camtw",
     u: "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/{{{s}}}",
-  },
-  {
-    d: "search.cam.ac.uk",
-    s: "University of Cambridge",
-    t: "cam",
-    u: "http://search.cam.ac.uk/web?query={{{s}}}",
   },
   {
     d: "recherche-search.gc.ca",
@@ -7034,30 +6650,6 @@ export const bangs = [
     s: "Candlestick Patterns",
     t: "candlestickpatterns",
     u: "http://www.candlestickpatterns.org/?s={{{s}}}",
-  },
-  {
-    d: "www.canistream.it",
-    s: "Can I Stream It?",
-    t: "canistream",
-    u: "http://www.canistream.it/search/term/{{{s}}}",
-  },
-  {
-    d: "www.canistream.it",
-    s: "Can I Stream It",
-    t: "canistreamit",
-    u: "http://www.canistream.it/search/term/{{{s}}}",
-  },
-  {
-    d: "www.canistream.it",
-    s: "canistream.it",
-    t: "canistreammovie",
-    u: "http://www.canistream.it/search/movie/{{{s}}}",
-  },
-  {
-    d: "www.canistream.it",
-    s: "canistream.it",
-    t: "canistreamtv",
-    u: "http://www.canistream.it/search/tv/{{{s}}}",
   },
   {
     d: "caniuse.com",
@@ -7102,12 +6694,6 @@ export const bangs = [
     u: "http://cantonese.org/search.php?q={{{s}}}",
   },
   {
-    d: "www.cantonese.sheik.co.uk",
-    s: "CantoDict",
-    t: "cantodict",
-    u: "http://www.cantonese.sheik.co.uk/dictionary/search/?searchtype=1&text={{{s}}}",
-  },
-  {
     d: "coinmarketcap.com",
     s: "CoinMarketCap",
     t: "cap",
@@ -7150,12 +6736,6 @@ export const bangs = [
     u: "http://www.calorieking.com.au/foods/search.php?keywords={{{s}}}&showresults=yes&go=Search",
   },
   {
-    d: "www.carmagazine.co.uk",
-    s: "CarMagazine.co.uk",
-    t: "car",
-    u: "http://www.carmagazine.co.uk/GLOBAL/Search-Results/?N=0&Ntx=mode%20matchallpartial&Ntk=site&Ntt={{{s}}}",
-  },
-  {
     d: "www.cardboardconnection.com",
     s: "https://www.cardboardconnection.com/",
     t: "cardboard",
@@ -7184,12 +6764,6 @@ export const bangs = [
     s: "CarJam",
     t: "carjam",
     u: "https://carjam.co.nz/car/?plate={{{s}}}",
-  },
-  {
-    d: "www.carmagazine.co.uk",
-    s: "CarMagazine.co.uk",
-    t: "carmag",
-    u: "http://www.carmagazine.co.uk/GLOBAL/Search-Results/?N=0&Ntx=mode%20matchallpartial&Ntk=site&Ntt={{{s}}}",
   },
   {
     d: "www.carmax.com",
@@ -7232,12 +6806,6 @@ export const bangs = [
     s: "casetext",
     t: "casetext",
     u: "https://casetext.com/search?q={{{s}}}",
-  },
-  {
-    d: "www.cashoverflow.in",
-    s: "CashOverflow",
-    t: "cashoverflow",
-    u: "http://www.cashoverflow.in/?s={{{s}}} ",
   },
   {
     d: "castbox.fm",
@@ -7346,12 +6914,6 @@ export const bangs = [
     s: "Artikelen van het CBS",
     t: "cbs",
     u: "https://www.cbs.nl/nl-nl/zoeken/?query={{{s}}}",
-  },
-  {
-    d: "www.cbservicedetersivi.it",
-    s: "CB Service",
-    t: "cbservice",
-    u: "http://www.cbservicedetersivi.it/?s={{{s}}}",
   },
   {
     d: "search.cbsnews.com",
@@ -8024,12 +7586,6 @@ export const bangs = [
     u: "http://chakraos.org/wiki/index.php?search={{{s}}}&go=Go",
   },
   {
-    d: "chambers.co.uk",
-    s: "Chambers",
-    t: "chambers",
-    u: "http://chambers.co.uk/search.php?query={{{s}}}&title=21st",
-  },
-  {
     d: "championrunner.com",
     s: "Champion runner",
     t: "champion",
@@ -8264,12 +7820,6 @@ export const bangs = [
     u: "http://www.chicagotribune.com/search/dispatcher.front?Query={{{s}}}&sortby=display_time+descending&subheader-search-button=Go&target=article",
   },
   {
-    d: "www.chichester.gov.uk",
-    s: "Chichester District Council",
-    t: "chichester",
-    u: "http://www.chichester.gov.uk/article/23353/Search?q={{{s}}}",
-  },
-  {
     d: "wiki.call-cc.org",
     s: "Chicken Scheme",
     t: "chicken",
@@ -8455,12 +8005,6 @@ export const bangs = [
     u: "http://chuck-nbc.wikia.com/wiki/Special:Search?search={{{s}}}",
   },
   {
-    d: "beta.companieshouse.gov.uk",
-    s: "Companies House",
-    t: "chuk",
-    u: "https://beta.companieshouse.gov.uk/search?q={{{s}}}",
-  },
-  {
     d: "www.churchclarity.org",
     s: "Church Clarity",
     t: "churchclarity",
@@ -8513,12 +8057,6 @@ export const bangs = [
     s: "Cinemassacre",
     t: "cine",
     u: "http://cinemassacre.com/?s={{{s}}}&search.x=0&search.y=0",
-  },
-  {
-    d: "www.cinemagay.it",
-    s: "CinemaGay",
-    t: "cinemagay",
-    u: "http://www.cinemagay.it/ricerca.asp?tipo=0&campo={{{s}}}&Submit=Cerca",
   },
   {
     d: "www.cineycortosgay.com",
@@ -8687,12 +8225,6 @@ export const bangs = [
     s: "Clark Howard",
     t: "clark",
     u: "https://clark.com/search/?q={{{s}}}",
-  },
-  {
-    d: "www.clarks.co.uk",
-    s: "Clarks",
-    t: "clarks",
-    u: "https://www.clarks.co.uk/search/?text={{{s}}}",
   },
   {
     d: "www.clasohlson.com",
@@ -8999,12 +8531,6 @@ export const bangs = [
     s: "Chicago Music Exchange",
     t: "cme",
     u: "https://www.chicagomusicexchange.com/search?query={{{s}}}",
-  },
-  {
-    d: "library.cmi.ac.in",
-    s: "CMI Library",
-    t: "cmi",
-    u: "http://library.cmi.ac.in/cgi-bin/koha/opac-search.pl?q={{{s}}}",
   },
   {
     d: "catalog.clcohio.org",
@@ -9319,12 +8845,6 @@ export const bangs = [
     u: "https://coinmarketcap.com/currencies/search/?q={{{s}}}",
   },
   {
-    d: "www.londoncoins.co.uk",
-    s: "London Coins",
-    t: "coins",
-    u: "http://www.londoncoins.co.uk/?page=Pastresults&searchterm={{{s}}}&searchtype=1",
-  },
-  {
     d: "www.colourbox.com",
     s: "Colourbox",
     t: "col",
@@ -9445,12 +8965,6 @@ export const bangs = [
     u: "https://www.comixology.eu/search?search={{{s}}} ",
   },
   {
-    d: "www.comixology.co.uk",
-    s: "ComiXology UK",
-    t: "comixuk",
-    u: "https://www.comixology.co.uk/search?search={{{s}}}&submit=Submit",
-  },
-  {
     d: "www.commitstrip.com",
     s: "Commit Strip",
     t: "commitstrip",
@@ -9467,12 +8981,6 @@ export const bangs = [
     s: "Wikimedia Commons",
     t: "commons",
     u: "https://commons.wikimedia.org/w/index.php?search={{{s}}}",
-  },
-  {
-    d: "beta.companieshouse.gov.uk",
-    s: "UK Companies House",
-    t: "companieshouse",
-    u: "https://beta.companieshouse.gov.uk/search/companies?q={{{s}}}",
   },
   {
     d: "compass-style.org",
@@ -9792,12 +9300,6 @@ export const bangs = [
     u: "http://www.xe.com/currencyconverter/convert/?From=COP&To=USD&Amount={{{s}}}",
   },
   {
-    d: "copac.ac.uk",
-    s: "COPAC",
-    t: "copac",
-    u: "http://copac.ac.uk/search?&title={{{s}}}",
-  },
-  {
     d: "coppermind.net",
     s: "The Coppermind",
     t: "coppermind",
@@ -9816,22 +9318,10 @@ export const bangs = [
     u: "http://coptr.digipres.org/index.php?search={{{s}}}",
   },
   {
-    d: "www.cornishdictionary.org.uk",
-    s: "Cornish-English Dictionary",
-    t: "cor",
-    u: "https://www.cornishdictionary.org.uk/home?locale=en#{{{s}}}",
-  },
-  {
     d: "plugins.cordova.io",
     s: "Apache Cordova Plugins Registry",
     t: "cordovapl",
     u: "http://plugins.cordova.io/#/search?search={{{s}}}",
-  },
-  {
-    d: "core.ac.uk",
-    s: "CORE",
-    t: "core",
-    u: "https://core.ac.uk/search?q={{{s}}}",
   },
   {
     d: "coronalabs.com",
@@ -9844,12 +9334,6 @@ export const bangs = [
     s: "opencorporates",
     t: "corp",
     u: "https://opencorporates.com/companies?q={{{s}}}",
-  },
-  {
-    d: "sitesearch.corriere.it",
-    s: "Corriere della Sera",
-    t: "corriere",
-    u: "http://sitesearch.corriere.it/forward.jsp?q={{{s}}}",
   },
   {
     d: "consequenceofsound.net",
@@ -10120,12 +9604,6 @@ export const bangs = [
     s: "Collins Dictionary (Portuguese - English)",
     t: "cpten",
     u: "https://www.collinsdictionary.com/dictionary/portuguese-english/{{{s}}}",
-  },
-  {
-    d: "www.cpugeek.co.uk",
-    s: "TheComputerGeek",
-    t: "cpu",
-    u: "https://www.cpugeek.co.uk/search?q={{{s}}}",
   },
   {
     d: "www.cpu-world.com",
@@ -10752,12 +10230,6 @@ export const bangs = [
     u: "https://cuchilleriaalbacete.com/articulos-buscar.php?busco={{{s}}}",
   },
   {
-    d: "cudl.lib.cam.ac.uk",
-    s: "Cambridge Digital Library",
-    t: "cudl",
-    u: "https://cudl.lib.cam.ac.uk/search?keyword={{{s}}}",
-  },
-  {
     d: "newcatalog.library.cornell.edu",
     s: "Cornell University Library",
     t: "cul",
@@ -10810,12 +10282,6 @@ export const bangs = [
     s: "Cambridge University Press",
     t: "cup",
     u: "https://www.cambridge.org/gb/search?query={{{s}}}",
-  },
-  {
-    d: "www.cuprinol.co.uk",
-    s: "Cuprinol UK",
-    t: "cuprinoluk",
-    u: "http://www.cuprinol.co.uk/servlet/SiteAdvancedSearchHandler?searchtype=all&searchString={{{s}}}",
   },
   {
     d: "curia.europa.eu",
@@ -10884,18 +10350,6 @@ export const bangs = [
     u: "http://www.cvmarket.lt/joboffers.php?op=search&search%5Bkeyword%5D={{{s}}}",
   },
   {
-    d: "www.cvo.co.uk",
-    s: "CVO",
-    t: "cvo",
-    u: "http://www.cvo.co.uk/?s={{{s}}}",
-  },
-  {
-    d: "www.cvo.co.uk",
-    s: "CVO Fire",
-    t: "cvofire",
-    u: "https://www.cvo.co.uk/?s={{{s}}}",
-  },
-  {
     d: "datacvr.virk.dk",
     s: "Danish Central Business Register",
     t: "cvr",
@@ -10936,12 +10390,6 @@ export const bangs = [
     s: "Wikipedia - Cite This Page",
     t: "cwen",
     u: "https://en.wikipedia.org/wiki/Special:CiteThisPage?page={{{s}}}",
-  },
-  {
-    d: "www.cwjobs.co.uk",
-    s: "CWJobs",
-    t: "cwj",
-    u: "https://www.cwjobs.co.uk/jobs/{{{s}}}",
   },
   {
     d: "classic.wowhead.com",
@@ -11002,12 +10450,6 @@ export const bangs = [
     s: "Cycling Weekly",
     t: "cyclingweekly",
     u: "https://www.cyclingweekly.com/?s={{{s}}}",
-  },
-  {
-    d: "www.chooseyourevent.co.uk",
-    s: "Chooseyourevent.co.uk",
-    t: "cye",
-    u: "http://www.chooseyourevent.co.uk/keywordsearch.asp?searchterms={{{s}}}",
   },
   {
     d: "translate.google.com",
@@ -11124,12 +10566,6 @@ export const bangs = [
     u: "http://www.deviantart.com/browse/all/?section=&global=1&q={{{s}}}",
   },
   {
-    d: "dadtribe.in",
-    s: "https://dadtribe.in",
-    t: "dadtribe",
-    u: "https://dadtribe.in/?s={{{s}}}",
-  },
-  {
     d: "translate.google.com",
     s: "Google Translate da-en",
     t: "daen",
@@ -11170,12 +10606,6 @@ export const bangs = [
     s: "The Daily Collegian",
     t: "dailycollegian",
     u: "http://www.collegian.psu.edu/search/?f=html&q={{{s}}}",
-  },
-  {
-    d: "www.dailymail.co.uk",
-    s: "Daily Mail Online",
-    t: "dailymail",
-    u: "https://www.dailymail.co.uk/home/search.html?sel=site&searchPhrase={{{s}}}",
   },
   {
     d: "dailymed.nlm.nih.gov",
@@ -11693,12 +11123,6 @@ export const bangs = [
     u: "http://crawl.chaosforge.org/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search",
   },
   {
-    d: "capitadiscovery.co.uk",
-    s: "Dublin City University Library Catalogue",
-    t: "dcul",
-    u: "https://capitadiscovery.co.uk/dcu/items?query={{{s}}}",
-  },
-  {
     d: "wiki.dcinside.com",
     s: "DCinside wiki",
     t: "dcw",
@@ -12194,18 +11618,6 @@ export const bangs = [
     u: "http://wiki.debian.org/FrontPage?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles",
   },
   {
-    d: "www.decathlon.co.uk",
-    s: "Decathlon",
-    t: "decathlon",
-    u: "http://www.decathlon.co.uk/Buy/{{{s}}}",
-  },
-  {
-    d: "www.decathlon.it",
-    s: "Decathlon Italia",
-    t: "decathlonit",
-    u: "http://www.decathlon.it/Comprare/{{{s}}}",
-  },
-  {
     d: "urldecode.org",
     s: "UrlDecode.org",
     t: "decode",
@@ -12439,22 +11851,10 @@ export const bangs = [
     u: "http://search.euro.dell.com/results.aspx?s=gen&c=uk&l=en&cs=&k={{{s}}}&cat=all&x=0&y=0",
   },
   {
-    d: "www.delphibasics.co.uk",
-    s: "Delphi Basics",
-    t: "delphi",
-    u: "http://www.delphibasics.co.uk/RTL.asp?Name={{{s}}}",
-  },
-  {
     d: "www.deltaco.se",
     s: "Deltaco (SE)",
     t: "deltaco",
     u: "https://www.deltaco.se/Sidor/SearchResults.aspx?k={{{s}}}",
-  },
-  {
-    d: "dizionario.internazionale.it",
-    s: "Dizionario Italiano De Mauro",
-    t: "demauro",
-    u: "https://dizionario.internazionale.it/parola/{{{s}}}",
   },
   {
     d: "www.demeure-et-jardin.com",
@@ -12796,12 +12196,6 @@ export const bangs = [
     s: "De gule sider",
     t: "dgs",
     u: "http://www.degulesider.dk/person/resultat/{{{s}}}",
-  },
-  {
-    d: "delhihighcourt.nic.in",
-    s: "High Court of Delhi",
-    t: "dhc",
-    u: "http://delhihighcourt.nic.in/SiteSearch.asp?zoom_query= {{{s}}}",
   },
   {
     d: "hub.docker.com",
@@ -13266,12 +12660,6 @@ export const bangs = [
     u: "http://distrowatch.com/table.php?distribution={{{s}}}",
   },
   {
-    d: "dizionario.internazionale.it",
-    s: "Dizionario Internazionale De Mauro",
-    t: "dit",
-    u: "http://dizionario.internazionale.it/parola/{{{s}}}",
-  },
-  {
     d: "www.diva-portal.org",
     s: "DiVA - Digitala Vetenskapliga Arkivet",
     t: "diva",
@@ -13310,12 +12698,6 @@ export const bangs = [
     s: "diy.org",
     t: "diyorg",
     u: "/?q=site:diy.org+{{{s}}}",
-  },
-  {
-    d: "dizionario.internazionale.it",
-    s: "Internazionale.it",
-    t: "dizint",
-    u: "http://dizionario.internazionale.it/cerca/{{{s}}}",
   },
   {
     d: "docs.djangoproject.com",
@@ -13400,12 +12782,6 @@ export const bangs = [
     s: "docker hub",
     t: "dk",
     u: "https://store.docker.com/search?q={{{s}}}",
-  },
-  {
-    d: "www.digikey.it",
-    s: "Digikey Italy",
-    t: "dkit",
-    u: "http://www.digikey.it/products/it?keywords={{{s}}}",
   },
   {
     d: "ordnet.dk",
@@ -13785,12 +13161,6 @@ export const bangs = [
     u: "http://documentaryheaven.com/find/?q={{{s}}}",
   },
   {
-    d: "www.dodax.it",
-    s: "dodax.it",
-    t: "dodaxit",
-    u: "https://www.dodax.it/it-it/search/?s={{{s}}}",
-  },
-  {
     d: "www.digitalocean.com",
     s: "DigitalOcean",
     t: "do",
@@ -14065,12 +13435,6 @@ export const bangs = [
     s: "Down For Everyone Or Just Me",
     t: "down4me",
     u: "https://downforeveryoneorjustme.com/{{{s}}}",
-  },
-  {
-    d: "downdetector.co.uk",
-    s: "Downdetector",
-    t: "downd",
-    u: "https://downdetector.co.uk/search/?q={{{s}}}",
   },
   {
     d: "downforeveryoneorjustme.com",
@@ -14797,18 +14161,6 @@ export const bangs = [
     u: "http://library.duke.edu/find/all?Ntt={{{s}}} ",
   },
   {
-    d: "www.duluxdecoratorcentre.co.uk",
-    s: "Dulux Decorator Centre",
-    t: "duluxdc",
-    u: "http://www.duluxdecoratorcentre.co.uk/servlet/SiteAdvancedSearchHandler?searchString={{{s}}}",
-  },
-  {
-    d: "www.dulux.co.uk",
-    s: "Dulux UK",
-    t: "duluxuk",
-    u: "https://www.dulux.co.uk/en/search?s={{{s}}}",
-  },
-  {
     d: "www.dummies.com",
     s: "dummies.com",
     t: "dummies",
@@ -15067,12 +14419,6 @@ export const bangs = [
     u: "http://easy-bi.org/blog/?s={{{s}}}",
   },
   {
-    d: "www.easymerchant.co.uk",
-    s: "EasyMerchant",
-    t: "easymerchant",
-    u: "https://www.easymerchant.co.uk/?product_cat=&s={{{s}}}&post_type=product",
-  },
-  {
     d: "eatbydate.com",
     s: "Eat By Date",
     t: "eatbydate",
@@ -15175,18 +14521,6 @@ export const bangs = [
     u: "https://www.ebay.ie/sch/items/?_nkw={{{s}}}",
   },
   {
-    d: "shop.ebay.in",
-    s: "ebay.in",
-    t: "ebayin",
-    u: "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories",
-  },
-  {
-    d: "www.ebay.it",
-    s: "ebay.it",
-    t: "ebayit",
-    u: "https://www.ebay.it/sch/items/?_nkw={{{s}}}",
-  },
-  {
     d: "shop.ebay.com.my",
     s: "ebay.com.my",
     t: "ebaymy",
@@ -15209,12 +14543,6 @@ export const bangs = [
     s: "ebay.com.sg",
     t: "ebaysg",
     u: "http://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories",
-  },
-  {
-    d: "www.ebay.co.uk",
-    s: "ebay.co.uk",
-    t: "ebayuk",
-    u: "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}",
   },
   {
     d: "www.befr.ebay.be",
@@ -15301,24 +14629,6 @@ export const bangs = [
     u: "https://www.ebay.ie/sch/items/?_nkw={{{s}}}",
   },
   {
-    d: "www.ebi.ac.uk",
-    s: "European Bioinformatics Institute",
-    t: "ebi",
-    u: "https://www.ebi.ac.uk/ebisearch/search.ebi?db=allebi&query={{{s}}}&requestFrom=duckduckgo",
-  },
-  {
-    d: "shop.ebay.in",
-    s: "ebay.in",
-    t: "ebin",
-    u: "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories",
-  },
-  {
-    d: "www.ebay.it",
-    s: "ebay.it",
-    t: "ebit",
-    u: "https://www.ebay.it/sch/items/?_nkw={{{s}}}",
-  },
-  {
     d: "shop.ebay.com.my",
     s: "ebay.com.my",
     t: "ebmy",
@@ -15395,12 +14705,6 @@ export const bangs = [
     s: "ebuka okories blog",
     t: "ebukaokoriesblog",
     u: "https://ebukaokorie.blogspot.com/search?q={{{s}}}",
-  },
-  {
-    d: "www.ebay.co.uk",
-    s: "ebay.co.uk",
-    t: "ebuk",
-    u: "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}",
   },
   {
     d: "www.ebuyer.com",
@@ -15541,12 +14845,6 @@ export const bangs = [
     u: "https://economictimes.indiatimes.com/topic/{{{s}}}",
   },
   {
-    d: "secure.ecs.soton.ac.uk",
-    s: "Soton Electronics and Computer Science",
-    t: "ecs",
-    u: "https://secure.ecs.soton.ac.uk/kb/search/?q={{{s}}}&s=1",
-  },
-  {
     d: "www.ecuavisa.com",
     s: "Ecuavisa (Ecuador)",
     t: "ecuavisa",
@@ -15589,12 +14887,6 @@ export const bangs = [
     u: "https://encyclopediadramatica.rs/index.php?title=Special%3ASearch&search={{{s}}}&go=Go",
   },
   {
-    d: "forums.frontier.co.uk",
-    s: "Elite Dangerous Forum",
-    t: "edf",
-    u: "https://forums.frontier.co.uk/search.php?do=process&query={{{s}}}",
-  },
-  {
     d: "everydayfeminism.com",
     s: "Everyday Feminism",
     t: "edfeminism",
@@ -15623,12 +14915,6 @@ export const bangs = [
     s: "EDHREC",
     t: "edhrec",
     u: "https://edhrec.com/cards/{{{s}}}",
-  },
-  {
-    d: "www.edinburgh.gov.uk",
-    s: "City of Edinburgh Council",
-    t: "edinburgh",
-    u: "http://www.edinburgh.gov.uk/site/scripts/google_results.php?q={{{s}}}",
   },
   {
     d: "www.editus.lu",
@@ -15799,12 +15085,6 @@ export const bangs = [
     u: "https://www.eliteguias.com/buscar.php?q={{{s}}}",
   },
   {
-    d: "www.english-heritage.org.uk",
-    s: "English Heritage",
-    t: "eh",
-    u: "https://www.english-heritage.org.uk/search?searchTerm={{{s}}}",
-  },
-  {
     d: "shop.ebay.com.hk",
     s: "ebay.com.hk",
     t: "ehk",
@@ -15841,21 +15121,9 @@ export const bangs = [
     u: "https://www.ebay.ie/sch/items/?_nkw={{{s}}}",
   },
   {
-    d: "shop.ebay.in",
-    s: "ebay.in",
-    t: "ein",
-    u: "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories",
-  },
-  {
     d: "github.com",
     s: "GitHub",
     t: "eips",
-  },
-  {
-    d: "www.ebay.it",
-    s: "ebay.it",
-    t: "eit",
-    u: "https://www.ebay.it/sch/items/?_nkw={{{s}}}",
   },
   {
     d: "duckduckgo.com",
@@ -15970,12 +15238,6 @@ export const bangs = [
     s: "Rijitsu Eleven",
     t: "elevenr",
     u: "https://eleven.rijitsu.com/?s={{{s}}}",
-  },
-  {
-    d: "eleymcqueen.blogspot.in",
-    s: "www.eleymcqueen.blogspot.in",
-    t: "eley",
-    u: "http://eleymcqueen.blogspot.in/search?q={{{s}}}",
   },
   {
     d: "www.elfa.se",
@@ -16140,12 +15402,6 @@ export const bangs = [
     u: "http://elpais.com/buscador/?qt={{{s}}}",
   },
   {
-    d: "search.theregister.co.uk",
-    s: "The Register",
-    t: "elreg",
-    u: "http://search.theregister.co.uk/?q={{{s}}}",
-  },
-  {
     d: "www.eluniverso.com",
     s: "El Universo (Ecuador)",
     t: "eluniverso",
@@ -16204,12 +15460,6 @@ export const bangs = [
     s: "Ember",
     t: "ember",
     u: "https://duckduckgo.com/?q={{{s}}}+site%3Ahttps%3A%2F%2Fapi.emberjs.com",
-  },
-  {
-    d: "www.medicines.org.uk",
-    s: "Electronic Medicines Compendium",
-    t: "emc",
-    u: "https://www.medicines.org.uk/emc/search?q= {{{s}}}",
   },
   {
     d: "motors.shop.ebay.com",
@@ -16470,12 +15720,6 @@ export const bangs = [
     u: "http://endless-sphere.com/forums/?q {{{s}}} ",
   },
   {
-    d: "www.endole.co.uk",
-    s: "Endole",
-    t: "endole",
-    u: "http://www.endole.co.uk/search/?search={{{s}}}",
-  },
-  {
     d: "translate.google.com",
     s: "Google translate en-el",
     t: "enel",
@@ -16728,12 +15972,6 @@ export const bangs = [
     u: "http://entireweb.com/?q={{{s}}}",
   },
   {
-    d: "entranceadda.in",
-    s: "EntranceAdda - Best Exam Portal",
-    t: "entrance",
-    u: "https://entranceadda.in/?s={{{s}}}",
-  },
-  {
     d: "www.ncbi.nlm.nih.gov",
     s: "Entrez",
     t: "entrez",
@@ -16932,12 +16170,6 @@ export const bangs = [
     u: "https://elpasopl.ent.sirsi.net/client/en_US/default/search/results?ln=en_US&q={{{s}}}",
   },
   {
-    d: "www.eprice.it",
-    s: "ePrice",
-    t: "epriceit",
-    u: "http://www.eprice.it/search/qs={{{s}}}&mets={{{s}}}",
-  },
-  {
     d: "spatialreference.org",
     s: "Spatial Reference",
     t: "epsg",
@@ -16948,12 +16180,6 @@ export const bangs = [
     s: "Episode World",
     t: "epw",
     u: "http://www.episodeworld.com/search/?searchitem={{{s}}}",
-  },
-  {
-    d: "www.epw.in",
-    s: "Economic Political Weekly",
-    t: "epwin",
-    u: "http://www.epw.in/search/site/{{{s}}}",
   },
   {
     d: "eq2.wikia.com",
@@ -17104,12 +16330,6 @@ export const bangs = [
     s: "explainshell.com",
     t: "esh",
     u: "http://explainshell.com/explain?cmd={{{s}}}",
-  },
-  {
-    d: "www.nintendo.co.uk",
-    s: "Nintendo eShop UK",
-    t: "eshopuk",
-    u: "https://www.nintendo.co.uk/Search/Search-299117.html?q={{{s}}}",
   },
   {
     d: "translate.google.hu",
@@ -17310,22 +16530,10 @@ export const bangs = [
     u: "http://www.ethnologue.com/search?keys={{{s}}}",
   },
   {
-    d: "ethicalrevolution.co.uk",
-    s: "Ethical Revolution",
-    t: "ethrev",
-    u: "https://ethicalrevolution.co.uk/?s={{{s}}}",
-  },
-  {
     d: "www.ethz.ch",
     s: "Seminar for statistics",
     t: "ethz",
     u: "https://www.ethz.ch/en/utils/search.html?search={{{s}}}",
-  },
-  {
-    d: "etimo.it",
-    s: "Dizionario Etimologico",
-    t: "etimo",
-    u: "http://etimo.it/?term={{{s}}}",
   },
   {
     d: "www.etools.ch",
@@ -17416,18 +16624,6 @@ export const bangs = [
     s: "European Union",
     t: "eu",
     u: "https://europa.eu/search/?QueryText={{{s}}}",
-  },
-  {
-    d: "www.ebay.co.uk",
-    s: "ebay.co.uk",
-    t: "euk",
-    u: "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}",
-  },
-  {
-    d: "www.ebay.co.uk",
-    s: "Ebay UK",
-    t: "e.uk",
-    u: "http://www.ebay.co.uk/sch/i.html?_nkw={{{s}}}",
   },
   {
     d: "www.eukeries.com",
@@ -17561,12 +16757,6 @@ export const bangs = [
     u: "https://eve-marketdata.com/price_check.php?type_name_header={{{s}}}",
   },
   {
-    d: "www.standard.co.uk",
-    s: "London Evening Standard",
-    t: "eveningstandard",
-    u: "http://www.standard.co.uk/search/site/{{{s}}} ",
-  },
-  {
     d: "eventful.com",
     s: "Eventful",
     t: "eventful",
@@ -17607,12 +16797,6 @@ export const bangs = [
     s: "Every Click",
     t: "everyclick",
     u: "http://www.everyclick.com/search?keyword={{{s}}}&filterType=&sortType=&searchArea=web&sbtn=",
-  },
-  {
-    d: "www.everyeye.it",
-    s: "Everyeye",
-    t: "everyeye",
-    u: "http://www.everyeye.it/ricerca/?q={{{s}}}",
   },
   {
     d: "www.everymac.com",
@@ -17919,12 +17103,6 @@ export const bangs = [
     s: "Factbites",
     t: "factbites",
     u: "http://www.factbites.com/topics/{{{s}}}",
-  },
-  {
-    d: "factly.in",
-    s: "Factly",
-    t: "factly",
-    u: "https://factly.in/?s={{{s}}}",
   },
   {
     d: "factornumber.com",
@@ -18503,12 +17681,6 @@ export const bangs = [
     u: "http://felleskatalogen.no/medisin/sok?sokord={{{s}}}",
   },
   {
-    d: "www.lafeltrinelli.it",
-    s: "LaFeltrinelli",
-    t: "feltrinelli",
-    u: "http://www.lafeltrinelli.it/fcom/it/home/pages/catalogo/searchresults.html?prkw={{{s}}}",
-  },
-  {
     d: "www.fer.unizg.hr",
     s: "University of Zagreb Faculty of Electrical Engineering and Computing",
     t: "fer",
@@ -18839,12 +18011,6 @@ export const bangs = [
     u: "https://www.film.tv/google-suchergebnisse.html?cx=partner-pub-3004436243331931%3A1982226405&query={{{s}}}",
   },
   {
-    d: "www.filmtv.it",
-    s: "FilmTV.it",
-    t: "filmtv",
-    u: "http://www.filmtv.it/cerca/?q={{{s}}}",
-  },
-  {
     d: "www.fimfiction.net",
     s: "FimFiction.net",
     t: "fimfic",
@@ -19005,12 +18171,6 @@ export const bangs = [
     s: "www.firstcry.com",
     t: "firstcry",
     u: "http://www.firstcry.com/search.aspx?q={{{s}}}",
-  },
-  {
-    d: "www.firstmats.co.uk",
-    s: "First Mats",
-    t: "firstmats",
-    u: "https://www.firstmats.co.uk/search?type=product&q={{{s}}}",
   },
   {
     d: "firstpagefitness.com",
@@ -19744,12 +18904,6 @@ export const bangs = [
     u: "http://www.foxnews.com/search-results/search?q={{{s}}}&submit=Search",
   },
   {
-    d: "www.foxlife.it",
-    s: "FoxLife Italia",
-    t: "foxlifeit",
-    u: "https://www.foxlife.it/search/?q={{{s}}}",
-  },
-  {
     d: "www.foxnews.com",
     s: "FoxNews",
     t: "foxnews",
@@ -19760,18 +18914,6 @@ export const bangs = [
     s: "Fox Racing",
     t: "foxracing",
     u: "https://www.foxracing.com/store/browse?_dyncharset=UTF-8&Dy=1&Nty=1&searchBox=searchBox&siteScope=ok&_D%3AsiteScope=+&autoSuggestEnabled=true&autoSuggestURL=%2Fstore%2Fassembler%3FassemblerContentCollection%3D%2Fcontent%2FShared%2FAuto-Suggest%2520Panels%26format%3Djson%26Dy%3D1%26Ntt%3D&minAutoSuggestInputLength=3&%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=search&_D%3A%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=+&Ntt={{{s}}}",
-  },
-  {
-    d: "www.foxsports.it",
-    s: "Fox Sports Italia",
-    t: "foxsportsit",
-    u: "https://www.foxsports.it/?q={{{s}}}",
-  },
-  {
-    d: "www.foyles.co.uk",
-    s: "Foyles",
-    t: "foyles",
-    u: "http://www.foyles.co.uk/qsearch/All/All?term={{{s}}}",
   },
   {
     d: "duckduckgo.com",
@@ -19858,12 +19000,6 @@ export const bangs = [
     u: "https://frack.nl/w/index.php?title=Special%3ASearch&search={{{s}}}",
   },
   {
-    d: "www.friday-ad.co.uk",
-    s: "Friday Ad",
-    t: "frad",
-    u: "https://www.friday-ad.co.uk/uk/search/?keywords={{{s}}}",
-  },
-  {
     d: "www.fragrantica.com",
     s: "Fragrantica",
     t: "fragrantica",
@@ -19898,12 +19034,6 @@ export const bangs = [
     s: "Franskt Lexikon",
     t: "frax",
     u: "https://www.fransktlexikon.se/{{{s}}}",
-  },
-  {
-    d: "fraze.it",
-    s: "FrazeIt",
-    t: "frazeit",
-    u: "http://fraze.it/n_search.jsp?q={{{s}}}",
   },
   {
     d: "research.stlouisfed.org",
@@ -19994,12 +19124,6 @@ export const bangs = [
     s: "Freepik",
     t: "freepik",
     u: "http://www.freepik.com/index.php?goto=2&searchform=1&k={{{s}}}",
-  },
-  {
-    d: "www.freesfx.co.uk",
-    s: "freeSFX",
-    t: "freesfx",
-    u: "http://www.freesfx.co.uk/sfx/{{{s}}}",
   },
   {
     d: "www.freesound.org",
@@ -20194,12 +19318,6 @@ export const bangs = [
     u: "http://www.frys.com/search?search_type=regular&sqxts=1&query_string={{{s}}}",
   },
   {
-    d: "ratings.food.gov.uk",
-    s: "Food Standards Agency - Food Hygiene Ratings ",
-    t: "fsarating",
-    u: "http://ratings.food.gov.uk/enhanced-search/en-GB/{{{s}}}/%5E/alpha/0/%5E/%5E/1/1/10",
-  },
-  {
     d: "www.futura-sciences.com",
     s: "Futura Sciences",
     t: "fsc",
@@ -20378,12 +19496,6 @@ export const bangs = [
     s: "Funtoo",
     t: "funtoo",
     u: "http://www.funtoo.org/index.php?search={{{s}}}",
-  },
-  {
-    d: "filmup.leonardo.it",
-    s: "FilmUP.com",
-    t: "fup",
-    u: "http://filmup.leonardo.it/cgi-bin/search.cgi?ps=10&fmt=long&sy=0&q={{{s}}}",
   },
   {
     d: "www.furaffinity.net",
@@ -20696,12 +19808,6 @@ export const bangs = [
     s: "GameFront",
     t: "gamefront",
     u: "https://www.gamefront.com/search/files?q={{{s}}}",
-  },
-  {
-    d: "www.game.co.uk",
-    s: "Game",
-    t: "game",
-    u: "http://www.game.co.uk/webapp/wcs/stores/servlet/AjaxCatalogSearch?storeId=10151&catalogId=10201&langId=44&pageSize=&beginIndex=0&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&pageView=image&predictiveSearchURL=&searchTerm={{{s}}}&searchBtn=z",
   },
   {
     d: "www.gameinformer.com",
@@ -21567,12 +20673,6 @@ export const bangs = [
     u: "http://www.geocaching.com/seek/nearest.aspx?key={{{s}}}",
   },
   {
-    d: "www.geograph.org.uk",
-    s: "Geograph Britain and Ireland",
-    t: "geograph",
-    u: "https://www.geograph.org.uk/of/{{{s}}}",
-  },
-  {
     d: "geofactoftheday.blogspot.com",
     s: "GeoFact of the Day",
     t: "geography",
@@ -21637,12 +20737,6 @@ export const bangs = [
     s: "Getchu.com",
     t: "getchu",
     u: "http://www.getchu.com/php/nsearch.phtml?search_keyword={{{s}}}",
-  },
-  {
-    d: "getdeals.co.in",
-    s: "GetDeals",
-    t: "getdeals",
-    u: "https://getdeals.co.in/search?q={{{s}}}",
   },
   {
     d: "glosbe.com",
@@ -22015,12 +21109,6 @@ export const bangs = [
     u: "http://www.gia.edu/cs/Satellite?pagename=GST%2FDispatcher&childpagename=GIA%2FPage%2FReportCheck&c=Page&cid=1355954554547&reportno={{{s}}}",
   },
   {
-    d: "www.giallozafferano.it",
-    s: "https://www.giallozafferano.it/",
-    t: "giallozafferano",
-    u: "https://www.giallozafferano.it/ricerca-ricette/{{{s}}}",
-  },
-  {
     d: "www.giantbomb.com",
     s: "GiantBomb",
     t: "giantbomb",
@@ -22189,12 +21277,6 @@ export const bangs = [
     u: "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1",
   },
   {
-    d: "www.google.co.in",
-    s: "Google India",
-    t: "gin",
-    u: "https://www.google.co.in/search?q={{{s}}}",
-  },
-  {
     d: "glosbe.com",
     s: "Glosbe",
     t: "gip",
@@ -22303,18 +21385,6 @@ export const bangs = [
     u: "https://gitlab.com/search?utf8=%E2%9C%93&search={{{s}}}&group_id=&repository_ref=",
   },
   {
-    d: "www.google.it",
-    s: "Google IT",
-    t: "gitl",
-    u: "http://www.google.it/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
-  },
-  {
-    d: "gitote.in",
-    s: "Gitote",
-    t: "gitote",
-    u: "https://gitote.in/explore/repos?q={{{s}}}",
-  },
-  {
     d: "git-scm.com",
     s: "Git",
     t: "git-scm",
@@ -22325,12 +21395,6 @@ export const bangs = [
     s: "GittiGidiyor",
     t: "gittigidiyor",
     u: "http://www.gittigidiyor.com/arama/?k={{{s}}}",
-  },
-  {
-    d: "www.google.co.uk",
-    s: "Google Images UK",
-    t: "giuk",
-    u: "http://www.google.co.uk/search?tbm=isch&q={{{s}}}&tbs=imgo:1",
   },
   {
     d: "www.google.com",
@@ -22650,12 +21714,6 @@ export const bangs = [
     u: "https://www.google.co.il/maps/search/{{{s}}}/?hl=iw",
   },
   {
-    d: "www.google.it",
-    s: "Google Maps",
-    t: "gmit",
-    u: "https://www.google.it/maps/place/{{{s}}}",
-  },
-  {
     d: "www.gml.se",
     s: "GML Bokhandel",
     t: "gml",
@@ -22696,12 +21754,6 @@ export const bangs = [
     s: "Google map (Taiwan)",
     t: "gmtw",
     u: "https://www.google.com.tw/maps?hl=zh-TW&q={{{s}}}",
-  },
-  {
-    d: "www.google.co.uk",
-    s: "Google Maps",
-    t: "gmuk",
-    u: "https://www.google.co.uk/maps/place/{{{s}}} ",
   },
   {
     d: "music.google.com",
@@ -22768,12 +21820,6 @@ export const bangs = [
     s: "Google News",
     t: "gn",
     u: "https://news.google.com/news/search/section/q/{{{s}}}",
-  },
-  {
-    d: "www.google.it",
-    s: "Google News Italian",
-    t: "gnit",
-    u: "https://www.google.it/search?q={{{s}}}&hl=it&source=lnms&tbm=nws",
   },
   {
     d: "www.google.nl",
@@ -22854,12 +21900,6 @@ export const bangs = [
     u: "http://www.gnu.org/cgi-bin/estseek.cgi?phrase={{{s}}}",
   },
   {
-    d: "www.google.co.uk",
-    s: "Google News UK",
-    t: "gnuk",
-    u: "https://www.google.co.uk/search?hl=en&gl=uk&tbm=nws&authuser=0&q={{{s}}}",
-  },
-  {
     d: "news.google.com",
     s: "Google News",
     t: "gnus",
@@ -22876,12 +21916,6 @@ export const bangs = [
     s: "Goatbots",
     t: "goat",
     u: "https://www.goatbots.com/search/{{{s}}}",
-  },
-  {
-    d: "gobago.it",
-    s: "Gobago",
-    t: "gobago",
-    u: "https://gobago.it/?q={{{s}}}",
   },
   {
     d: "duckgobang.com",
@@ -23136,18 +22170,6 @@ export const bangs = [
     u: "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1",
   },
   {
-    d: "www.google.co.in",
-    s: "duckduckgo",
-    t: "googlein",
-    u: "https://www.google.co.in/search?q={{{s}}}",
-  },
-  {
-    d: "google.com",
-    s: "www.google.it",
-    t: "googleit",
-    u: "https://google.com/search?hl=it&q={{{s}}}",
-  },
-  {
     d: "www.google.co.kr",
     s: "Google Korea",
     t: "google.kr",
@@ -23206,12 +22228,6 @@ export const bangs = [
     s: "Google Turkey",
     t: "googletr",
     u: "https://www.google.com.tr/search?q={{{s}}} ",
-  },
-  {
-    d: "www.google.co.uk",
-    s: "Google UK",
-    t: "googleuk",
-    u: "http://www.google.co.uk/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
   },
   {
     d: "www.google.com",
@@ -23352,18 +22368,6 @@ export const bangs = [
     u: "http://www.govtrack.us/search?q={{{s}}}",
   },
   {
-    d: "www.gov.uk",
-    s: "GOV.UK",
-    t: "gov.uk",
-    u: "https://www.gov.uk/search?q={{{s}}}",
-  },
-  {
-    d: "www.gov.uk",
-    s: "GOV.UK",
-    t: "govuk",
-    u: "https://www.gov.uk/search?q= {{{s}}}",
-  },
-  {
     d: "search.usa.gov",
     s: "US Government Search",
     t: "gov",
@@ -23430,12 +22434,6 @@ export const bangs = [
     u: "http://go.pkgdoc.org/?q={{{s}}}",
   },
   {
-    d: "www.gpdp.it",
-    s: "Garante Privacy",
-    t: "gpdp",
-    u: "https://www.gpdp.it/home/ricerca/-/search/key/{{{s}}}",
-  },
-  {
     d: "gpodder.net",
     s: "gpodder.net",
     t: "gpdr",
@@ -23500,12 +22498,6 @@ export const bangs = [
     s: "Greenpeace India",
     t: "gpindia",
     u: "http://www.greenpeace.org/india/en/System-templates/Search-results/?all={{{s}}}",
-  },
-  {
-    d: "gpio.co.uk",
-    s: "GPIO Support Services",
-    t: "gpio",
-    u: "https://gpio.co.uk/?s={{{s}}}",
   },
   {
     d: "golang.org",
@@ -23590,12 +22582,6 @@ export const bangs = [
     s: "Google PT",
     t: "gpt",
     u: "https://www.google.pt/search?q={{{s}}}",
-  },
-  {
-    d: "www.greenpeace.org.uk",
-    s: "Greenpeace UK",
-    t: "gpuk",
-    u: "http://www.greenpeace.org.uk/search/node/{{{s}}}",
   },
   {
     d: "www.gotquestions.org",
@@ -23781,12 +22767,6 @@ export const bangs = [
     s: "Google Reverse Image Search",
     t: "gri",
     u: "https://images.google.com/searchbyimage?image_url={{{s}}} ",
-  },
-  {
-    d: "www.beppegrillo.it",
-    s: "Blog di Beppe Grillo",
-    t: "grillo",
-    u: "http://www.beppegrillo.it/google_cse.html?q={{{s}}}&x=-1208&y=-9",
   },
   {
     d: "www.grillscatalog.com",
@@ -23981,12 +22961,6 @@ export const bangs = [
     u: "https://www.google.si/search?q={{{s}}}",
   },
   {
-    d: "www.google.it",
-    s: "Google Shopping IT",
-    t: "gsit",
-    u: "https://www.google.it/search?hl=it&tbm=shop&q={{{s}}}",
-  },
-  {
     d: "www.google.sk",
     s: "Google SK",
     t: "gsk",
@@ -24074,12 +23048,6 @@ export const bangs = [
     s: "Google Store",
     t: "gstore",
     u: "https://store.google.com/search?q={{{s}}}",
-  },
-  {
-    d: "www.google.co.uk",
-    s: "Google Shopping UK",
-    t: "gsuk",
-    u: "http://www.google.co.uk/search?q={{{s}}}&tbm=shop",
   },
   {
     d: "support.google.com",
@@ -25960,18 +24928,6 @@ export const bangs = [
     u: "http://www.guitartabsexplorer.com/search.php?search={{{s}}}",
   },
   {
-    d: "www.google.co.uk",
-    s: "Google UK",
-    t: "g.uk",
-    u: "https://www.google.co.uk/#q={{{s}}}",
-  },
-  {
-    d: "www.google.co.uk",
-    s: "Google UK",
-    t: "guk",
-    u: "https://www.google.co.uk/search?q={{{s}}}",
-  },
-  {
     d: "www.eniro.se",
     s: "Eniro",
     t: "gulasidorna",
@@ -26188,12 +25144,6 @@ export const bangs = [
     u: "http://wiki.guildwars2.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go",
   },
   {
-    d: "www.gwct.org.uk",
-    s: "Game & Wildlife Conservation Trust",
-    t: "gwct",
-    u: "http://www.gwct.org.uk/search?keywords={{{s}}}",
-  },
-  {
     d: "www.google.com",
     s: "Google (Past Week)",
     t: "gweek",
@@ -26330,12 +25280,6 @@ export const bangs = [
     s: "Google Simplified Chinese",
     t: "gzc",
     u: "https://www.google.com/search?q={{{s}}}&lr=lang_zh-CN",
-  },
-  {
-    d: "www.giallozafferano.it",
-    s: "Giallo Zafferano",
-    t: "gzric",
-    u: "http://www.giallozafferano.it/ricerca-ricette/{{{s}}} ",
   },
   {
     d: "www.h2g2.com",
@@ -26518,12 +25462,6 @@ export const bangs = [
     u: "http://www.hannaford.com/catalog/search.cmd?form_state=searchForm&keyword={{{s}}}",
   },
   {
-    d: "hansard.parliament.uk",
-    s: "Hansard (UK Parliament)",
-    t: "hansard",
-    u: "https://hansard.parliament.uk/search?searchTerm={{{s}}}",
-  },
-  {
     d: "www.hanze.nl",
     s: "Hanze Hogeschool",
     t: "hanze",
@@ -26632,12 +25570,6 @@ export const bangs = [
     u: "http://havenmaine.wikia.com/wiki/Special:Search?search={{{s}}}",
   },
   {
-    d: "hawkclothing.uk",
-    s: "Hawk",
-    t: "hawk",
-    u: "http://hawkclothing.uk/index.php?route=product/search&search={{{s}}}",
-  },
-  {
     d: "lib.haxe.org",
     s: "Haxelib",
     t: "haxelib",
@@ -26702,12 +25634,6 @@ export const bangs = [
     s: "Hockeydb.com",
     t: "hdb",
     u: "http://www.hockeydb.com/ihdb/stats/find_player.php?full_name={{{s}}}",
-  },
-  {
-    d: "www.hdblog.it",
-    s: "Hdblog",
-    t: "hdblog",
-    u: "https://www.hdblog.it/?sName={{{s}}}",
   },
   {
     d: "www.homedepot.ca",
@@ -26794,12 +25720,6 @@ export const bangs = [
     u: "http://www.hearthpwn.com/search?search={{{s}}}#t1:cards",
   },
   {
-    d: "www.heatershop.co.uk",
-    s: "Heater Shop",
-    t: "heaters",
-    u: "https://www.heatershop.co.uk/search?query={{{s}}}",
-  },
-  {
     d: "www.heatspring.com",
     s: "HeatSpring",
     t: "heatspring",
@@ -26864,12 +25784,6 @@ export const bangs = [
     s: "thehendonmob.com",
     t: "hendon",
     u: "http://www.thehendonmob.com/search/?q={{{s}}}",
-  },
-  {
-    d: "www.henna-boy.co.uk",
-    s: "Henna Boy",
-    t: "henna",
-    u: "https://www.henna-boy.co.uk/index.php?route=product/search&search={{{s}}}",
   },
   {
     d: "www.henrys.com",
@@ -27163,18 +26077,6 @@ export const bangs = [
     t: "hitta",
   },
   {
-    d: "www.hive.co.uk",
-    s: "Hive",
-    t: "hive",
-    u: "https://www.hive.co.uk/Search/Keyword?keyword={{{s}}}",
-  },
-  {
-    d: "www.honestjohn.co.uk",
-    s: "Honest John",
-    t: "hj",
-    u: "https://www.honestjohn.co.uk/search/?q={{{s}}}",
-  },
-  {
     d: "howjsay.com",
     s: "HowJSay",
     t: "hjs",
@@ -27197,12 +26099,6 @@ export const bangs = [
     s: "Hackage",
     t: "hkg",
     u: "https://hackage.haskell.org/packages/search?terms={{{s}}}",
-  },
-  {
-    d: "hacktips.it",
-    s: "HackTips",
-    t: "hk",
-    u: "http://hacktips.it/?s={{{s}}}",
   },
   {
     d: "search.legco.gov.hk",
@@ -27421,12 +26317,6 @@ export const bangs = [
     u: "https://hollis.harvard.edu/primo-explore/search?query=any,contains,{{{s}}}&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0",
   },
   {
-    d: "www.homebase.co.uk",
-    s: "Homebase",
-    t: "homebase",
-    u: "http://www.homebase.co.uk/webapp/wcs/stores/servlet/Search?storeId=10151&catalogId=1500001201&langId=110&searchTerms={{{s}}}&authToken=",
-  },
-  {
     d: "www.homedepot.ca",
     s: "Home Depot Canada",
     t: "homedepotca",
@@ -27455,12 +26345,6 @@ export const bangs = [
     s: "Homestuck.com",
     t: "homestuck",
     u: "https://www.homestuck.com/search?search={{{s}}}",
-  },
-  {
-    d: "homeworkhelpforkids.co.uk",
-    s: "Homework Help For Kids",
-    t: "homework",
-    u: "http://homeworkhelpforkids.co.uk/?s={{{s}}}",
   },
   {
     d: "www.projecthoneypot.org",
@@ -28332,12 +27216,6 @@ export const bangs = [
     u: "https://www.ibm.com/support/knowledgecenter/en/search/{{{s}}}",
   },
   {
-    d: "www.ibs.it",
-    s: "Internet Bookshop Italia",
-    t: "ibs",
-    u: "https://www.ibs.it/search/?ts=as&query={{{s}}}",
-  },
-  {
     d: "www.google.ca",
     s: "google canada",
     t: "ica",
@@ -28396,12 +27274,6 @@ export const bangs = [
     s: "iCheckMovies",
     t: "icheckmovies",
     u: "http://www.icheckmovies.com/search/movies/?query={{{s}}}",
-  },
-  {
-    d: "www.imperial.ac.uk",
-    s: "Imperial College London",
-    t: "ic",
-    u: "https://www.imperial.ac.uk/search/?q={{{s}}}",
   },
   {
     d: "ici.radio-canada.ca",
@@ -28480,12 +27352,6 @@ export const bangs = [
     s: "iCulture",
     t: "icultr",
     u: "http://www.iculture.nl/?s={{{s}}}",
-  },
-  {
-    d: "www.google.it",
-    s: "Impossibile da dimenticare",
-    t: "idd",
-    u: "http://www.google.it/cse?cx=partner-pub-5110806989181281:4419033070&q={{{s}}}",
   },
   {
     d: "www.idealworld.tv",
@@ -28888,12 +27754,6 @@ export const bangs = [
     u: "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images&iaf=size%3Aimagesize-large",
   },
   {
-    d: "www.ilfattoquotidiano.it",
-    s: "Il Fatto Quotidiano",
-    t: "ilfatto",
-    u: "http://www.ilfattoquotidiano.it/{{{s}}}",
-  },
-  {
     d: "il.ink",
     s: "il.ink",
     t: "ilink",
@@ -28906,12 +27766,6 @@ export const bangs = [
     u: "http://illumos.org/man/{{{s}}}",
   },
   {
-    d: "www.ilmeteo.it",
-    s: "ilmeteo.it",
-    t: "ilm",
-    u: "http://www.ilmeteo.it/meteo/{{{s}}}",
-  },
-  {
     d: "www.ilounge.com",
     s: "iLounge",
     t: "ilounge",
@@ -28922,12 +27776,6 @@ export const bangs = [
     s: "I Love Free Software",
     t: "ilovefreesoftware",
     u: "http://www.ilovefreesoftware.com/gsearch?ie=UTF-8&q={{{s}}}&ss=1633j526083j9&cof=FORID%3a10&cx=008701510501807727669%3aabbyr0bpxi0&siteurl=www.ilovefreesoftware.com%2f",
-  },
-  {
-    d: "www.ilpost.it",
-    s: "Il Post",
-    t: "ilpost",
-    u: "http://www.ilpost.it/?s={{{s}}}",
   },
   {
     d: "www.ricerca24.ilsole24ore.com",
@@ -29152,12 +28000,6 @@ export const bangs = [
     u: "http://impdb.org/index.php?search={{{s}}}",
   },
   {
-    d: "www.imperial.ac.uk",
-    s: "Imperial College London",
-    t: "imperial",
-    u: "https://www.imperial.ac.uk/search/?q={{{s}}}",
-  },
-  {
     d: "www.impericon.com",
     s: "Impericon(de)",
     t: "impericonde",
@@ -29222,12 +28064,6 @@ export const bangs = [
     s: "Indeed",
     t: "indeed",
     u: "http://www.indeed.com/jobs?q={{{s}}}",
-  },
-  {
-    d: "www.independent.co.uk",
-    s: "The Independent",
-    t: "independent",
-    u: "http://www.independent.co.uk/search/simple.do?destinationSectionUniqueName=search&publicationName=ind&searchString={{{s}}}",
   },
   {
     d: "www.indiabookstore.net",
@@ -29410,12 +28246,6 @@ export const bangs = [
     u: "http://www.innerfidelity.com/search/node/{{{s}}}",
   },
   {
-    d: "innerlightcrystals.co.uk",
-    s: "Inner Light Crystals",
-    t: "innerlightcrystals",
-    u: "https://innerlightcrystals.co.uk/sales/index.php?main_page=advanced_search_result&keyword={{{s}}}&search_in_description=1",
-  },
-  {
     d: "www.israelnationalnews.com",
     s: "Israel National News - Arutz Sheva 7",
     t: "inn",
@@ -29456,12 +28286,6 @@ export const bangs = [
     s: "Insect Images",
     t: "insectimages",
     u: "https://www.insectimages.org/search/action.cfm?q={{{s}}}",
-  },
-  {
-    d: "insider.in",
-    s: "Insider.in",
-    t: "insider",
-    u: "https://insider.in/search?q={{{s}}}",
   },
   {
     d: "insideschools.org",
@@ -29566,12 +28390,6 @@ export const bangs = [
     u: "https://www.interencheres.com/recherche/lots?search={{{s}}}&area=france",
   },
   {
-    d: "www.internazionale.it",
-    s: "Internazionale",
-    t: "internazionale",
-    u: "http://www.internazionale.it/search/{{{s}}}",
-  },
-  {
     d: "www.intersport.se",
     s: "Intersport",
     t: "intersport",
@@ -29582,12 +28400,6 @@ export const bangs = [
     s: "INTHECLOUDS",
     t: "intheclouds",
     u: "https://intheclouds.io/search?q={{{s}}}",
-  },
-  {
-    d: "www.internazionale.it",
-    s: "Internazionale",
-    t: "int",
-    u: "http://www.internazionale.it/search/?q={{{s}}}",
   },
   {
     d: "www.intodns.com",
@@ -29757,18 +28569,6 @@ export const bangs = [
     u: "http://ipinfo.io/{{{s}}}",
   },
   {
-    d: "www.bbc.co.uk",
-    s: "BBC iPlayer",
-    t: "iplayer",
-    u: "http://www.bbc.co.uk/iplayer/search?q={{{s}}}",
-  },
-  {
-    d: "www.bbc.co.uk",
-    s: "BBC iPlayer Radio",
-    t: "iplayerradio",
-    u: "http://www.bbc.co.uk/radio/programmes/a-z/by/{{{s}}}/player",
-  },
-  {
     d: "www.iplt20.com",
     s: "IPL",
     t: "ipl",
@@ -29875,12 +28675,6 @@ export const bangs = [
     s: "https://www.irishtimes.com/",
     t: "irishtimes",
     u: "https://www.irishtimes.com/search/search-7.4195619?q={{{s}}}",
-  },
-  {
-    d: "scitools.org.uk",
-    s: "http://scitools.org.uk/iris/docs/latest/index.html",
-    t: "iris",
-    u: "http://scitools.org.uk/iris/docs/latest/search.html?q={{{s}}}",
   },
   {
     d: "irowiki.org",
@@ -30127,12 +28921,6 @@ export const bangs = [
     s: "Google translate it-en",
     t: "iten",
     u: "http://translate.google.com/#it/en/{{{s}}} ",
-  },
-  {
-    d: "www.swahili.it",
-    s: "Vocabolario Italiano-Esperanto (Minnaja)",
-    t: "iteo",
-    u: "http://www.swahili.it/glossword/index.php?a=term&d=2&q={{{s}}}",
   },
   {
     d: "translate.google.com",
@@ -30393,12 +29181,6 @@ export const bangs = [
     u: "https://www.jamendo.com/en/search?qs=q={{{s}}}",
   },
   {
-    d: "janus.lib.cam.ac.uk",
-    s: "Janus: Catalogues of Cambridge Archives",
-    t: "janus",
-    u: "https://janus.lib.cam.ac.uk/db/node.xsp?search={{{s}}}",
-  },
-  {
     d: "duckduckgo.com",
     s: "Joomla! API",
     t: "japi",
@@ -30631,12 +29413,6 @@ export const bangs = [
     s: "JustDial Pune",
     t: "jdpune",
     u: "http://www.justdial.com/Pune/{{{s}}}",
-  },
-  {
-    d: "www.jdwetherspoon.co.uk",
-    s: "J D Weatherpoon",
-    t: "jdw",
-    u: "http://www.jdwetherspoon.co.uk/home/pubs/find/{{{s}}}",
   },
   {
     d: "www.jedipedia.net",
@@ -31297,12 +30073,6 @@ export const bangs = [
     u: "http://www.junodownload.com/search/?q[all][0]={{{s}}}",
   },
   {
-    d: "www.juno.co.uk",
-    s: "juno.co.uk",
-    t: "juno",
-    u: "https://www.juno.co.uk/search/?q[all][]={{{s}}}",
-  },
-  {
     d: "law.justia.com",
     s: "Justia",
     t: "justia",
@@ -31447,12 +30217,6 @@ export const bangs = [
     u: "https://www.kafto.gr/?s={{{s}}}",
   },
   {
-    d: "create.kahoot.it",
-    s: "Kahoot",
-    t: "kahoot",
-    u: "https://create.kahoot.it/search?filter=1&query=science&tags={{{s}}}",
-  },
-  {
     d: "www.kahtahaber.com",
     s: "Kahta Haber",
     t: "kahta",
@@ -31553,12 +30317,6 @@ export const bangs = [
     s: "Khan Academy (Profile Page)",
     t: "kaprof",
     u: "https://www.khanacademy.org/profile/{{{s}}}/",
-  },
-  {
-    d: "judgmenthck.kar.nic.in",
-    s: "Karnataka High Court",
-    t: "karhcj",
-    u: "http://judgmenthck.kar.nic.in/judgments/simple-search?query={{{s}}}",
   },
   {
     d: "dikarier.com",
@@ -31669,12 +30427,6 @@ export const bangs = [
     u: "http://konachan.net/post?tags={{{s}}}",
   },
   {
-    d: "www.kcl.ac.uk",
-    s: "King's College London",
-    t: "kcl",
-    u: "https://www.kcl.ac.uk/search/search.aspx#/all?term={{{s}}}",
-  },
-  {
     d: "kcls.bibliocommons.com",
     s: "King County Library System",
     t: "kcls",
@@ -31751,12 +30503,6 @@ export const bangs = [
     s: "Keldan",
     t: "keldan",
     u: "https://leit.keldan.is/Home/Search?term={{{s}}}",
-  },
-  {
-    d: "shopping.kelkoo.co.uk",
-    s: "Kelkoo UK",
-    t: "kelkoo",
-    u: "http://shopping.kelkoo.co.uk/ss-{{{s}}}.html",
   },
   {
     d: "shopping.kelkoo.se",
@@ -31919,12 +30665,6 @@ export const bangs = [
     u: "http://www.kijiji.ca/b-grand-montreal/{{{s}}}/k0l80002",
   },
   {
-    d: "www.kijiji.it",
-    s: "kijiji.it",
-    t: "kijijiit",
-    u: "http://www.kijiji.it/{{{s}}}/",
-  },
-  {
     d: "www.kijiji.ca",
     s: "Kijiji",
     t: "kijiji",
@@ -31983,12 +30723,6 @@ export const bangs = [
     s: "Amazon Kindle (China)",
     t: "kindlecn",
     u: "https://www.amazon.cn/s?k={{{s}}}&i=digital-text",
-  },
-  {
-    d: "www.amazon.co.uk",
-    s: "Amazon UK Kindle",
-    t: "kindleuk",
-    u: "https://www.amazon.co.uk/s?k={{{s}}}&i=digital-text",
   },
   {
     d: "www.kinguin.net",
@@ -32789,12 +31523,6 @@ export const bangs = [
     u: "https://www.laemmle.com/search?q={{{s}}}",
   },
   {
-    d: "www.lafeltrinelli.it",
-    s: "LaFeltrinelli",
-    t: "laf",
-    u: "http://www.lafeltrinelli.it/fcom/it/home/pages/catalogo/searchresults.html?srch=0&sort=1&page=1&prkw={{{s}}}&cat1=1",
-  },
-  {
     d: "www.lafourchette.com",
     s: "lafourchette",
     t: "lafourchette",
@@ -32933,12 +31661,6 @@ export const bangs = [
     u: "http://www.perseus.tufts.edu/hopper/morph?&la=la&l={{{s}}}&la=la",
   },
   {
-    d: "www.lastampa.it",
-    s: "La Stampa",
-    t: "lastampa",
-    u: "http://www.lastampa.it/ricerca?search={{{s}}}",
-  },
-  {
     d: "www.last.fm",
     s: "Last.fm",
     t: "lastfm",
@@ -33027,12 +31749,6 @@ export const bangs = [
     s: "LaunchPad",
     t: "launchpad",
     u: "https://launchpad.net/+search?field.text={{{s}}}",
-  },
-  {
-    d: "www.motorelavoro.it",
-    s: "Motore Lavoro",
-    t: "lavoro",
-    u: "http://www.motorelavoro.it/?q={{{s}}}",
   },
   {
     d: "www.law.cornell.edu",
@@ -33275,12 +31991,6 @@ export const bangs = [
     u: "https://learnxinyminutes.com/docs/{{{s}}}/",
   },
   {
-    d: "learnzone.org.uk",
-    s: "Learn Zone",
-    t: "learnzone",
-    u: "http://learnzone.org.uk/courses/?q={{{s}}}",
-  },
-  {
     d: "lowendbox.com",
     s: "LowEndBox",
     t: "leb",
@@ -33365,12 +32075,6 @@ export const bangs = [
     u: "https://www.lelong.com.my/catalog/all/list?TheKeyword={{{s}}}",
   },
   {
-    d: "mothereff.in",
-    s: "Mothereff.in Byte Counter",
-    t: "len",
-    u: "https://mothereff.in/byte-counter#{{{s}}}",
-  },
-  {
     d: "shop.lenovo.com",
     s: "Lenovo",
     t: "lenovo",
@@ -33419,12 +32123,6 @@ export const bangs = [
     u: "https://lernu.net/es/vortaro/{{{s}}}",
   },
   {
-    d: "www.leroymerlin.it",
-    s: "LeroyMerlin.it",
-    t: "leroymerlinit",
-    u: "https://www.leroymerlin.it/ricerca?q={{{s}}}&page=1",
-  },
-  {
     d: "duckduckgo.com",
     s: "Les-CRIs",
     t: "lescris",
@@ -33465,12 +32163,6 @@ export const bangs = [
     s: "Letterboxd",
     t: "letterboxd",
     u: "http://letterboxd.com/search/films/{{{s}}}/",
-  },
-  {
-    d: "le.ac.uk",
-    s: "University of Leicester",
-    t: "le",
-    u: "https://le.ac.uk/search?q={{{s}}}",
   },
   {
     d: "levidsmith.com",
@@ -33586,28 +32278,10 @@ export const bangs = [
     u: "https://libcom.org/search/node/{{{s}}}",
   },
   {
-    d: "www.libdems.org.uk",
-    s: "Liberal Democrats (UK)",
-    t: "libdems",
-    u: "http://www.libdems.org.uk/search?q={{{s}}}",
-  },
-  {
-    d: "www.libreriauniversitaria.it",
-    s: "Libreria Universitaria",
-    t: "liberia",
-    u: "http://www.libreriauniversitaria.it/c_power_search.php?shelf=BIT&q={{{s}}}&submit=",
-  },
-  {
     d: "duckduckgo.com",
     s: "LibGDX API",
     t: "libgdx",
     u: "https://duckduckgo.com/?q=site%3Alibgdx.badlogicgames.com+{{{s}}}&t=h&ia=web",
-  },
-  {
-    d: "library.iiitd.edu.in",
-    s: "IIITD library",
-    t: "libiiitd",
-    u: "http://library.iiitd.edu.in/cgi-bin/koha/opac-search.pl?idx=&q={{{s}}}",
   },
   {
     d: "libraries.io",
@@ -33680,12 +32354,6 @@ export const bangs = [
     s: "Municipal Library of Thessaloniki",
     t: "libth",
     u: "http://lib.thessaloniki.gr/ipac20/ipac.jsp?session=14048C549F1N5.44906&menu=search&aspect=subtab37&npp=10&ipp=20&spp=20&profile=central--1&ri=&term={{{s}}}&index=.GW&x=0&y=0&aspect=subtab37",
-  },
-  {
-    d: "www.libreriauniversitaria.it",
-    s: "Libreria Universitaria",
-    t: "libuniversitaria",
-    u: "http://www.libreriauniversitaria.it/c_power_search.php?shelf=BIT&q={{{s}}}&submit=",
   },
   {
     d: "lib.uva.nl",
@@ -33849,12 +32517,6 @@ export const bangs = [
     u: "https://search.lilo.org/searchweb.php?q={{{s}}}",
   },
   {
-    d: "lsr.di.unimi.it",
-    s: "LilyPond Snippet Repository",
-    t: "lilypond",
-    u: "http://lsr.di.unimi.it/LSR/Search?q={{{s}}}",
-  },
-  {
     d: "www.limundo.com",
     s: "Limundo",
     t: "lim",
@@ -33877,12 +32539,6 @@ export const bangs = [
     s: "linguee",
     t: "lineg",
     u: "http://www.linguee.com/english-german/search?source=german&query={{{s}}}",
-  },
-  {
-    d: "www.linguee.it",
-    s: "Linguee",
-    t: "linei",
-    u: "https://www.linguee.it/italiano-inglese/search?query={{{s}}}",
   },
   {
     d: "www.linguee.com",
@@ -33925,12 +32581,6 @@ export const bangs = [
     s: "LinkedIn",
     t: "linkedin",
     u: "https://www.linkedin.com/search/results/all/?keywords={{{s}}}",
-  },
-  {
-    d: "www.linkiesta.it",
-    s: "Linkiesta",
-    t: "linkiesta",
-    u: "http://www.linkiesta.it/cerca/{{{s}}}",
   },
   {
     d: "linklocker.co",
@@ -34221,12 +32871,6 @@ export const bangs = [
     u: "http://www.liveleak.com/browse?q={{{s}}}",
   },
   {
-    d: "capitadiscovery.co.uk",
-    s: "Liverpool Libraries catalogue",
-    t: "lluk",
-    u: "http://capitadiscovery.co.uk/liverpool/items?query={{{s}}}",
-  },
-  {
     d: "duckduckgo.com",
     s: "LLVM Compiler Infrastructure",
     t: "llvm",
@@ -34449,12 +33093,6 @@ export const bangs = [
     u: "http://www.lolking.net/search?name={{{s}}}",
   },
   {
-    d: "www.locksonline.co.uk",
-    s: "LocksOnline.co.uk",
-    t: "lol",
-    u: "https://www.locksonline.co.uk/index.php?route=product/search&search={{{s}}}",
-  },
-  {
     d: "lolnames.gg",
     s: "LoL Names",
     t: "lolnames",
@@ -34587,12 +33225,6 @@ export const bangs = [
     u: "http://lovdata.no/sok?q={{{s}}}",
   },
   {
-    d: "www.lovebusinessexpo.co.uk",
-    s: "Love Business EXPO",
-    t: "lovebusinessexpo",
-    u: "https://www.lovebusinessexpo.co.uk/search/?q={{{s}}}",
-  },
-  {
     d: "love-live.wikia.com",
     s: "Love Live! Wiki",
     t: "lovelive",
@@ -34683,22 +33315,10 @@ export const bangs = [
     u: "http://wiki.linuxquestions.org/index.php?search={{{s}}}",
   },
   {
-    d: "www.lrb.co.uk",
-    s: "The London Review of Books",
-    t: "lrb",
-    u: "http://www.lrb.co.uk/search?q={{{s}}}",
-  },
-  {
     d: "de.langenscheidt.com",
     s: "Langenscheid dictionary German-Swedish",
     t: "ls.de-sv",
     u: "http://de.langenscheidt.com/deutsch-schwedisch/search?term={{{s}}}&q_cat=%2Fdeutsch-schwedisch%2F",
-  },
-  {
-    d: "librarysearch.lse.ac.uk",
-    s: "LSE Library ",
-    t: "lselib",
-    u: "https://librarysearch.lse.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=CSCOP_ALL&sortby=rank&vid=44LSE_VU1",
   },
   {
     d: "linuxsecurity.expert",
@@ -34731,12 +33351,6 @@ export const bangs = [
     u: "http://www.lspace.org/cgi-imps/perlfect/search/search.pl?q={{{s}}}",
   },
   {
-    d: "lsr.di.unimi.it",
-    s: "LilyPond Snippet Repository",
-    t: "lsr",
-    u: "http://lsr.di.unimi.it/LSR/Search?q={{{s}}}",
-  },
-  {
     d: "de.langenscheidt.com",
     s: "Langenscheid dictionary Swedish-German",
     t: "ls.sv",
@@ -34747,12 +33361,6 @@ export const bangs = [
     s: "Liquipedia Starcraft 2",
     t: "lstarcraft",
     u: "https://liquipedia.net/starcraft2/index.php?search={{{s}}}",
-  },
-  {
-    d: "www.lta.org.uk",
-    s: "LTA",
-    t: "lta",
-    u: "https://www.lta.org.uk/search-results/?q={{{s}}}",
   },
   {
     d: "litecoin.holytransaction.com",
@@ -34933,12 +33541,6 @@ export const bangs = [
     u: "http://luzme.com/search_all?keyword={{{s}}}",
   },
   {
-    d: "www.lavocedellelotte.it",
-    s: "lavocedellelotte.it",
-    t: "lvdl",
-    u: "https://www.lavocedellelotte.it/it/?s={{{s}}}",
-  },
-  {
     d: "www.livermore.lib.ca.us",
     s: "Livermore library",
     t: "lv",
@@ -35051,12 +33653,6 @@ export const bangs = [
     s: "Lyrics Translate",
     t: "lyricstranslate",
     u: "http://lyricstranslate.com/en/site-search?query={{{s}}}",
-  },
-  {
-    d: "www.lyricstune.in",
-    s: "LyricsTUNE",
-    t: "lyricstune",
-    u: "https://www.lyricstune.in/search?q={{{s}}}",
   },
   {
     d: "lyrics.wikia.com",
@@ -35339,12 +33935,6 @@ export const bangs = [
     s: "Magma",
     t: "magma",
     u: "http://magma.maths.usyd.edu.au/magma/handbook/search?query={{{s}}}&intrinsics=1",
-  },
-  {
-    d: "store.musicmagpie.co.uk",
-    s: "MusicMagPie",
-    t: "magpie",
-    u: "http://store.musicmagpie.co.uk/category/?keyword={{{s}}}",
   },
   {
     d: "www.raspberrypi.org",
@@ -35639,12 +34229,6 @@ export const bangs = [
     s: "Google Maps Directions",
     t: "mapsr",
     u: "https://www.google.com/maps/dir/{{{s}}}",
-  },
-  {
-    d: "maps.google.co.uk",
-    s: "Google Maps UK",
-    t: "mapsuk",
-    u: "https://maps.google.co.uk/maps?q={{{s}}}",
   },
   {
     d: "cgi.marca.com",
@@ -36403,12 +34987,6 @@ export const bangs = [
     u: "https://developer.mozilla.org/search?q={{{s}}}",
   },
   {
-    d: "mdcomputers.in",
-    s: "MD Computers",
-    t: "mdcomp",
-    u: "https://mdcomputers.in/index.php?route=product/search&search={{{s}}}&description=true",
-  },
-  {
     d: "mixing.dj",
     s: "Mixing.DJ",
     t: "mdj",
@@ -36473,12 +35051,6 @@ export const bangs = [
     s: "Mozilla Developer Network",
     t: "mdn.s",
     u: "https://duckduckgo.com/?q={{{s}}}+site%3Adeveloper.mozilla.org",
-  },
-  {
-    d: "www.mdt.co.uk",
-    s: "MDT",
-    t: "mdt",
-    u: "http://www.mdt.co.uk/catalogsearch/result/?q={{{s}}}&t=general&order=most_viewed",
   },
   {
     d: "www.mediatize.info",
@@ -36847,12 +35419,6 @@ export const bangs = [
     u: "https://www.messicks.com/search?q={{{s}}}",
   },
   {
-    d: "www.ilmessaggero.it",
-    s: "Il Messaggero",
-    t: "messaggero",
-    u: "http://www.ilmessaggero.it/?p=search&q={{{s}}}",
-  },
-  {
     d: "www.metacafe.com",
     s: "Metacafe",
     t: "metacafe",
@@ -36991,18 +35557,6 @@ export const bangs = [
     u: "http://docs.meteor.com/#/full/{{{s}}}",
   },
   {
-    d: "www.metoffice.gov.uk",
-    s: "Met Office",
-    t: "metoffice",
-    u: "http://www.metoffice.gov.uk/public/weather/location-search/sitename?searchLocation={{{s}}}",
-  },
-  {
-    d: "www.metoffice.gov.uk",
-    s: "Met Office",
-    t: "metoff",
-    u: "http://www.metoffice.gov.uk/public/weather/location-search/sitename?searchLocation={{{s}}}",
-  },
-  {
     d: "www.metroidwiki.org",
     s: "Metroid Wiki",
     t: "metroidwiki",
@@ -37079,12 +35633,6 @@ export const bangs = [
     s: "Metal Gear Wiki",
     t: "mgw",
     u: "http://metalgear.wikia.com/wiki/Special:Search?search={{{s}}}",
-  },
-  {
-    d: "www.mentalhealthlaw.co.uk",
-    s: "Mental Health Law Online",
-    t: "mhlo",
-    u: "http://www.mentalhealthlaw.co.uk/index.php?search={{{s}}}",
   },
   {
     d: "www.reddit.com",
@@ -37326,12 +35874,6 @@ export const bangs = [
     u: "http://miniology.com/?s={{{s}}}&submit=Search",
   },
   {
-    d: "cerca.ministerosalute.it",
-    s: "Ministero della Salute",
-    t: "minsal",
-    u: "http://cerca.ministerosalute.it/search?q={{{s}}}&client=defaultPORT_front-end&proxystylesheet=defaultPORT_front-end&site=default_collection&output=xml_no_dtd&filter=p",
-  },
-  {
     d: "minimalsearch.com",
     s: "minimalsearch",
     t: "minsearch",
@@ -37342,12 +35884,6 @@ export const bangs = [
     s: "LinuxMint",
     t: "mint",
     u: "http://linuxmint.com/search.php?query={{{s}}}&search=1",
-  },
-  {
-    d: "www.mirabileweb.it",
-    s: "Mirabile: Digital Archives for Medieval Culture",
-    t: "mirabile",
-    u: "http://www.mirabileweb.it/ricerca_semplice.aspx?tsearch={{{s}}}",
   },
   {
     d: "mises.org",
@@ -37523,12 +36059,6 @@ export const bangs = [
     u: "https://forum.manjaro.org/search?q={{{s}}}",
   },
   {
-    d: "mlgb3.bodleian.ox.ac.uk",
-    s: "Medieval Libraries of Great Britain",
-    t: "mlgb",
-    u: "http://mlgb3.bodleian.ox.ac.uk/mlgb/?search_term={{{s}}}",
-  },
-  {
     d: "mylaptopguide.com",
     s: "My Laptop Guide",
     t: "mlg",
@@ -37595,12 +36125,6 @@ export const bangs = [
     u: "https://mlpforums.com/search/?q={{{s}}}",
   },
   {
-    d: "multiplayer.it",
-    s: "https://multiplayer.it/",
-    t: "mlpit",
-    u: "https://multiplayer.it/ricerca/?q={{{s}}}",
-  },
-  {
     d: "mlp.wikia.com",
     s: "My Little Pony: Friendship is Magic Wiki",
     t: "mlp",
@@ -37655,12 +36179,6 @@ export const bangs = [
     u: "https://www.myminifactory.com/search/?query={{{s}}}&searchType=1",
   },
   {
-    d: "www.mymovies.it",
-    s: "My Movies Italia",
-    t: "mmi",
-    u: "http://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca ",
-  },
-  {
     d: "www.miniaturemarket.com",
     s: "Miniatur Market",
     t: "mmk",
@@ -37707,12 +36225,6 @@ export const bangs = [
     s: "https://mmo13.com",
     t: "mmo13",
     u: "https://mmo13.com/search/{{{s}}}",
-  },
-  {
-    d: "medieval.bodleian.ox.ac.uk",
-    s: "Medieval Manuscripts in Oxford Libraries",
-    t: "mmol",
-    u: "https://medieval.bodleian.ox.ac.uk/?q={{{s}}}",
   },
   {
     d: "musicmoz.org",
@@ -37803,12 +36315,6 @@ export const bangs = [
     s: "MobCup",
     t: "mobcup",
     u: "https://mobcup.net/search?q={{{s}}}",
-  },
-  {
-    d: "www.mobileday.in",
-    s: "Mobile Dat",
-    t: "mobileday",
-    u: "https://www.mobileday.in/search/label/{{{s}}}",
   },
   {
     d: "search.google.com",
@@ -38021,18 +36527,6 @@ export const bangs = [
     u: "http://moncul.org/?s={{{s}}}",
   },
   {
-    d: "www.mondadoristore.it",
-    s: "Mondadori Store",
-    t: "mondadoristore",
-    u: "http://www.mondadoristore.it/search/?tpr=10&g={{{s}}}&swe=N&search-input=active",
-  },
-  {
-    d: "www.mondofox.it",
-    s: "MondoFox",
-    t: "mondofox",
-    u: "https://www.mondofox.it/?q={{{s}}}",
-  },
-  {
     d: "www.mondou.com",
     s: "Mondou Pet Store",
     t: "mondou",
@@ -38193,12 +36687,6 @@ export const bangs = [
     s: "IngressMosail",
     t: "mosaik",
     u: "https://ingressmosaik.com/search?f={{{s}}}",
-  },
-  {
-    d: "www.moshville.co.uk",
-    s: "The Moshville Times",
-    t: "moshville",
-    u: "http://www.moshville.co.uk//?s={{{s}}}",
   },
   {
     d: "www.motonet.fi",
@@ -38415,12 +36903,6 @@ export const bangs = [
     s: "Reddit Mobile",
     t: "mre",
     u: "https://m.reddit.com/search?q={{{s}}}",
-  },
-  {
-    d: "mri.iop.kcl.ac.uk",
-    s: "MRI Wiki",
-    t: "mri",
-    u: "https://mri.iop.kcl.ac.uk/mediawiki/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
   },
   {
     d: "www.macrumors.com",
@@ -38902,18 +37384,6 @@ export const bangs = [
     u: "https://material-ui.com/api/{{{s}}}",
   },
   {
-    d: "www.google.co.uk",
-    s: "Google Maps UK (English)",
-    t: "muke",
-    u: "https://www.google.co.uk/maps/?hl=en&q={{{s}}}",
-  },
-  {
-    d: "www.google.co.uk",
-    s: "Google Maps UK (en_US)",
-    t: "muk",
-    u: "https://www.google.co.uk/maps/?hl=en&q={{{s}}}",
-  },
-  {
     d: "multcolib.org",
     s: "Multnomah County Library",
     t: "multcolib",
@@ -39339,18 +37809,6 @@ export const bangs = [
     u: "https://www.myknobs.com/page/search?Ntt={{{s}}}",
   },
   {
-    d: "www.mymovies.it",
-    s: "MYmovies",
-    t: "mym",
-    u: "http://www.mymovies.it/database/ricerca/?q={{{s}}}",
-  },
-  {
-    d: "www.mymovies.it",
-    s: "MYmovies",
-    t: "mymovies",
-    u: "http://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca",
-  },
-  {
     d: "www.mymovingreviews.com",
     s: "MyMovingReviews.com",
     t: "mymovingreviews",
@@ -39385,12 +37843,6 @@ export const bangs = [
     s: "http://www.myrecipes.com",
     t: "myrec",
     u: "http://www.myrecipes.com/search/site/{{{s}}}",
-  },
-  {
-    d: "www.mysupermarket.co.uk",
-    s: "mysupermarket.co.uk",
-    t: "mys",
-    u: "http://www.mysupermarket.co.uk/Shopping/FindProducts.aspx?Query={{{s}}}",
   },
   {
     d: "www.mysongbook.com",
@@ -40007,12 +38459,6 @@ export const bangs = [
     u: "http://www.ne.se/sok?q={{{s}}}",
   },
   {
-    d: "www.nestoria.co.uk",
-    s: "Nestoria UK",
-    t: "nestuk",
-    u: "http://www.nestoria.co.uk/{{{s}}} ",
-  },
-  {
     d: "www.netacad.com",
     s: "Networking Academy",
     t: "netacad",
@@ -40280,12 +38726,6 @@ export const bangs = [
     u: "https://duckduckgo.com/?q={{{s}}}&iar=news&kl=mx-es&ia=news",
   },
   {
-    d: "www.newsnow.co.uk",
-    s: "NewsNow",
-    t: "newsnow",
-    u: "http://www.newsnow.co.uk/h/?search={{{s}}}",
-  },
-  {
     d: "newstapa.org",
     s: "Newstapa",
     t: "newstapa",
@@ -40466,12 +38906,6 @@ export const bangs = [
     u: "https://nethackwiki.com/mediawiki/index.php?search={{{s}}}",
   },
   {
-    d: "www.nhs.uk",
-    s: "NHS Choices",
-    t: "nhs",
-    u: "http://www.nhs.uk/Search/?q={{{s}}}",
-  },
-  {
     d: "nethackwiki.com",
     s: "Nethack Wiki",
     t: "nhw",
@@ -40482,12 +38916,6 @@ export const bangs = [
     s: "nicegear",
     t: "nicegear",
     u: "http://nicegear.co.nz/search/?q={{{s}}}",
-  },
-  {
-    d: "www.nice.org.uk",
-    s: "NICE - National Institute for Health and Care Excellence",
-    t: "nice",
-    u: "https://www.nice.org.uk/search?q={{{s}}}",
   },
   {
     d: "www.niche.com",
@@ -40506,12 +38934,6 @@ export const bangs = [
     s: "Het Nieuwsblad",
     t: "nieuwsblad",
     u: "http://www.nieuwsblad.be/Search/Index.aspx?searchString={{{s}}}",
-  },
-  {
-    d: "www.niferry.co.uk",
-    s: "NI Ferry Site",
-    t: "nifs",
-    u: "https://www.niferry.co.uk/?s={{{s}}}",
   },
   {
     d: "search.nifty.com",
@@ -40554,12 +38976,6 @@ export const bangs = [
     s: "Nikon USA",
     t: "nikon",
     u: "http://www.nikonusa.com/en/about-nikon/search.page?searchCollection=SEARCH_ALL&q={{{s}}}",
-  },
-  {
-    d: "www.nikon.co.uk",
-    s: "Nikon UK",
-    t: "nikonuk",
-    u: "https://www.nikon.co.uk/en_GB/search.page#keywords={{{s}}}",
   },
   {
     d: "kb.nimvelo.com",
@@ -41227,12 +39643,6 @@ export const bangs = [
     u: "https://www.nsw.gov.au/search-google/?Search={{{s}}}",
   },
   {
-    d: "history.newtheatre.org.uk",
-    s: "New Theatre History Project",
-    t: "nthp",
-    u: "https://history.newtheatre.org.uk/search/?q={{{s}}}",
-  },
-  {
     d: "newstral.com",
     s: "Newstral",
     t: "nt",
@@ -41281,12 +39691,6 @@ export const bangs = [
     u: "http://nuget.org/packages?q={{{s}}}&sortOrder=package-download-count",
   },
   {
-    d: "docs.thefoundry.co.uk",
-    s: "Nuke Dev Guide",
-    t: "nukepy",
-    u: "https://docs.thefoundry.co.uk/products/nuke/developers/80/pythondevguide/search.html?q={{{s}}}&check_keywords=yes&area=default",
-  },
-  {
     d: "null-byte.wonderhowto.com",
     s: "Null Byte",
     t: "nullbyte",
@@ -41317,6 +39721,12 @@ export const bangs = [
     u: "https://numpy.org/doc/stable/search.html?q={{{s}}}",
   },
   {
+    d: "docs.scipy.org",
+    s: "numpy",
+    t: "np",
+    u: "https://numpy.org/doc/stable/search.html?q={{{s}}}",
+  },
+  {
     d: "www.nu.nl",
     s: "Nu.nl",
     t: "nu",
@@ -41327,12 +39737,6 @@ export const bangs = [
     s: "Nusagates Institute",
     t: "nusagates",
     u: "https://nusagates.com/?s={{{s}}}",
-  },
-  {
-    d: "nusearch.nottingham.ac.uk",
-    s: "NUsearch",
-    t: "nusearch",
-    u: "http://nusearch.nottingham.ac.uk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28UNUK%29%2Cscope%3A%28unuk_pda_ebl%29&frbg=&tab=default_tab&dstmp=1430162925299&srt=rank&ct=search&mode=Basic&dum=true&indx=1&tb=t&vl(freeText0)={{{s}}}&fn=search&vid=UNUK",
   },
   {
     d: "nutritiondata.self.com",
@@ -41545,12 +39949,6 @@ export const bangs = [
     u: "https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber={{{s}}}",
   },
   {
-    d: "www.o2.co.uk",
-    s: "O2 uk",
-    t: "o2",
-    u: "https://www.o2.co.uk/shop/{{{s}}}",
-  },
-  {
     d: "openaccessbutton.org",
     s: "Open Access Button",
     t: "oab",
@@ -41731,12 +40129,6 @@ export const bangs = [
     u: "https://octopart.com/search?q={{{s}}}",
   },
   {
-    d: "overclockers.co.uk",
-    s: "OverclockersUK",
-    t: "ocuk",
-    u: "http://overclockers.co.uk/search_results.php?keywords={{{s}}}",
-  },
-  {
     d: "www.oculus.com",
     s: "Oculus Rift Store",
     t: "oculus",
@@ -41855,12 +40247,6 @@ export const bangs = [
     s: "OfficeDepot",
     t: "officedepot",
     u: "http://www.officedepot.com/catalog/search.do?Ntt={{{s}}}",
-  },
-  {
-    d: "www.office-furniture-direct.co.uk",
-    s: "Office Furniture Direct",
-    t: "officefurniture",
-    u: "https://www.office-furniture-direct.co.uk/search?query={{{s}}}",
   },
   {
     d: "offliberty.com",
@@ -42037,12 +40423,6 @@ export const bangs = [
     u: "http://www.oxfordlearnersdictionaries.com/definition/american_english/{{{s}}}",
   },
   {
-    d: "olam.in",
-    s: "Olam",
-    t: "olam",
-    u: "http://olam.in/Dictionary/en_ml/{{{s}}} ",
-  },
-  {
     d: "www.oldapps.com",
     s: "OldApps.com",
     t: "oldapps",
@@ -42097,12 +40477,6 @@ export const bangs = [
     u: "https://oliverse.ch/?search={{{s}}}",
   },
   {
-    d: "www.dizionario-italiano.it",
-    s: "Dizionario Italiano Olivetti",
-    t: "olivetti",
-    u: "https://www.dizionario-italiano.it/dizionario-italiano.php?parola={{{s}}}",
-  },
-  {
     d: "search.oregonlive.com",
     s: "OregonLive",
     t: "ol",
@@ -42137,12 +40511,6 @@ export const bangs = [
     s: "Olxid",
     t: "olxid",
     u: "https://m.olx.co.id/all-results/q-{{{s}}} ",
-  },
-  {
-    d: "www.olx.in",
-    s: "Olx India",
-    t: "olxin",
-    u: "https://www.olx.in/?{{{s}}}",
   },
   {
     d: "olxliban.com",
@@ -42235,24 +40603,6 @@ export const bangs = [
     u: "https://omghackers.com/?s={{{s}}}",
   },
   {
-    d: "www.omgubuntu.co.uk",
-    s: "OMG! Ubuntu!",
-    t: "omg",
-    u: "http://www.omgubuntu.co.uk/?s={{{s}}} ",
-  },
-  {
-    d: "www.omgubuntu.co.uk",
-    s: "OMG! Ubuntu!",
-    t: "omgubuntu",
-    u: "http://www.omgubuntu.co.uk/?s={{{s}}}",
-  },
-  {
-    d: "www.omgubuntu.co.uk",
-    s: "OMG! Ubuntu!",
-    t: "omgu",
-    u: "http://www.omgubuntu.co.uk/?s={{{s}}}",
-  },
-  {
     d: "omgvoice.com",
     s: "OMGvoice",
     t: "omgvoice",
@@ -42311,12 +40661,6 @@ export const bangs = [
     s: "Oncyclopedia",
     t: "oncyclo",
     u: "http://oncyclopedia.org/wiki/Speciaal:Zoeken?search={{{s}}}&go=Zoeken",
-  },
-  {
-    d: "www.ondarock.it",
-    s: "OndaRock",
-    t: "ondarock",
-    u: "http://www.ondarock.it/websearch.php?domains=www.ondarock.it&q={{{s}}}&sitesearch=www.ondarock.it&client=pub-4895368002735382&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23117dd2%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A7292ab%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0569b7%3BLC%3A0569b7%3BT%3A191919%3BGFNT%3A73baf2%3BGIMP%3A73baf2%3BFORID%3A11&hl=it",
   },
   {
     d: "onecard.network",
@@ -42415,12 +40759,6 @@ export const bangs = [
     u: "https://cad.onshape.com/documents?resourceType=filter&nodeId=1&column=modifiedAt&order=desc&viewMode=0&q={{{s}}}",
   },
   {
-    d: "www.ons.gov.uk",
-    s: "Office for National Statistics",
-    t: "ons",
-    u: "https://www.ons.gov.uk/search?q={{{s}}}",
-  },
-  {
     d: "onzetaal.nl",
     s: "Genootschap Onze Taal",
     t: "onzetaal",
@@ -42483,12 +40821,6 @@ export const bangs = [
     s: "OpenClassrooms",
     t: "opc",
     u: "http://fr.openclassrooms.com/recherche/?search={{{s}}}",
-  },
-  {
-    d: "openbadges.it",
-    s: "OpenBadges",
-    t: "openbadges",
-    u: "https://openbadges.it/search/{{{s}}} ",
   },
   {
     d: "openbox.org",
@@ -42647,12 +40979,6 @@ export const bangs = [
     u: "http://openradar.appspot.com/search?query={{{s}}}",
   },
   {
-    d: "www.openrent.co.uk",
-    s: "OpenRent ",
-    t: "openrent",
-    u: "https://www.openrent.co.uk/properties-to-rent/{{{s}}}",
-  },
-  {
     d: "openrepos.net",
     s: "OpenRepos",
     t: "openrepos",
@@ -42717,12 +41043,6 @@ export const bangs = [
     s: "Openthebox",
     t: "openthebox",
     u: "https://openthebox.be/search?q={{{s}}}&v=t",
-  },
-  {
-    d: "search.open.ac.uk",
-    s: "Open University",
-    t: "openuni",
-    u: "http://search.open.ac.uk/public/search/results?q={{{s}}}",
   },
   {
     d: "openuserjs.org",
@@ -43027,12 +41347,6 @@ export const bangs = [
     s: "OSA Publishing",
     t: "osa",
     u: "https://www.osapublishing.org/search.cfm?q={{{s}}}",
-  },
-  {
-    d: "oscobo.co.uk",
-    s: "Oscobo Search",
-    t: "osc",
-    u: "https://oscobo.co.uk/search.php?q={{{s}}}",
   },
   {
     d: "wiki.osdev.org",
@@ -43343,12 +41657,6 @@ export const bangs = [
     s: "Forum Outclock",
     t: "outclock",
     u: "http://www.outclock.org/index.php?searchword={{{s}}}&searchphrase=all&Itemid=548&option=com_search",
-  },
-  {
-    d: "www.outdoorandcountry.co.uk",
-    s: "Outdoor and Country",
-    t: "outdoorandcountry",
-    u: "https://www.outdoorandcountry.co.uk/search/go?w={{{s}}} ",
   },
   {
     d: "www.ou.edu",
@@ -43723,12 +42031,6 @@ export const bangs = [
     u: "https://developers.google.com/speed/pagespeed/insights/?url={{{s}}}",
   },
   {
-    d: "www.paginegialle.it",
-    s: "Pagine Gialle",
-    t: "pagine",
-    u: "http://www.paginegialle.it/pgol/4-{{{s}}}",
-  },
-  {
     d: "www.pai.pt",
     s: "PaginasAmarelas.pt",
     t: "pai",
@@ -43759,12 +42061,6 @@ export const bangs = [
     u: "https://www.paleohacks.com/searches?utf8=%E2%9C%93&query={{{s}}}&commit=Search",
   },
   {
-    d: "www.ilpalio.siena.it",
-    s: "Archivio del Palio di Siena",
-    t: "palio",
-    u: "http://www.ilpalio.siena.it/5/cerca.aspx?q={{{s}}}",
-  },
-  {
     d: "www.paloaltonetworks.com",
     s: "Palo Alto Networks Documentation",
     t: "paloalto",
@@ -43787,12 +42083,6 @@ export const bangs = [
     s: "Pandora",
     t: "pandora",
     u: "https://www.pandora.com/search/{{{s}}}/all",
-  },
-  {
-    d: "www.theideaskitchen.co.uk",
-    s: "The Ideas Kitchen",
-    t: "panideas",
-    u: "https://www.theideaskitchen.co.uk/search/-{{{s}}}",
   },
   {
     d: "panlexicon.com",
@@ -44005,12 +42295,6 @@ export const bangs = [
     u: "https://patient.info/search.asp?searchterm={{{s}}}&searchcoll=All",
   },
   {
-    d: "patient.info",
-    s: "Patient.co.uk",
-    t: "patientuk",
-    u: "https://patient.info/search.asp?searchterm={{{s}}}",
-  },
-  {
     d: "www.patreon.com",
     s: "Patreon",
     t: "patreon",
@@ -44083,12 +42367,6 @@ export const bangs = [
     u: "http://rpm.pbone.net/index.php3?stat=3&search={{{s}}}&Search.x=0&Search.y=0&simple=1&srodzaj=1",
   },
   {
-    d: "pinboard.in",
-    s: "Pinboard",
-    t: "pb",
-    u: "http://pinboard.in/search/?query={{{s}}}&mine=Search+Mine",
-  },
-  {
     d: "www.pbs.org",
     s: "PBS",
     t: "pbs",
@@ -44099,12 +42377,6 @@ export const bangs = [
     s: "PaperBackSwap",
     t: "pbswap",
     u: "http://www.paperbackswap.com/book/browser.php?k={{{s}}}",
-  },
-  {
-    d: "pinboard.in",
-    s: "Pinboard.in (Tag)",
-    t: "pbtag",
-    u: "https://pinboard.in/t:{{{s}}} ",
   },
   {
     d: "www.pbtech.co.nz",
@@ -44220,18 +42492,6 @@ export const bangs = [
     u: "http://www.pcinpact.com/recherche?_search={{{s}}}",
   },
   {
-    d: "www.peacocks.co.uk",
-    s: "Peacocks UK",
-    t: "pcks",
-    u: "http://www.peacocks.co.uk/catalogsearch/result/?q={{{s}}}",
-  },
-  {
-    d: "picclick.co.uk",
-    s: "PicClick UK",
-    t: "pclick",
-    u: "https://picclick.co.uk/?q={{{s}}}",
-  },
-  {
     d: "www.parcello.org",
     s: "Parcello",
     t: "pclo",
@@ -44320,12 +42580,6 @@ export const bangs = [
     s: "PC World",
     t: "pcworld",
     u: "http://www.pcworld.com/search?qt={{{s}}}&tk=srch_top",
-  },
-  {
-    d: "www.ebi.ac.uk",
-    s: "PDB Europe",
-    t: "pdbe",
-    u: 'https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams={""text"":[{""value"":""{{{s}}}"",""condition1"":""AND"",""condition2"":""Contains""}]}',
   },
   {
     d: "www.rcsb.org",
@@ -44470,12 +42724,6 @@ export const bangs = [
     s: "UPENN: The Online Books Page",
     t: "pennbooks",
     u: "https://onlinebooks.library.upenn.edu/webbin/book/search?author=&amode=words&title={{{s}}}&tmode=words&c=x",
-  },
-  {
-    d: "pennydeals.in",
-    s: "best of deals and coupons",
-    t: "pennydeals",
-    u: "http://pennydeals.in/usearch.php?search={{{s}}}",
   },
   {
     d: "people.zoho.com",
@@ -44898,12 +43146,6 @@ export const bangs = [
     u: "https://www.phrasen.com/index.php?do=suche&q={{{s}}}",
   },
   {
-    d: "duckduckgo.com",
-    s: "phrases.org.uk",
-    t: "phrase",
-    u: "https://duckduckgo.com/?q=site:phrases.org.uk%20{{{s}}}",
-  },
-  {
     d: "phi.sh",
     s: "phish.net",
     t: "phset",
@@ -45030,40 +43272,16 @@ export const bangs = [
     u: "https://shop.pimoroni.com/?q={{{s}}}",
   },
   {
-    d: "pinboard.in",
-    s: "pinboard.in",
-    t: "pina",
-    u: "http://pinboard.in/search/?query={{{s}}}&all=Search+All",
-  },
-  {
-    d: "pinboard.in",
-    s: "Pinboard",
-    t: "pinboard",
-    u: "http://pinboard.in/search/?query={{{s}}}&mine=Search+Mine",
-  },
-  {
     d: "forum.pine64.org",
     s: "pine64.org",
     t: "pine64",
     u: "https://forum.pine64.org/search.php?text={{{s}}}&sortby=&order=desc",
   },
   {
-    d: "pinboard.in",
-    s: "Pinboard",
-    t: "pinf",
-    u: "https://pinboard.in/search/?query={{{s}}}&fulltext=on",
-  },
-  {
     d: "dns-tools.domaintools.com",
     s: "DomainTools.com",
     t: "ping",
     u: "http://dns-tools.domaintools.com/?method=ping&query={{{s}}}",
-  },
-  {
-    d: "www.pinknews.co.uk",
-    s: "PinkNews",
-    t: "pink",
-    u: "http://www.pinknews.co.uk/?s={{{s}}} ",
   },
   {
     d: "pinoutsguide.com",
@@ -45162,12 +43380,6 @@ export const bangs = [
     u: "http://www.philly.com/philly/search/?search=y&adv=y&searchKeywords={{{s}}}&minscore=50&pagesize=20&sites=philly&fields=full&sections=5&queryType=all",
   },
   {
-    d: "www.pisatoday.it",
-    s: "Pisa Today",
-    t: "pito",
-    u: "http://www.pisatoday.it/search/query/{{{s}}}",
-  },
-  {
     d: "vortaro.net",
     s: "Plena Ilustrita Vortaro",
     t: "piv",
@@ -45184,12 +43396,6 @@ export const bangs = [
     s: "Official Pixelmon Wiki",
     t: "pixel",
     u: "http://pixelmonmod.com/wiki/index.php?title={{{s}}}",
-  },
-  {
-    d: "pixels.thetangible.in",
-    s: "PixelPosts",
-    t: "pixelposts",
-    u: "http://pixels.thetangible.in/search/{{{s}}}",
   },
   {
     d: "www.pixelprospector.com",
@@ -45678,12 +43884,6 @@ export const bangs = [
     u: "http://shop.pnp.co.za/b2c_pnp/b2c/display/(cpgsize=12&layout=5.1-6_2_4_86_92_8_3&uiarea=1&carea=%24ROOT&cpgnum=1&cquery={{{s}}})/.do?rf=y",
   },
   {
-    d: "primenow.amazon.co.uk",
-    s: "Amazon Prime Now UK",
-    t: "pnuk",
-    u: "https://primenow.amazon.co.uk/search?k={{{s}}}",
-  },
-  {
     d: "psychonautwiki.org",
     s: "psychonaut wiki",
     t: "pnw",
@@ -45700,12 +43900,6 @@ export const bangs = [
     s: "Pocket Explore",
     t: "pocketexplore",
     u: "https://www.getpocket.com/explore/{{{s}}}",
-  },
-  {
-    d: "www.pocketgamer.co.uk",
-    s: "Pocket Gamer",
-    t: "pocketgamer",
-    u: "http://www.pocketgamer.co.uk/latest.asp?srch={{{s}}}",
   },
   {
     d: "app.getpocket.com",
@@ -45798,12 +43992,6 @@ export const bangs = [
     u: "https://www.petersofkensington.com.au/Public/Catalog/searchresults.aspx?search={{{s}}}&issearch=true",
   },
   {
-    d: "www.polimi.it",
-    s: "Politecnico di Milano",
-    t: "polimi",
-    u: "https://www.polimi.it/risultati-ricerca?q={{{s}}}&cerca=Cerca",
-  },
-  {
     d: "www.politico.eu",
     s: "Politico EU",
     t: "politicoeu",
@@ -45826,12 +44014,6 @@ export const bangs = [
     s: "Politiken.dk",
     t: "politiken",
     u: "http://politiken.dk/search/?q={{{s}}}",
-  },
-  {
-    d: "www.polito.it",
-    s: "Politecnico di Torino",
-    t: "polito",
-    u: "http://www.polito.it/search/?lang=it&q={{{s}}}",
   },
   {
     d: "www.polkaudio.com",
@@ -46138,12 +44320,6 @@ export const bangs = [
     u: "http://sporing.posten.no/sporing.html?lang=no&q={{{s}}}&submit=",
   },
   {
-    d: "www.poste.it",
-    s: "Poste Italiane",
-    t: "poste",
-    u: "https://www.poste.it/cerca/index.html#/risultati-spedizioni/{{{s}}}",
-  },
-  {
     d: "www.allposters.com",
     s: "All Posters",
     t: "posters",
@@ -46244,12 +44420,6 @@ export const bangs = [
     s: "PowerUI",
     t: "powerui",
     u: "https://powerui.kulestar.com/wiki/index.php?search={{{s}}}",
-  },
-  {
-    d: "www.powned.it",
-    s: "Powned.it",
-    t: "powned",
-    u: "https://www.powned.it/?s={{{s}}}",
   },
   {
     d: "www.powerthesaurus.org",
@@ -46408,12 +44578,6 @@ export const bangs = [
     u: "https://prwirepro.com/?s={{{s}}}",
   },
   {
-    d: "www.prestoclassical.co.uk",
-    s: "Presto Classical",
-    t: "presto",
-    u: "http://www.prestoclassical.co.uk/search.php?searchString={{{s}}}",
-  },
-  {
     d: "pretium.direct",
     s: "Pretium",
     t: "pretium",
@@ -46533,12 +44697,6 @@ export const bangs = [
     t: "primo",
   },
   {
-    d: "www.primrose.co.uk",
-    s: "Primrose",
-    t: "primrose",
-    u: "http://www.primrose.co.uk/search.mvc?search_term={{{s}}}",
-  },
-  {
     d: "library.princeton.edu",
     s: "Princeton University Library",
     t: "princetonlib",
@@ -46603,12 +44761,6 @@ export const bangs = [
     s: "Progress Community",
     t: "procomm",
     u: "https://community.progress.com/search#q={{{s}}}",
-  },
-  {
-    d: "www.procook.co.uk",
-    s: "ProCook",
-    t: "procook",
-    u: "http://www.procook.co.uk/shop/search/?searchDep=main+site&searchstr={{{s}}}",
   },
   {
     d: "",
@@ -46952,12 +45104,6 @@ export const bangs = [
     u: "http://www.collegian.psu.edu/search/?f=html&q={{{s}}}",
   },
   {
-    d: "pricespy.co.uk",
-    s: "pricespyuk",
-    t: "psuk",
-    u: "https://pricespy.co.uk/search?q={{{s}}}",
-  },
-  {
     d: "psu.summon.serialssolutions.com",
     s: "Penn State Library",
     t: "psulib",
@@ -47016,12 +45162,6 @@ export const bangs = [
     s: "Google Translate Portuguese-Spanish",
     t: "ptes",
     u: "https://translate.google.com/#pt/es/{{{s}}}",
-  },
-  {
-    d: "the-ptg.blogspot.in",
-    s: "The Great Blog",
-    t: "ptg",
-    u: "https://the-ptg.blogspot.in/search?q={{{s}}}",
   },
   {
     d: "www.planttherapy.com",
@@ -47126,22 +45266,10 @@ export const bangs = [
     u: "https://www.ncbi.nlm.nih.gov/pubmed?EntrezSystem2.PEntrez.Pubmed.SearchBar.Db=pubmed&term={{{s}}}",
   },
   {
-    d: "www.pubsgalore.co.uk",
-    s: "Pubs Galore",
-    t: "pubs",
-    u: "http://www.pubsgalore.co.uk/search.php?search={{{s}}}",
-  },
-  {
     d: "packages.ubuntu.com",
     s: "Ubuntu Packages Search",
     t: "puc",
     u: "http://packages.ubuntu.com/{{{s}}}",
-  },
-  {
-    d: "nationalarchives.gov.uk",
-    s: "PRONOM technical registry (The National Archives)",
-    t: "puid",
-    u: "http://nationalarchives.gov.uk/PRONOM/{{{s}}}",
   },
   {
     d: "www.pumpbiz.com",
@@ -48013,12 +46141,6 @@ export const bangs = [
     u: "http://api.rubyonrails.org/?q={{{s}}}",
   },
   {
-    d: "www.raiplay.it",
-    s: "RaiPlay",
-    t: "rai",
-    u: "https://www.raiplay.it/ricerca?q={{{s}}}",
-  },
-  {
     d: "global.rakuten.com",
     s: "Rakuten Global Market",
     t: "rakuteng",
@@ -48185,12 +46307,6 @@ export const bangs = [
     s: "Razzball",
     t: "razzball",
     u: "http://razzball.com/index.php?s={{{s}}}",
-  },
-  {
-    d: "www.rbbg.it",
-    s: "Rete Bibliotecaria Bergamasca",
-    t: "rbbg",
-    u: "https://www.rbbg.it/opac/search/lst?q={{{s}}}",
   },
   {
     d: "www.rbcroyalbank.com",
@@ -48739,12 +46855,6 @@ export const bangs = [
     u: "https://ru.redtram.com/search/?q={{{s}}}",
   },
   {
-    d: "www.reed.co.uk",
-    s: "reed.co.uk",
-    t: "reed",
-    u: "http://www.reed.co.uk/job/searchresults.aspx?k={{{s}}}",
-  },
-  {
     d: "reelgood.com",
     s: "Reelgood",
     t: "reelgood",
@@ -48823,12 +46933,6 @@ export const bangs = [
     u: "http://www.reference.com/web?q={{{s}}}",
   },
   {
-    d: "www.refreshcartridges.co.uk",
-    s: "Refresh Cartridges",
-    t: "refresh",
-    u: "http://www.refreshcartridges.co.uk/advanced_search_result.php?q={{{s}}}",
-  },
-  {
     d: "dictionary.reverso.net",
     s: "Reverso French - Spanish",
     t: "refres",
@@ -48881,12 +46985,6 @@ export const bangs = [
     s: "Regular Expression Library",
     t: "regex",
     u: "http://www.regexlib.com/Search.aspx?k={{{s}}} ",
-  },
-  {
-    d: "search.theregister.co.uk",
-    s: "The Register",
-    t: "register",
-    u: "http://search.theregister.co.uk/?q={{{s}}}&advanced=1&author=&date=the+dawn+of+time&site=all+The+Register+sites&results_per_page=100",
   },
   {
     d: "regravity.com",
@@ -48966,12 +47064,6 @@ export const bangs = [
     u: "http://lamiradadelreplicante.com/?s={{{s}}} ",
   },
   {
-    d: "repl.it",
-    s: "repl.it",
-    t: "repl",
-    u: "https://repl.it/languages/{{{s}}}",
-  },
-  {
     d: "represent.com",
     s: "Represent",
     t: "repm",
@@ -48994,18 +47086,6 @@ export const bangs = [
     s: "Replacements.com",
     t: "rep",
     u: "http://www.replacements.com/search/?query={{{s}}}",
-  },
-  {
-    d: "ricerca.repubblica.it",
-    s: "La Repubblica",
-    t: "repubblica",
-    u: "http://ricerca.repubblica.it/ricerca/repubblica?query={{{s}}}",
-  },
-  {
-    d: "ricerca.repubblica.it",
-    s: "La Repubblica",
-    t: "repubblicavideo",
-    u: "http://ricerca.repubblica.it/ricerca/repubblica-video?query={{{s}}}&view=repubblica-video",
   },
   {
     d: "repositorium.sdum.uminho.pt",
@@ -49072,12 +47152,6 @@ export const bangs = [
     s: "RetailgMeNot",
     t: "retailmenot",
     u: "http://www.retailmenot.com/view/{{{s}}}",
-  },
-  {
-    d: "retropie.org.uk",
-    s: "RetroPie",
-    t: "retro",
-    u: "https://retropie.org.uk/forum/search?term={{{s}}}&in=titlesposts&matchWords=all&sortBy=relevance&sortDirection=desc&showAs=posts",
   },
   {
     d: "retty.me",
@@ -49452,12 +47526,6 @@ export const bangs = [
     u: "https://www.riksdagen.se/sv/global/sok/?q={{{s}}}&st=1",
   },
   {
-    d: "www.cercarime.it",
-    s: "Cerca Rime",
-    t: "rima",
-    u: "https://www.cercarime.it/?rima={{{s}}}",
-  },
-  {
     d: "www.rimessolides.com",
     s: "Rimessolides.com",
     t: "rime",
@@ -49740,22 +47808,10 @@ export const bangs = [
     u: "http://www.rocketindustrial.com/catalogsearch/result/?q={{{s}}}",
   },
   {
-    d: "www.rockit.it",
-    s: "Rockit",
-    t: "rockit",
-    u: "https://www.rockit.it/web/cerca.php?k={{{s}}}",
-  },
-  {
     d: "luarocks.org",
     s: "LuaRocks",
     t: "rock",
     u: "https://luarocks.org/search?q={{{s}}}",
-  },
-  {
-    d: "www.rockol.it",
-    s: "Rockol",
-    t: "rockol",
-    u: "http://www.rockol.it/search.php?s={{{s}}}",
   },
   {
     d: "www.rockpapershotgun.com",
@@ -49834,12 +47890,6 @@ export const bangs = [
     s: "Roll20 DnD 5e Compendium",
     t: "roll205e",
     u: "https://roll20.net/compendium/dnd5e/searchbook/?terms={{{s}}}",
-  },
-  {
-    d: "www.rollingstone.it",
-    s: "Rolling Stone Italia",
-    t: "rollingstoneit",
-    u: "http://www.rollingstone.it/?s={{{s}}}",
   },
   {
     d: "www.rollingstone.com",
@@ -50206,12 +48256,6 @@ export const bangs = [
     u: "https://nz.rs-online.com/web/c/?sra=oss&r=t&searchTerm={{{s}}}",
   },
   {
-    d: "www.rspb.org.uk",
-    s: "RSPB",
-    t: "rspb",
-    u: "https://www.rspb.org.uk/search/?q={{{s}}}",
-  },
-  {
     d: "ph.rs-online.com",
     s: "RS Components Philippines",
     t: "rsph",
@@ -50396,12 +48440,6 @@ export const bangs = [
     s: "Rotten Tomatoes",
     t: "rt",
     u: "https://www.rottentomatoes.com/search/?search={{{s}}}",
-  },
-  {
-    d: "www.realtimetrains.co.uk",
-    s: "Real Time Trains",
-    t: "rtt",
-    u: "http://www.realtimetrains.co.uk/search/handler?type=basic&qs=true&search={{{s}}}",
   },
   {
     d: "www.rtvnh.nl",
@@ -50863,12 +48901,6 @@ export const bangs = [
     u: "http://www.sailguide.com/boats?boatname={{{s}}}",
   },
   {
-    d: "www.sainsburys.co.uk",
-    s: "Sainsbury's",
-    t: "sainsburys",
-    u: "https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/SearchDisplayView?storeId=10151&searchTerm={{{s}}}",
-  },
-  {
     d: "www.suomisanakirja.fi",
     s: "Suomi Sanakirja",
     t: "saki",
@@ -51133,12 +49165,6 @@ export const bangs = [
     u: "https://support.sas.com/en/search.html?q={{{s}}}&fq=siteArea%3A%22Documentation%22",
   },
   {
-    d: "www.saturngames.co.uk",
-    s: "Saturn Games",
-    t: "saturngames",
-    u: "http://www.saturngames.co.uk/?searchStr={{{s}}}&_a=viewCat&Submit=Go",
-  },
-  {
     d: "saucenao.com",
     s: "SauceNAO",
     t: "saucenao",
@@ -51149,12 +49175,6 @@ export const bangs = [
     s: "Saugus.net: Resources for Saugus, Massachusetts",
     t: "saugus",
     u: "https://www.saugus.net/cgi-bin/htsearch?config=htdig&restrict=&exclude=&words={{{s}}}&method=and&format=long",
-  },
-  {
-    d: "smile.amazon.co.uk",
-    s: "AmazonSmile UK",
-    t: "sauk",
-    u: "https://smile.amazon.co.uk/s/?field-keywords={{{s}}}",
   },
   {
     d: "savannah.gnu.org",
@@ -51233,12 +49253,6 @@ export const bangs = [
     s: "Science-Based Medicine",
     t: "sbm",
     u: "https://duckduckgo.com/?q=site%3Asciencebasedmedicine.org+{{{s}}}",
-  },
-  {
-    d: "opac.sbn.it",
-    s: "OPAC SBN",
-    t: "sbn",
-    u: "http://opac.sbn.it/opacsbn/opac/iccu/free.jsp={{{s}}}",
   },
   {
     d: "slackbuilds.org",
@@ -51335,12 +49349,6 @@ export const bangs = [
     s: "Scania Commercial Vehicles",
     t: "scania",
     u: "https://www.scania.com/global/en/home/misc/searchresult.html?q={{{s}}}",
-  },
-  {
-    d: "www.scan.co.uk",
-    s: "Scan",
-    t: "scan",
-    u: "http://www.scan.co.uk/search.aspx?q={{{s}}}",
   },
   {
     d: "www.scarecrow.com",
@@ -51450,12 +49458,6 @@ export const bangs = [
     u: "https://startpage.com/do/search?cmd=process_search&query={{{s}}}&language=deutsch&with_region=countryCH",
   },
   {
-    d: "www.schuh.co.uk",
-    s: "Schuh",
-    t: "schuh",
-    u: "http://www.schuh.co.uk/results.aspx#st={{{s}}}",
-  },
-  {
     d: "www.sciencedirect.com",
     s: "http://www.sciencedirect.com",
     t: "scid",
@@ -51508,12 +49510,6 @@ export const bangs = [
     s: "ScienceDirect",
     t: "sciencedirect",
     u: "https://www.sciencedirect.com/search?qs={{{s}}}",
-  },
-  {
-    d: "www.lescienze.it",
-    s: "Le Scienze",
-    t: "scienze",
-    u: "http://www.lescienze.it/?q={{{s}}}",
   },
   {
     d: "www.worldswithoutend.com",
@@ -51606,12 +49602,6 @@ export const bangs = [
     u: "http://www.spanishdict.com/conjugate/{{{s}}}",
   },
   {
-    d: "www.scoop.it",
-    s: "Scoop.it",
-    t: "scoop",
-    u: "http://www.scoop.it/search?q={{{s}}}",
-  },
-  {
     d: "www.scope.dk",
     s: "scope.dk",
     t: "scope.dk",
@@ -51630,24 +49620,6 @@ export const bangs = [
     u: "https://www.slant.co/search?query={{{s}}}",
   },
   {
-    d: "www.scotbycycles.co.uk",
-    s: "Scotby Cycles",
-    t: "scotby",
-    u: "https://www.scotbycycles.co.uk/facetresults.aspx?Term={{{s}}}",
-  },
-  {
-    d: "www.dsl.ac.uk",
-    s: "scots dictionary",
-    t: "scots",
-    u: "http://www.dsl.ac.uk/results/{{{s}}}",
-  },
-  {
-    d: "www.scottsradiosite.co.uk",
-    s: "Scott's Radio Site",
-    t: "scottsradiosite",
-    u: "http://www.scottsradiosite.co.uk/?s={{{s}}}",
-  },
-  {
     d: "scottwyden.com",
     s: "Scott Wyden Imagery",
     t: "scottwyden",
@@ -51658,12 +49630,6 @@ export const bangs = [
     s: "scout.com",
     t: "scout",
     u: "http://www.scout.com/news?query={{{s}}}",
-  },
-  {
-    d: "scouts.org.uk",
-    s: "Scouts UK",
-    t: "scouts",
-    u: "https://scouts.org.uk/cse-search/?query={{{s}}}",
   },
   {
     d: "lafundacionscp.wikidot.com",
@@ -51750,12 +49716,6 @@ export const bangs = [
     u: "http://www.senscritique.com/recherche/?gs_query={{{s}}}&submit2=",
   },
   {
-    d: "www.scrooge.co.uk",
-    s: "Scrooge",
-    t: "scrooge",
-    u: "https://www.scrooge.co.uk/search?keyphrase={{{s}}}",
-  },
-  {
     d: "scryfall.com",
     s: "Scryfall",
     t: "scryfall",
@@ -51837,12 +49797,6 @@ export const bangs = [
     s: "Official Stardew Valley Wiki",
     t: "sdv",
     u: "http://stardewvalleywiki.com/mediawiki/index.php?search={{{s}}}",
-  },
-  {
-    d: "www.se80.co.uk",
-    s: "SAP Development Objects",
-    t: "se80",
-    u: "https://www.se80.co.uk/action/search_results.htm?q={{{s}}}",
   },
   {
     d: "www.seamless.com",
@@ -51993,12 +49947,6 @@ export const bangs = [
     s: "SecLists.org",
     t: "seclists",
     u: "http://insecure.org/search.html?cx=partner-pub-0078565546631069%3Abx60rb-fytx&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}&sa=SecSearch",
-  },
-  {
-    d: "www.secondbike.co.uk",
-    s: "Secondbike",
-    t: "secondbike",
-    u: "https://www.secondbike.co.uk/search?q={{{s}}}",
   },
   {
     d: "secsearch.sec.gov",
@@ -52762,12 +50710,6 @@ export const bangs = [
     u: "https://www.scribblehub.com/?s={{{s}}}",
   },
   {
-    d: "shura.shu.ac.uk",
-    s: "Sheffield Hallam University Research Archive (SHURA)",
-    t: "shura",
-    u: "http://shura.shu.ac.uk/cgi/facet/simple2?q={{{s}}}",
-  },
-  {
     d: "www.shutterstock.com",
     s: "Shutterstock",
     t: "shutterstock",
@@ -52910,12 +50852,6 @@ export const bangs = [
     s: "Sinonimi Master",
     t: "sinonimi",
     u: "http://luirig.altervista.org/sinonimi/hypertext/ricerca.php?title={{{s}}}",
-  },
-  {
-    d: "sinonimi.it",
-    s: "Sinonimi.it",
-    t: "sinonimit",
-    u: "http://sinonimi.it/{{{s}}}",
   },
   {
     d: "www.wordreference.com",
@@ -53138,12 +51074,6 @@ export const bangs = [
     s: "Skin Deep Cosmetics Database",
     t: "skindeep",
     u: "http://www.ewg.org/skindeep/search.php?query={{{s}}}",
-  },
-  {
-    d: "skinflint.co.uk",
-    s: "Skinflint",
-    t: "skinflint",
-    u: "http://skinflint.co.uk/?fs={{{s}}}",
   },
   {
     d: "www.theskinnyconfidential.com",
@@ -53392,12 +51322,6 @@ export const bangs = [
     u: "https://www.searchlock.com/search?q={{{s}}}",
   },
   {
-    d: "www.searchlotto.co.uk",
-    s: "Search Lotto",
-    t: "slo",
-    u: "https://www.searchlotto.co.uk/yhs_search.php?q={{{s}}}",
-  },
-  {
     d: "slo-tech.com",
     s: "Slo-Tech",
     t: "slotech",
@@ -53462,18 +51386,6 @@ export const bangs = [
     s: "Amazon Smile",
     t: "smam",
     u: "http://smile.amazon.com/s/?field-keywords={{{s}}}",
-  },
-  {
-    d: "smile.amazon.co.uk",
-    s: "Amazon Smile (UK)",
-    t: "smamuk",
-    u: "https://smile.amazon.co.uk/s?field-keywords={{{s}}}",
-  },
-  {
-    d: "streetmap.co.uk",
-    s: "Streetmap",
-    t: "smap",
-    u: "http://streetmap.co.uk/postcode/{{{s}}}",
   },
   {
     d: "rug.on.worldcat.org",
@@ -53576,12 +51488,6 @@ export const bangs = [
     s: "Amazon Smile",
     t: "smile",
     u: "https://smile.amazon.com/s?field-keywords={{{s}}}",
-  },
-  {
-    d: "smile.amazon.co.uk",
-    s: "Amazon Smile (UK)",
-    t: "smileuk",
-    u: "https://smile.amazon.co.uk/s?field-keywords={{{s}}}",
   },
   {
     d: "si.edu",
@@ -53792,12 +51698,6 @@ export const bangs = [
     s: "StartPage Web Search(Japanese)",
     t: "snih",
     u: "https://www.startpage.com/do/search?q={{{s}}}&l=nihongo",
-  },
-  {
-    d: "www.sinonimi-contrari.it",
-    s: "Sinonimi - Contrari",
-    t: "snit",
-    u: "http://www.sinonimi-contrari.it/{{{s}}}/",
   },
   {
     d: "community.servicenow.com",
@@ -54026,12 +51926,6 @@ export const bangs = [
     u: "http://solidaris.be/MonsWP/Pages/recherche.aspx?k={{{s}}} ",
   },
   {
-    d: "solo.bodleian.ox.ac.uk",
-    s: "SOLO journals",
-    t: "soloj",
-    u: "http://solo.bodleian.ox.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=local&search_scope=LSCOP_ALL&vid=SOLO&facet=rtype,include,journals&lang=en_US&offset=0",
-  },
-  {
     d: "www.solomid.net",
     s: "Solomid",
     t: "solomid",
@@ -54042,12 +51936,6 @@ export const bangs = [
     s: "Solopress",
     t: "solopress",
     u: "https://www.solopress.com/search?searchTerm={{{s}}}",
-  },
-  {
-    d: "solo.bodleian.ox.ac.uk",
-    s: "SOLO: Search Oxford Libraries Online",
-    t: "solo",
-    u: "http://solo.bodleian.ox.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=local&search_scope=LSCOP_ALL&vid=SOLO&lang=en_US&offset=0",
   },
   {
     d: "www.supersoluce.com",
@@ -54138,12 +52026,6 @@ export const bangs = [
     s: "Sonnentor",
     t: "sonnentor",
     u: "https://www.sonnentor.com/de-at/find?q={{{s}}}&c=Alle",
-  },
-  {
-    d: "www.sonofmarketing.it",
-    s: "Son of Marketing",
-    t: "sonofmarketing",
-    u: "http://www.sonofmarketing.it/?q={{{s}}}",
   },
   {
     d: "www.sorabel.com",
@@ -54307,12 +52189,6 @@ export const bangs = [
     t: "spanslang",
   },
   {
-    d: "www.spareroom.co.uk",
-    s: "SpareRoom",
-    t: "spare",
-    u: "https://www.spareroom.co.uk/flatshare/flatshare_detail.pl?flatshare_id={{{s}}}",
-  },
-  {
     d: "www.sparkfun.com",
     s: "SparkFun",
     t: "sparkfun",
@@ -54353,12 +52229,6 @@ export const bangs = [
     s: "Speakers Associates",
     t: "speakers",
     u: "https://www.speakersassociates.com/search?search_api_views_fulltext={{{s}}}",
-  },
-  {
-    d: "www.spectator.co.uk",
-    s: "The Spectator",
-    t: "speccie",
-    u: "http://www.spectator.co.uk/?s={{{s}}}",
   },
   {
     d: "speedrun.com",
@@ -54455,12 +52325,6 @@ export const bangs = [
     s: "SpigotMC",
     t: "spigot",
     u: "https://www.spigotmc.org/search/14203285/?q={{{s}}}&o=relevance",
-  },
-  {
-    d: "www.spinoza.it",
-    s: "Spinoza",
-    t: "spinoza",
-    u: "http://www.spinoza.it/?s={{{s}}}",
   },
   {
     d: "spinrilla.com",
@@ -54719,12 +52583,6 @@ export const bangs = [
     s: "Spotify",
     t: "spy",
     u: "https://open.spotify.com/search/{{{s}}}",
-  },
-  {
-    d: "www.sqa.org.uk",
-    s: "SQA Past papers",
-    t: "sqa",
-    u: "https://www.sqa.org.uk/pastpapers/findpastpaper.htm?subject={{{s}}}",
   },
   {
     d: "community.bistudio.com",
@@ -54990,12 +52848,6 @@ export const bangs = [
     u: "http://www.ssptv.com/?s={{{s}}}",
   },
   {
-    d: "shopsmartreviews.in",
-    s: "Shop Smart Reviews",
-    t: "ssr",
-    u: "https://shopsmartreviews.in/?s={{{s}}}",
-  },
-  {
     d: "www.similarsitesearch.com",
     s: "SimilarSiteSearch",
     t: "ssses",
@@ -55162,12 +53014,6 @@ export const bangs = [
     s: "Statistics By Jim",
     t: "stats",
     u: "https://statisticsbyjim.com/?s={{{s}}}",
-  },
-  {
-    d: "www.staxtradecentres.co.uk",
-    s: "Stax Trade Centers",
-    t: "stax",
-    u: "http://www.staxtradecentres.co.uk/search/?keys={{{s}}}",
   },
   {
     d: "staygb.com",
@@ -55661,12 +53507,6 @@ export const bangs = [
     u: "https://subeta.net/user_shops.php/search/shops/{{{s}}}",
   },
   {
-    d: "www.subito.it",
-    s: "Subito.it",
-    t: "subito",
-    u: "http://www.subito.it/annunci-italia/vendita/usato/?q={{{s}}}",
-  },
-  {
     d: "docs.sublimetext.info",
     s: "Sublime Text Unofficial Documentation",
     t: "subldoc",
@@ -55731,12 +53571,6 @@ export const bangs = [
     s: "Voat",
     t: "subverse",
     u: "https://searchvoat.co/subverses/?q={{{s}}}",
-  },
-  {
-    d: "www.suconlavite.it",
-    s: "Suconlavite.it",
-    t: "suconlavite",
-    u: "http://www.suconlavite.it/?s={{{s}}}",
   },
   {
     d: "sitecheck.sucuri.net",
@@ -56481,18 +54315,6 @@ export const bangs = [
     u: "https://tails.boum.org/ikiwiki.cgi?P={{{s}}}",
   },
   {
-    d: "www.tripadvisor.in",
-    s: "Tripadvisor.in",
-    t: "tain",
-    u: "https://www.tripadvisor.in/Search?q={{{s}}}",
-  },
-  {
-    d: "www.tripadvisor.it",
-    s: "https://www.tripadvisor.it/",
-    t: "tait",
-    u: "https://www.tripadvisor.it/Search?q={{{s}}}",
-  },
-  {
     d: "www.takealot.com",
     s: "takealot.com",
     t: "takealot",
@@ -56545,12 +54367,6 @@ export const bangs = [
     s: "Tangorin",
     t: "tangorin",
     u: "http://tangorin.com/examples/{{{s}}}",
-  },
-  {
-    d: "www.tanishq.co.in",
-    s: "tanishq",
-    t: "tanishq",
-    u: "https://www.tanishq.co.in/search-result/{{{s}}}",
   },
   {
     d: "www.tanks-encyclopedia.com",
@@ -56691,12 +54507,6 @@ export const bangs = [
     u: "http://www.tripadvisor.com/Search?q={{{s}}} ",
   },
   {
-    d: "www.tripadvisor.co.uk",
-    s: "TripAdvisor (UK)",
-    t: "tauk",
-    u: "https://www.tripadvisor.co.uk/Search?q={{{s}}}",
-  },
-  {
     d: "ta.wikipedia.org",
     s: "Tamil Wikipedia",
     t: "tawk",
@@ -56707,12 +54517,6 @@ export const bangs = [
     s: "Tackle Warehouse",
     t: "taw",
     u: "https://www.tacklewarehouse.com/searchresults.html#search=products&searchtext={{{s}}}",
-  },
-  {
-    d: "www.taxi.it",
-    s: "Taxi.it",
-    t: "taxi",
-    u: "https://www.taxi.it/?s={{{s}}}",
   },
   {
     d: "isittaxed.ca",
@@ -56755,12 +54559,6 @@ export const bangs = [
     s: "The Book Depository",
     t: "tbd",
     u: "http://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book",
-  },
-  {
-    d: "www.treccani.it",
-    s: "Treccani Biografie",
-    t: "tbio",
-    u: "http://www.treccani.it/biografie/?q={{{s}}}",
   },
   {
     d: "www.tbn.org",
@@ -56972,12 +54770,6 @@ export const bangs = [
     u: "https://techgeek.com.au/?s={{{s}}}",
   },
   {
-    d: "techified-news.blogspot.co.uk",
-    s: "Techified",
-    t: "techified",
-    u: "http://techified-news.blogspot.co.uk/{{{s}}} uds-search-results",
-  },
-  {
     d: "techinfoeasy.blogspot.com",
     s: "Tech info easy",
     t: "techinfo",
@@ -57181,12 +54973,6 @@ export const bangs = [
     u: "https://www.telegram.hr/?s={{{s}}}",
   },
   {
-    d: "www.telegraph.co.uk",
-    s: "Telegraph",
-    t: "telegraph",
-    u: "https://www.telegraph.co.uk/search.html?q={{{s}}}",
-  },
-  {
     d: "teletekst-data.nos.nl",
     s: "Teletekst",
     t: "teletekst",
@@ -57251,12 +55037,6 @@ export const bangs = [
     s: "Tennis abstract",
     t: "tena",
     u: "http://www.tennisabstract.com/cgi-bin/player.cgi?p={{{s}}}",
-  },
-  {
-    d: "www.treccani.it",
-    s: "Treccani Enciclopedia",
-    t: "tenc",
-    u: "http://www.treccani.it/enciclopedia/tag/{{{s}}}/",
   },
   {
     d: "translate.google.com",
@@ -57365,12 +55145,6 @@ export const bangs = [
     s: "The Elder Scrolls WIki",
     t: "teswiki",
     u: "http://elderscrolls.wikia.com/wiki/Special:Search?search={{{s}}}",
-  },
-  {
-    d: "www.treccani.it",
-    s: "Treccani Enciclopedia",
-    t: "te",
-    u: "http://www.treccani.it/enciclopedia/tag/{{{s}}}/",
   },
   {
     d: "eur-lex.europa.eu",
@@ -57514,12 +55288,6 @@ export const bangs = [
     s: "Tensorflow",
     t: "tflow",
     u: "https://www.tensorflow.org/s/results/?q={{{s}}} ",
-  },
-  {
-    d: "www.tfl.gov.uk",
-    s: "Transport for London",
-    t: "tfl",
-    u: "http://www.tfl.gov.uk/tfl/search/?keywords={{{s}}}",
   },
   {
     d: "www.terraform.io",
@@ -57684,12 +55452,6 @@ export const bangs = [
     u: "https://www.thebrick.com/pages/search-results?limit=48&q={{{s}}}",
   },
   {
-    d: "www.thecheckeredflag.co.uk",
-    s: "The Checkered Flag",
-    t: "thecheckeredflag",
-    u: "http://www.thecheckeredflag.co.uk/?s={{{s}}} ",
-  },
-  {
     d: "www.columbian.com",
     s: "The Columbian",
     t: "thecolumbian",
@@ -57726,12 +55488,6 @@ export const bangs = [
     u: "http://www.thefreedictionary.com/{{{s}}}",
   },
   {
-    d: "www.thefunny.in",
-    s: "The Funny",
-    t: "thefunny",
-    u: "https://www.thefunny.in/?s={{{s}}}",
-  },
-  {
     d: "www.thefutoncritic.com",
     s: "The Futon Critic",
     t: "thefutoncritic",
@@ -57742,12 +55498,6 @@ export const bangs = [
     s: "Thegloor",
     t: "thegloor",
     u: "https://thegloor.com/?s={{{s}}}",
-  },
-  {
-    d: "www.thegreat.uk",
-    s: "Greatness Reinvented",
-    t: "thegreat",
-    u: "https://www.thegreat.uk/?s={{{s}}}",
   },
   {
     d: "www.google.com",
@@ -57828,12 +55578,6 @@ export const bangs = [
     u: "https://www.hooktheory.com/theorytab/results?path={{{s}}}",
   },
   {
-    d: "search.theregister.co.uk",
-    s: "the register",
-    t: "theregister",
-    u: "http://search.theregister.co.uk/?q={{{s}}}&advanced=1&author=&date=the+dawn+of+time&site=all+The+Register+sites&results_per_page=100",
-  },
-  {
     d: "www.thermatru.com",
     s: "Therma-tru Doors",
     t: "thermatru",
@@ -57892,12 +55636,6 @@ export const bangs = [
     s: "The Web Flash",
     t: "thewebflash",
     u: "https://www.thewebflash.com/?s={{{s}}}",
-  },
-  {
-    d: "www.theweek.co.uk",
-    s: "The Week",
-    t: "theweek",
-    u: "http://www.theweek.co.uk/search/site/{{{s}}}",
   },
   {
     d: "theyarddr.com",
@@ -58008,12 +55746,6 @@ export const bangs = [
     u: "https://threadreaderapp.com/search?q={{{s}}}",
   },
   {
-    d: "www.three.co.uk",
-    s: "Three",
-    t: "three",
-    u: "http://www.three.co.uk/Search/?q={{{s}}}",
-  },
-  {
     d: "www.thriftbooks.com",
     s: "ThriftBooks",
     t: "thriftb",
@@ -58090,12 +55822,6 @@ export const bangs = [
     s: "Ticket Master",
     t: "ticketmaster",
     u: "https://www.ticketmaster.com/search?q={{{s}}}",
-  },
-  {
-    d: "www.ticketmaster.co.uk",
-    s: "Ticketmaster UK",
-    t: "ticketmasteruk",
-    u: "http://www.ticketmaster.co.uk/search?tm_link=tm_homeA_header_search&user_input=test&q={{{s}}}",
   },
   {
     d: "www.ticketnetwork.com",
@@ -58560,12 +56286,6 @@ export const bangs = [
     u: "http://www.tinymixtapes.com/?search={{{s}}}",
   },
   {
-    d: "www.transfermarkt.co.uk",
-    s: "Transfermarkt",
-    t: "tmuk",
-    u: "http://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query={{{s}}}&x=0&y=0",
-  },
-  {
     d: "www.techmansworld.com",
     s: "Techman's World",
     t: "tmw",
@@ -58582,12 +56302,6 @@ export const bangs = [
     s: "Tunisie Annonces",
     t: "tn-annonces",
     u: "http://www.tunisie-annonce.com/search.asp?cx=partner-pub-4455074141785177%3Aabc2p7-5h3d&cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&sa=Rechercher&siteurl=www.tunisie-annonce.com%2F&ref=&ss=1479j334475j10",
-  },
-  {
-    d: "discovery.nationalarchives.gov.uk",
-    s: "The National Archives Discovery",
-    t: "tna",
-    u: "http://discovery.nationalarchives.gov.uk/results/r?_q={{{s}}}",
   },
   {
     d: "tnbc1.com",
@@ -59100,12 +56814,6 @@ export const bangs = [
     u: "http://www.traileraddict.com/search.php?sitesearch=www.traileraddict.com&q={{{s}}}",
   },
   {
-    d: "www.trailandmountain.co.uk",
-    s: "Trail And Mountain",
-    t: "trail",
-    u: "https://www.trailandmountain.co.uk/search?q={{{s}}}",
-  },
-  {
     d: "trainingindustry.com",
     s: "Training Industry",
     t: "training",
@@ -59208,12 +56916,6 @@ export const bangs = [
     u: "https://www.traxsource.com/search?term={{{s}}}",
   },
   {
-    d: "www.treccani.it",
-    s: "treccani",
-    t: "treccani",
-    u: "http://www.treccani.it/vocabolario/tag/{{{s}}}",
-  },
-  {
     d: "www.thesaurus.com",
     s: "Thesaurus at Reference.com",
     t: "tref",
@@ -59224,12 +56926,6 @@ export const bangs = [
     s: "Trello",
     t: "trello",
     u: "https://trello.com/search?q={{{s}}}",
-  },
-  {
-    d: "trendingimages.in",
-    s: "TrendingImages",
-    t: "trending",
-    u: "https://trendingimages.in/search/images/?q={{{s}}}",
   },
   {
     d: "www.trendmicro.com",
@@ -59272,12 +56968,6 @@ export const bangs = [
     s: "Rolex Forums",
     t: "trf",
     u: "http://www.rolexforums.com/tags.php?tag={{{s}}}",
-  },
-  {
-    d: "www.transfermarkt.co.uk",
-    s: "Transfermarkt",
-    t: "trfuk",
-    u: "http://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query={{{s}}}",
   },
   {
     d: "translate.google.com",
@@ -59400,12 +57090,6 @@ export const bangs = [
     u: "https://www.trouva.com/shop/search/{{{s}}}",
   },
   {
-    d: "www.trovaprezzi.it",
-    s: "Trovaprezzi.it",
-    t: "trovaprezzi",
-    u: "http://www.trovaprezzi.it/categoria.aspx?libera={{{s}}}&id=-1&prezzomin=&prezzomax=",
-  },
-  {
     d: "trove.nla.gov.au",
     s: "Trove - National Library of Australia",
     t: "trove",
@@ -59508,22 +57192,10 @@ export const bangs = [
     u: "https://www.teeterritory.com/search?q={{{s}}}",
   },
   {
-    d: "www.treccani.it",
-    s: "Treccani Sinonimi e Contrari",
-    t: "tsin",
-    u: "http://www.treccani.it/sinonimi/?q={{{s}}}",
-  },
-  {
     d: "www.thesinglesjukebox.com",
     s: "The Singles Jukebox",
     t: "tsj",
     u: "http://www.thesinglesjukebox.com/?s={{{s}}}",
-  },
-  {
-    d: "www.thestudentroom.co.uk",
-    s: "The Student Room",
-    t: "tsr",
-    u: "https://www.thestudentroom.co.uk/search/?tsr-search-query={{{s}}}",
   },
   {
     d: "www.turbosquid.com",
@@ -59584,12 +57256,6 @@ export const bangs = [
     s: "ttruyen.com",
     t: "ttruyen",
     u: "http://truyendi.com/tim-kiem-truyen.html?q={{{s}}}",
-  },
-  {
-    d: "www.triestetrasporti.it",
-    s: "Trieste Trasporti",
-    t: "tts",
-    u: "https://www.triestetrasporti.it//?s={{{s}}}&lang=it",
   },
   {
     d: "www.texastribune.org",
@@ -59753,12 +57419,6 @@ export const bangs = [
     u: "https://www.tutti.ch/de/li/ganze-schweiz?q={{{s}}}",
   },
   {
-    d: "www.tuttocitta.it",
-    s: "TuttoCitta",
-    t: "tuttocitta",
-    u: "https://www.tuttocitta.it/mappe/{{{s}}}",
-  },
-  {
     d: "search.tut.by",
     s: "TUT.BY",
     t: "tut",
@@ -59871,12 +57531,6 @@ export const bangs = [
     s: "TVNZ OnDemand",
     t: "tvnz",
     u: "https://www.tvnz.co.nz/search?q={{{s}}}",
-  },
-  {
-    d: "www.treccani.it",
-    s: "Treccani Vocabolario",
-    t: "tvoc",
-    u: "http://www.treccani.it/vocabolario/tag/{{{s}}}/",
   },
   {
     d: "tvseriesfinale.com",
@@ -60184,12 +57838,6 @@ export const bangs = [
     u: "http://www.urgente24.com/search/node/{{{s}}}",
   },
   {
-    d: "www.uaar.it",
-    s: "UAAR",
-    t: "uaar",
-    u: "http://www.uaar.it/news/?s={{{s}}}",
-  },
-  {
     d: "uappexplorer.com",
     s: "uApp Explorer",
     t: "uappex",
@@ -60332,12 +57980,6 @@ export const bangs = [
     s: "UCL Library",
     t: "ucllib",
     u: "https://ucl-new-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&offset=0&tab=local&vid=UCL_VU2&search_scope=CSCOP_UCL",
-  },
-  {
-    d: "search2.ucl.ac.uk",
-    s: "UCL",
-    t: "ucl",
-    u: "https://search2.ucl.ac.uk/s/search.html?query={{{s}}}&collection=website-meta&profile=_website&tab=websites&submit=Go",
   },
   {
     d: "ja.uncyc.org",
@@ -60484,12 +58126,6 @@ export const bangs = [
     u: "https://keyserver.ubuntu.com/pks/lookup?search={{{s}}}&fingerprint=on&hash=on&op=vindex",
   },
   {
-    d: "petition.parliament.uk",
-    s: "Petitions UK Government and Parliament",
-    t: "ukgovpeti",
-    u: "https://petition.parliament.uk/petitions?q={{{s}}}",
-  },
-  {
     d: "gridreferencefinder.com",
     s: "UK Grid Reference",
     t: "ukgr",
@@ -60502,28 +58138,10 @@ export const bangs = [
     u: "https://ukikipedia.net/mediawiki/index.php?search={{{s}}}",
   },
   {
-    d: "www.legislation.gov.uk",
-    s: "UK Legislation (Official Archive)",
-    t: "uklaw",
-    u: "http://www.legislation.gov.uk/all?title={{{s}}}",
-  },
-  {
-    d: "www.parliament.uk",
-    s: "UK Parliament (Official Site)",
-    t: "ukparl",
-    u: "http://www.parliament.uk/search/results/?q={{{s}}}",
-  },
-  {
     d: "uk.pcpartpicker.com",
     s: "uk.pcpartpicker.com",
     t: "ukppp",
     u: "https://uk.pcpartpicker.com/search/?cc=uk&q={{{s}}}",
-  },
-  {
-    d: "www.parliament.uk",
-    s: "UK Parliament",
-    t: "ukp",
-    u: "http://www.parliament.uk/search/results/?q={{{s}}}",
   },
   {
     d: "ukutabs.com",
@@ -60742,12 +58360,6 @@ export const bangs = [
     u: "https://unicode-table.com/en/search/?q={{{s}}}",
   },
   {
-    d: "www.unilad.co.uk",
-    s: "UNILAD",
-    t: "unilad",
-    u: "https://www.unilad.co.uk/search/{{{s}}}",
-  },
-  {
     d: "www.uniprot.org",
     s: "UniprotKB",
     t: "uniprot",
@@ -60932,12 +58544,6 @@ export const bangs = [
     u: "http://search.un.org/search?ie=utf8&site=un_org&output=xml_no_dtd&client=UN_Website_en&num=10&lr=lang_en&proxystylesheet=UN_Website_en&oe=utf8&q={{{s}}}&Submit=Go",
   },
   {
-    d: "unvis.it",
-    s: "Unvisit.me",
-    t: "unv",
-    u: "http://unvis.it/{{{s}}}",
-  },
-  {
     d: "uncyclopedia.wikia.com",
     s: "Uncyclopedia",
     t: "unwiki",
@@ -60984,30 +58590,6 @@ export const bangs = [
     s: "University of Toronto Library Onesearch",
     t: "uoft",
     u: "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}",
-  },
-  {
-    d: "www.kent.ac.uk",
-    s: "University of Kent",
-    t: "uok",
-    u: "https://www.kent.ac.uk/search/?q={{{s}}}",
-  },
-  {
-    d: "www.manchester.ac.uk",
-    s: " University of Manchester ",
-    t: "uom",
-    u: "http://www.manchester.ac.uk/search/?q={{{s}}}",
-  },
-  {
-    d: "www.nottingham.ac.uk",
-    s: "University of Nottingham",
-    t: "uon",
-    u: "http://www.nottingham.ac.uk/search.aspx?q={{{s}}}:",
-  },
-  {
-    d: "www.surrey.ac.uk",
-    s: "University of Surrey",
-    t: "uos",
-    u: "https://www.surrey.ac.uk/search?query={{{s}}}",
   },
   {
     d: "packages.ubuntu.com",
@@ -61615,18 +59197,6 @@ export const bangs = [
     u: "http://validator.w3.org/check?uri={{{s}}}&charset=%28detect+automatically%29&doctype=Inline&group=0",
   },
   {
-    d: "www.valvesonline.co.uk",
-    s: "Valves Online",
-    t: "valvesonline",
-    u: "https://www.valvesonline.co.uk/catalogsearch/result/?q={{{s}}}",
-  },
-  {
-    d: "www.valvesonline.co.uk",
-    s: "Valves Online",
-    t: "valves",
-    u: "https://www.valvesonline.co.uk/catalogsearch/result/?q={{{s}}}",
-  },
-  {
     d: "developer.valvesoftware.com",
     s: "Valve Developer Wiki",
     t: "valve",
@@ -61669,22 +59239,10 @@ export const bangs = [
     u: "https://vandal.elespanol.com/busqueda/{{{s}}}",
   },
   {
-    d: "vapefiend.co.uk",
-    s: "Vapefiend",
-    t: "vapefiend",
-    u: "https://vapefiend.co.uk/search?q={{{s}}}&type=product",
-  },
-  {
     d: "www.vapetime-ec.com",
     s: "Vapetime EC",
     t: "vapetime",
     u: "https://www.vapetime-ec.com/?s={{{s}}}",
-  },
-  {
-    d: "www.vapeoildirect.co.uk",
-    s: "www.vapeoildirect.co.uk",
-    t: "vape",
-    u: "http://www.vapeoildirect.co.uk/?s={{{s}}}",
   },
   {
     d: "variety.com",
@@ -61763,12 +59321,6 @@ export const bangs = [
     s: "Vision Christian Media",
     t: "vcm",
     u: "https://vision.org.au/site-search/?phrase={{{s}}}&cbi=1",
-  },
-  {
-    d: "www.vouchercodes.co.uk",
-    s: "VoucherCodes",
-    t: "vc",
-    u: "https://www.vouchercodes.co.uk/search/?q={{{s}}}",
   },
   {
     d: "www.vandenborre.be",
@@ -61859,12 +59411,6 @@ export const bangs = [
     s: "Diario Veloz",
     t: "veloz",
     u: "http://www.diarioveloz.com/contenidos/resultado.html?text={{{s}}}",
-  },
-  {
-    d: "www.vemo.it",
-    s: "Vemo.it forniture alberghiere",
-    t: "vemo",
-    u: "http://www.vemo.it/cerca.php?prodotto={{{s}}}",
   },
   {
     d: "vemringde.se",
@@ -62021,12 +59567,6 @@ export const bangs = [
     s: "Google",
     t: "vg",
     u: "https://google.com/search?hl=en&q={{{s}}}&tbs=li:1",
-  },
-  {
-    d: "www.viagogo.co.uk",
-    s: "viagogo.co.uk",
-    t: "vgguk",
-    u: "http://www.viagogo.co.uk/searchResults.aspx?SearchText={{{s}}}",
   },
   {
     d: "www.viagogo.com",
@@ -62299,12 +59839,6 @@ export const bangs = [
     u: "https://www.vipon.com/promotion/index?search={{{s}}}",
   },
   {
-    d: "mail.virgilio.it",
-    s: "Virgilio Mail",
-    t: "virgiliomail",
-    u: "http://mail.virgilio.it/login/?q={{{s}}}:",
-  },
-  {
     d: "duckduckgo.com",
     s: "Virtus Investment Partners",
     t: "virtus",
@@ -62321,12 +59855,6 @@ export const bangs = [
     s: "VirusTotal",
     t: "virustotal",
     u: "https://www.virustotal.com/url/submission/?force=1&url={{{s}}}",
-  },
-  {
-    d: "ricerca.virgilio.it",
-    s: "Virgilio",
-    t: "vir",
-    u: "http://ricerca.virgilio.it/ricerca?qs={{{s}}}",
   },
   {
     d: "www.visiondirect.com.au",
@@ -62521,12 +60049,6 @@ export const bangs = [
     u: "https://www.vodafone.com/content/index/search.html?search-query={{{s}}}",
   },
   {
-    d: "www.vodafone.it",
-    s: "Vodafone.it",
-    t: "voda",
-    u: "http://www.vodafone.it/area-utente/appmanager/fai-da-te/Common?_nfpb=true&_pageLabel=P5000626721379247340997&categoryId=&pageNumber=&slideNumber=&defaultView=true&searchQuery={{{s}}}",
-  },
-  {
     d: "www.voedingswaardetabel.nl",
     s: "Voedingswaardetabel.nl",
     t: "voedingswaarde",
@@ -62537,12 +60059,6 @@ export const bangs = [
     s: "Esperanta Vikipedio",
     t: "vo",
     u: "https://eo.wikipedia.org/w/index.php?search={{{s}}}",
-  },
-  {
-    d: "www.vogue.co.uk",
-    s: "Vogue.co.uk",
-    t: "vogueuk",
-    u: "https://www.vogue.co.uk/search?q={{{s}}}",
   },
   {
     d: "www.vogue.com",
@@ -62659,12 +60175,6 @@ export const bangs = [
     u: "https://vpl.bibliocommons.com/search?q={{{s}}}&t=smart&search_category=keyword",
   },
   {
-    d: "www.vpncompare.co.uk",
-    s: "VPNCompare",
-    t: "vpn",
-    u: "https://www.vpncompare.co.uk/?s={{{s}}}",
-  },
-  {
     d: "videogames.pricecharting.com",
     s: "Price Charting",
     t: "vp",
@@ -62711,12 +60221,6 @@ export const bangs = [
     s: "Visual Studio Code Extensions",
     t: "vscode",
     u: "https://marketplace.visualstudio.com/search?term={{{s}}}&target=VSCode&sortBy=Relevance",
-  },
-  {
-    d: "sapere.virgilio.it",
-    s: "Virgilio - Sinonimi e Contrari",
-    t: "vsc",
-    u: "https://sapere.virgilio.it/parole/sinonimi-e-contrari/{{{s}}}",
   },
   {
     d: "code.visualstudio.com",
@@ -63138,12 +60642,6 @@ export const bangs = [
     u: "http://warframe.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1",
   },
   {
-    d: "search.warwick.ac.uk",
-    s: "University of Warwick",
-    t: "warwick",
-    u: "https://search.warwick.ac.uk/?q={{{s}}}",
-  },
-  {
     d: "ar.wikipedia.org",
     s: "Wikipedia (AR)",
     t: "war",
@@ -63262,12 +60760,6 @@ export const bangs = [
     s: "web3data",
     t: "wb3",
     u: "https://wb3.io/{{{s}}}",
-  },
-  {
-    d: "www.wba.co.uk",
-    s: "West Bromwich Albion F.C.",
-    t: "wbafc",
-    u: "https://www.wba.co.uk/search/?q={{{s}}}",
   },
   {
     d: "de.wikibooks.org",
@@ -64118,12 +61610,6 @@ export const bangs = [
     u: "https://www.getwhichit.com/whichitapp.html#!/Search/{{{s}}}",
   },
   {
-    d: "search.which.co.uk",
-    s: "Which",
-    t: "which",
-    u: "https://search.which.co.uk/search?w={{{s}}}",
-  },
-  {
     d: "www.wordhippo.com",
     s: "Wordhippo",
     t: "whip",
@@ -64298,12 +61784,6 @@ export const bangs = [
     u: "https://wiby.me/?q={{{s}}}",
   },
   {
-    d: "www.wickes.co.uk",
-    s: "Wickes",
-    t: "wickes",
-    u: "https://www.wickes.co.uk/search?text={{{s}}}",
-  },
-  {
     d: "en.wiktionary.org",
     s: "Wictionary",
     t: "wictionary",
@@ -64325,12 +61805,6 @@ export const bangs = [
     d: "fr.wiktionary.org",
     t: "wifr",
     u: "https://fr.wiktionary.org/wiki/{{{s}}}",
-  },
-  {
-    d: "www.wiggle.co.uk",
-    s: "wiggle",
-    t: "wiggle",
-    u: "http://www.wiggle.co.uk/?s={{{s}}}",
   },
   {
     d: "www.whoishostingthis.com",
@@ -64929,12 +62403,6 @@ export const bangs = [
     u: "https://wpdev.uservoice.com/search?query={{{s}}}",
   },
   {
-    d: "www.windowparts.co.uk",
-    s: "WindowParts",
-    t: "windowparts",
-    u: "http://www.windowparts.co.uk/catalogsearch/result/?q={{{s}}}",
-  },
-  {
     d: "www.microsoft.com",
     s: "Windows Phone",
     t: "windowsphone",
@@ -64993,12 +62461,6 @@ export const bangs = [
     s: "Wired",
     t: "wired",
     u: "https://www.wired.com/search/?q={{{s}}}&page=1&sort=score",
-  },
-  {
-    d: "www.thewire.co.uk",
-    s: "The Wire",
-    t: "wire",
-    u: "https://www.thewire.co.uk/search/?q={{{s}}}",
   },
   {
     d: "wiringa.nl",
@@ -65071,12 +62533,6 @@ export const bangs = [
     s: "Wikipedia (JA)",
     t: "wja",
     u: "http://ja.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-  },
-  {
-    d: "www.wjec.co.uk",
-    s: "WJEC",
-    t: "wjec",
-    u: "http://www.wjec.co.uk/search/pf_search.php?q={{{s}}}",
   },
   {
     d: "wiki.jvflux.com",
@@ -66256,12 +63712,6 @@ export const bangs = [
     u: "http://www.wordreference.com/pten/{{{s}}} ",
   },
   {
-    d: "eprints.whiterose.ac.uk",
-    s: "White Rose Research Online",
-    t: "wrro",
-    u: "http://eprints.whiterose.ac.uk/cgi/search/simple?full={{{s}}}&_action_search=Search&_order=bytitle&basic_srchtype=ALL&_satisfyall=ALL",
-  },
-  {
     d: "www.wordreference.com",
     s: "Wordreference",
     t: "wrse",
@@ -66651,18 +64101,6 @@ export const bangs = [
     u: "https://ta.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go",
   },
   {
-    d: "wttr.in",
-    s: "wttr",
-    t: "wttr.in",
-    u: "http://wttr.in/{{{s}}}",
-  },
-  {
-    d: "wttr.in",
-    s: "Wttr.in",
-    t: "wttr",
-    u: "http://wttr.in/{{{s}}}",
-  },
-  {
     d: "tt.wikipedia.org",
     s: "Wikipedia Tatar",
     t: "wtt",
@@ -66931,12 +64369,6 @@ export const bangs = [
     s: "wxWidgets Documentation",
     t: "wxw",
     u: "http://docs.wxwidgets.org/trunk/search.php?query={{{s}}}",
-  },
-  {
-    d: "wynk.in",
-    s: "https://wynk.in/",
-    t: "wynk",
-    u: "https://wynk.in/music/detailsearch/{{{s}}}?q={{{s}}}",
   },
   {
     d: "zh.wikipedia.org",
@@ -67473,12 +64905,6 @@ export const bangs = [
     u: "http://www.zabasearch.com/people/{{{s}}}",
   },
   {
-    d: "www.zalando.co.uk",
-    s: "Zalando",
-    t: "zalando",
-    u: "https://www.zalando.co.uk/catalog/?q={{{s}}}",
-  },
-  {
     d: "eq2.zam.com",
     s: "ZAM - EQ2",
     t: "zameq2",
@@ -67646,12 +65072,6 @@ export const bangs = [
     u: "https://www.zerohedge.com/search-content?search_api_fulltext={{{s}}}",
   },
   {
-    d: "www.zic.it",
-    s: "ZeroInCondotta",
-    t: "zic",
-    u: "http://www.zic.it/?s={{{s}}}",
-  },
-  {
     d: "www.zikinf.com",
     s: "Zikinf",
     t: "zikinf",
@@ -67710,12 +65130,6 @@ export const bangs = [
     s: "zoom.us",
     t: "zoom.us",
     u: "https://zoom.us/?q={{{s}}}",
-  },
-  {
-    d: "www.zoopla.co.uk",
-    s: "Zoopla",
-    t: "zoopla",
-    u: "http://www.zoopla.co.uk/search/?q={{{s}}}&geo_autocomplete_identifier=&country_code=&flatshare_q=&section=for-sale&search_source=nav&include_shared_ownership=true&include_retirement_homes=true&new_homes=include",
   },
   {
     d: "www.zulily.com",
