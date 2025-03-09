@@ -7,6 +7,7 @@ function noSearchDefaultPageRender() {
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
       <div class="content-container">
         <h1>Und*ck</h1>
+        <p>My custom fork of <a href="https://unduck.link" target="_blank">Theo's Und*ck</a>. I am just using this for fun and to add custom bang redirects</p>
         <p>DuckDuckGo's bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables <a href="https://duckduckgo.com/bang.html" target="_blank">all of DuckDuckGo's bangs.</a></p>
         <div class="url-container"> 
           <input 
@@ -21,8 +22,6 @@ function noSearchDefaultPageRender() {
         </div>
       </div>
       <footer class="footer">
-        <p>My custom fork of <a href="https://unduck.link" target="_blank">Theo's Und*ck</a>. I am just using this for fun and to add custom bang redirects</p>
-        •
         <a href="https://github.com/saad-yasin/unduck" target="_blank">github</a>
       </footer>
     </div>
