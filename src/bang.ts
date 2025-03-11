@@ -51100,10 +51100,10 @@ export const bangs = [
     u: "http://shabdkosh.com/kn/translate/{{{s}}}/",
   },
   {
-    d: "duckduckgo.com",
+    d: "scikit-learn.org.com",
     s: "http://scikit-learn.org/",
     t: "sklearn",
-    u: "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fscikit-learn.org%2Fstable%2Fmodules%2Fgenerated%2F+{{{s}}}&ia=web",
+    u: "https://scikit-learn.org/stable/search.html?q={{{s}}}",
   },
   {
     d: "www.skroutz.gr",
