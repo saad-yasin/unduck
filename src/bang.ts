@@ -18188,7 +18188,7 @@ export const bangs = [
     d: "fishshell.com",
     s: "fishshell.com",
     t: "fish",
-    u: "http://fishshell.com/docs/current/commands.html#{{{s}}}",
+    u: "https://fishshell.com/docs/current/search.html?q={{{s}}}",
   },
   {
     d: "www.fishpond.com.au",
