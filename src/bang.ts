@@ -45386,22 +45386,10 @@ export const bangs = [
     u: "https://haveibeenpwned.com/account/{{{s}}}",
   },
   {
-    d: "fa.wikipedia.org",
-    s: "Persian Wikipedia",
-    t: "pwp",
-    u: "https://fa.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-  },
-  {
     d: "www.pricewatch.com",
     s: "Pricewatch",
     t: "pw",
     u: "http://www.pricewatch.com/search?q={{{s}}} ",
-  },
-  {
-    d: "programadorwebvalencia.com",
-    s: "Programador Web Valencia",
-    t: "pwv",
-    u: "https://programadorwebvalencia.com/blog/?search={{{s}}}",
   },
   {
     d: "pixabay.com",
@@ -45441,48 +45429,6 @@ export const bangs = [
   },
   {
     d: "docs.python.org",
-    s: "Python 2.7.10 Documentation",
-    t: "py27",
-    u: "https://docs.python.org/2.7/search.html?q={{{s}}}",
-  },
-  {
-    d: "docs.python.org",
-    s: "Docs Python 2",
-    t: "py2",
-    u: "https://docs.python.org/2.7/search.html?q={{{s}}}",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python Documentation",
-    t: "py34",
-    u: "https://docs.python.org/3.4/search.html?q={{{s}}}",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python 3.5 Documentation",
-    t: "py35",
-    u: "https://docs.python.org/3.5/search.html?q={{{s}}}",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python 3.6 Documentation",
-    t: "py36doc",
-    u: "https://docs.python.org/3.6/library/{{{s}}}.html",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python3 Documentation (French)",
-    t: "py3fr",
-    u: "https://docs.python.org/fr/3/search.html?q={{{s}}}",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python 3 Docs",
-    t: "py3k",
-    u: "http://docs.python.org/3/search.html?q={{{s}}}",
-  },
-  {
-    d: "docs.python.org",
     s: "Python3 Documentation",
     t: "py3",
     u: "https://docs.python.org/3/search.html?q={{{s}}}",
@@ -45516,12 +45462,6 @@ export const bangs = [
     s: "Maya PyMEL documentation",
     t: "pymel",
     u: "https://help.autodesk.com/cloudhelp/2018/ENU/Maya-Tech-Docs/PyMel/search.html?q={{{s}}}&check_keywords=yes",
-  },
-  {
-    d: "pypi.org",
-    s: "pypi.org",
-    t: "pypa",
-    u: "https://pypi.org/search/?q={{{s}}}",
   },
   {
     d: "pypi.org",
@@ -45572,40 +45512,10 @@ export const bangs = [
     u: "https://spark.apache.org/docs/latest/api/python/search.html?q={{{s}}}",
   },
   {
-    d: "docs.python.org",
-    s: "Python2.6 Docs",
-    t: "python26",
-    u: "http://docs.python.org/2.6/search.html?q={{{s}}}&check_keywords=yes&area=default",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python2.7 Docs",
-    t: "python27",
-    u: "http://docs.python.org/2.7/search.html?q={{{s}}}&check_keywords=yes&area=default",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python",
-    t: "python2",
-    u: "https://docs.python.org/2/search.html?q={{{s}}}",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python3.0 Docs",
-    t: "python30",
-    u: "http://docs.python.org/3.0/search.html?q={{{s}}}&check_keywords=yes&area=default",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python3.1 Docs",
-    t: "python31",
-    u: "http://docs.python.org/3.1/search.html?q={{{s}}}&check_keywords=yes&area=default",
-  },
-  {
-    d: "docs.python.org",
-    s: "Python3.2 Docs",
-    t: "python32",
-    u: "http://docs.python.org/3.2/search.html?q={{{s}}}&check_keywords=yes&area=default",
+    d: "spark.apache.org",
+    s: "PySpark documentation",
+    t: "spark",
+    u: "https://spark.apache.org/docs/latest/api/python/search.html?q={{{s}}}",
   },
   {
     d: "docs.python.org",
@@ -45630,12 +45540,6 @@ export const bangs = [
     s: "pytorch.org",
     t: "pytorch",
     u: "https://pytorch.org/docs/stable/search.html?q={{{s}}}&check_keywords=yes&area=default",
-  },
-  {
-    d: "pyvideo.org",
-    s: "pyvideo.org",
-    t: "pyvideo",
-    u: "http://pyvideo.org/search?models=videos.video&q={{{s}}}",
   },
   {
     d: "pzwiki.net",
@@ -50307,12 +50211,6 @@ export const bangs = [
     s: "Science Fiction Bokhandeln",
     t: "sfbok",
     u: "https://www.sfbok.se/search?keys={{{s}}}",
-  },
-  {
-    d: "www.sparkfun.com",
-    s: "Sparkfun Electronics",
-    t: "sfe",
-    u: "http://www.sparkfun.com/search/results?term={{{s}}}&what=products",
   },
   {
     d: "www.sfgate.com",
@@ -61011,12 +60909,6 @@ export const bangs = [
     s: "Weather.com",
     t: "weather",
     u: "http://www.weather.com/search/enhancedlocalsearch?where={{{s}}}&loctypes=1/5/9/11/13/19/&from=hdr",
-  },
-  {
-    d: "www.weatherforyou.com",
-    s: "Weather For You",
-    t: "weathforyou",
-    u: "https://www.weatherforyou.com/reports/index.php?forecast=zandh&pands={{{s}}}&Submit=Get+Weather",
   },
   {
     d: "www.websters1913.com",
