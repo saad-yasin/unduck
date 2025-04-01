@@ -9,13 +9,13 @@ export const bangs = [
     d: "you.com",
     s: "you.com chat",
     t: "chat",
-    u: "https://you.com/search?q={{{s}}}",
+    u: "https://you.com/search?tbm=youchat&q={{{s}}}",
   },
   {
     d: "you.com",
     s: "you.com chat",
     t: "ai",
-    u: "https://you.com/search?q={{{s}}}",
+    u: "https://you.com/search?tbm=youchat&q={{{s}}}",
   },
   {
     d: "alternativeto.net",
@@ -173,12 +173,6 @@ export const bangs = [
     t: "aitopics",
     u: "https://aitopics.org/search?q={{{s}}}",
   },
-  // {
-  //   d: "www.duckduckgo.com",
-  //   s: "Duck.ai",
-  //   t: "ai",
-  //   u: "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true ",
-  // },
   {
     d: "america.aljazeera.com",
     s: "Al Jazeera America",
