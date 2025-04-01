@@ -6,6 +6,18 @@ export const bangs = [
     u: "https://www.t3.chat/new?q={{{s}}}",
   },
   {
+    d: "you.com",
+    s: "you.com chat",
+    t: "chat",
+    u: "https://you.com/search?q={{{s}}}",
+  },
+  {
+    d: "you.com",
+    s: "you.com chat",
+    t: "ai",
+    u: "https://you.com/search?q={{{s}}}",
+  },
+  {
     d: "alternativeto.net",
     s: "AlternativeTo.net",
     t: "a2",
@@ -161,12 +173,12 @@ export const bangs = [
     t: "aitopics",
     u: "https://aitopics.org/search?q={{{s}}}",
   },
-  {
-    d: "www.duckduckgo.com",
-    s: "Duck.ai",
-    t: "ai",
-    u: "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true ",
-  },
+  // {
+  //   d: "www.duckduckgo.com",
+  //   s: "Duck.ai",
+  //   t: "ai",
+  //   u: "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true ",
+  // },
   {
     d: "america.aljazeera.com",
     s: "Al Jazeera America",
@@ -7664,12 +7676,6 @@ export const bangs = [
     u: "https://hub.helm.sh/charts?q={{{s}}}",
   },
   {
-    d: "www.duckduckgo.com",
-    s: "Duck.ai",
-    t: "chat",
-    u: "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true ",
-  },
-  {
     d: "chatters.ca",
     s: "Chatters Salons",
     t: "chatters",
@@ -13047,12 +13053,6 @@ export const bangs = [
     u: "http://search.danawa.com/dsearch.php?k1={{{s}}}",
   },
   {
-    d: "doai.io",
-    s: "Digital Open Access Identifier",
-    t: "doai",
-    u: "http://doai.io/{{{s}}}",
-  },
-  {
     d: "www.doaj.org",
     s: "Directory of Open Access Journals",
     t: "doaj",
@@ -15484,12 +15484,6 @@ export const bangs = [
     s: "Eastern Michigan University",
     t: "emich",
     u: "https://www.emich.edu/search/?q={{{s}}}",
-  },
-  {
-    d: "www.emotiyou.com",
-    s: "Emotiyou",
-    t: "emo",
-    u: "http://www.emotiyou.com/search/{{{s}}}",
   },
   {
     d: "emojicons.com",
@@ -36707,12 +36701,6 @@ export const bangs = [
     u: "http://www.mouser.com/Search/Refine.aspx?Keyword={{{s}}}",
   },
   {
-    d: "moviechat.org",
-    s: "MovieChat",
-    t: "moviechat",
-    u: "https://moviechat.org/search?name={{{s}}}",
-  },
-  {
     d: "www.moviefone.com",
     s: "Moviefone",
     t: "moviefone",
@@ -37831,18 +37819,6 @@ export const bangs = [
     s: "Myntra",
     t: "myntra",
     u: "http://www.myntra.com/{{{s}}} ",
-  },
-  {
-    d: "www.mypdns.org",
-    s: "My Private DNS",
-    t: "mypdns",
-    u: "http://www.mypdns.org/trac/search?q={{{s}}}",
-  },
-  {
-    d: "pt.myprotein.com",
-    s: "My protein",
-    t: "myp",
-    u: "https://pt.myprotein.com/elysium.search?search={{{s}}}",
   },
   {
     d: "www.myrecipes.com",
@@ -49661,12 +49637,6 @@ export const bangs = [
     u: "http://encore.sdcl.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng&suite=def",
   },
   {
-    d: "startpage.com",
-    s: "Startpage (deutsch)",
-    t: "sde",
-    u: "https://startpage.com/do/search?cmd=process_search&query={{{s}}}&language=deutsch",
-  },
-  {
     d: "www.spanishdict.com",
     s: "SpanishDict",
     t: "sdict",
@@ -49833,12 +49803,6 @@ export const bangs = [
     s: "SEC Edgar",
     t: "secedgar",
     u: "https://www.sec.gov/cgi-bin/browse-edgar?CIK={{{s}}}&owner=exclude&action=getcompany",
-  },
-  {
-    d: "chat.stackexchange.com",
-    s: "Stack Exchange Chat",
-    t: "sechat",
-    u: "https://chat.stackexchange.com/rooms/{{{s}}}",
   },
   {
     d: "www.search.ch",
@@ -51598,12 +51562,6 @@ export const bangs = [
     u: "https://websniffer.cc/?url={{{s}}}",
   },
   {
-    d: "www.startpage.com",
-    s: "StartPage Web Search(Japanese)",
-    t: "snih",
-    u: "https://www.startpage.com/do/search?q={{{s}}}&l=nihongo",
-  },
-  {
     d: "community.servicenow.com",
     s: "community.servicenow.com",
     t: "snk",
@@ -51644,12 +51602,6 @@ export const bangs = [
     s: "Snort",
     t: "snort",
     u: "https://www.snort.org/search?query={{{s}}}",
-  },
-  {
-    d: "www.startpage.com",
-    s: "StartPage.com (Norwegian)",
-    t: "sno",
-    u: "https://www.startpage.com/do/search?cmd=process_search&query={{{s}}}&with_region=countryNO",
   },
   {
     d: "www.snotr.com",
@@ -52171,18 +52123,6 @@ export const bangs = [
     u: "https://startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=english",
   },
   {
-    d: "startpage.com",
-    s: "StartPage (ES)",
-    t: "spes",
-    u: "https://startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=espanol",
-  },
-  {
-    d: "startpage.com",
-    s: "StartPage (ES)",
-    t: "spe",
-    u: "https://startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=espanol",
-  },
-  {
     d: "www.speurders.nl",
     s: "Speurders",
     t: "speur",
@@ -52255,12 +52195,6 @@ export const bangs = [
     u: "https://startpage.com/do/search?cat=pics&cmd=process_search&query={{{s}}}",
   },
   {
-    d: "startpage.com",
-    s: "Startpage (IT)",
-    t: "spit",
-    u: "https://startpage.com/do/search?cat=web&cmd=process_search&language=italiano&engine0=v1all&query={{{s}}}&abp=-1&prf=ab8a0a99ccae7d38fd1f9b31e845ce7e&SuggestOn=1",
-  },
-  {
     d: "unsplash.com",
     s: "Unsplash",
     t: "splash",
@@ -52303,18 +52237,6 @@ export const bangs = [
     u: "https://www.splunk.com/en_us/search.html?query={{{s}}}",
   },
   {
-    d: "startpage.com",
-    s: "Startpage Mobile",
-    t: "spm",
-    u: "https://startpage.com/do/m/mobilesearch?&q={{{s}}}",
-  },
-  {
-    d: "startpage.com",
-    s: "Startpage NL",
-    t: "spnl",
-    u: "https://startpage.com/do/search?l=nederlands&q={{{s}}}",
-  },
-  {
     d: "spongebob.wikia.com",
     s: "SpongeBob Wikia",
     t: "spongebob",
@@ -52355,24 +52277,6 @@ export const bangs = [
     s: "Spotify",
     t: "spotify",
     u: "https://open.spotify.com/search/{{{s}}}",
-  },
-  {
-    d: "startpage.com",
-    s: "Startpage safeoff ita",
-    t: "sppit",
-    u: "https://startpage.com/do/search?prf=77fe802d54508e9ee48b88624be6da56&cat=web&query={{{s}}}",
-  },
-  {
-    d: "www.startpage.com",
-    s: "Startpage (PL)",
-    t: "sppl",
-    u: "https://www.startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=polski",
-  },
-  {
-    d: "startpage.com",
-    s: "StartPage safeoff eng",
-    t: "spp",
-    u: "https://startpage.com/do/search?prf=2cc506ab255c98e10570b7d50ef6b1c8&cat=web&query={{{s}}}",
   },
   {
     d: "www.spreadshirt.com",
@@ -52469,12 +52373,6 @@ export const bangs = [
     s: "Sputnik Music",
     t: "sputnikmusic",
     u: "https://www.sputnikmusic.com/search_results.php?search_in=Bands&search_text={{{s}}}",
-  },
-  {
-    d: "www.startpage.com",
-    s: "Startpage Videos",
-    t: "spv",
-    u: "https://www.startpage.com/do/search?cat=video&cmd=process_search&query={{{s}}}",
   },
   {
     d: "www.surplex.com",
@@ -55548,12 +55446,6 @@ export const bangs = [
     u: "http://theyarddr.com/?s={{{s}}}",
   },
   {
-    d: "www.theyworkforyou.com",
-    s: "TheyWorkForYou",
-    t: "theyworkforyou",
-    u: "http://www.theyworkforyou.com/search/?q={{{s}}}",
-  },
-  {
     d: "www.thingiverse.com",
     s: "Thingiverse",
     t: "thg",
@@ -56404,12 +56296,6 @@ export const bangs = [
     s: "ToolsLib",
     t: "toolslib",
     u: "https://toolslib.net/search/projects/?q={{{s}}}",
-  },
-  {
-    d: "www.topachat.com",
-    s: "Topachat",
-    t: "topachat",
-    u: "http://www.topachat.com/pages/recherche.php?mc={{{s}}}",
   },
   {
     d: "www.tokopedia.com",
@@ -57495,12 +57381,6 @@ export const bangs = [
     s: "The Web Flash",
     t: "twf",
     u: "https://www.thewebflash.com/?s={{{s}}}",
-  },
-  {
-    d: "www.theyworkforyou.com",
-    s: "TheyWorkForYou",
-    t: "twfy",
-    u: "http://www.theyworkforyou.com/search/?q={{{s}}}",
   },
   {
     d: "www.twitch.tv",
@@ -65064,12 +64944,6 @@ export const bangs = [
     s: "ZVON.org",
     t: "zvon",
     u: "http://zvon.org/comp/m/{{{s}}}.html",
-  },
-  {
-    d: "wiki.killuglyradio.com",
-    s: "http://wiki.killuglyradio.com/wiki/Main_Page",
-    t: "zwj",
-    u: "http://wiki.killuglyradio.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}",
   },
   {
     d: "elixir.bootlin.com",
