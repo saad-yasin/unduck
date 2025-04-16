@@ -2034,11 +2034,6 @@ export const bangs = [
     u: "https://www.archdaily.com/search/all?q={{{s}}}",
   },
   {
-    d: "bbs.archlinux.org",
-    s: "Arch Linux Forums",
-    t: "archforums",
-  },
-  {
     d: "univtoulouse.summon.serialssolutions.com",
     s: "Archipel plus",
     t: "archiplus",
@@ -2087,11 +2082,6 @@ export const bangs = [
     u: "https://web.archive.org/web/*/{{{s}}}",
   },
   {
-    d: "bbs.archlinux.org",
-    s: "Archlinux Forums",
-    t: "archlinux",
-  },
-  {
     d: "wiki.archlinux.org",
     s: "Arch Linux",
     t: "archlinuxit",
@@ -2114,12 +2104,6 @@ export const bangs = [
     s: "Arch Linux Packages",
     t: "archpkg",
     u: "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged=",
-  },
-  {
-    d: "wiki.archlinux.org",
-    s: "archlinux wiki pl",
-    t: "archpl",
-    u: "https://wiki.archlinux.org/index.php/{{{s}}} _(Polski)",
   },
   {
     d: "wiki.archlinux.org",
@@ -2458,12 +2442,6 @@ export const bangs = [
     u: "http://apple.stackexchange.com/search?{{{s}}}",
   },
   {
-    d: "support.f5.com",
-    s: "AskF5 (support.f5.com)",
-    t: "askf5",
-    u: "https://support.f5.com/kb/en-us/search.res.html?productList=big-ip%2Cbc%2Cfp%2C3-dns%2Clc%2Cts%2Cwj%2Cwa_5_x%2Csam%2Clinerate-eol&versionList=all%2C&searchType=basic&isFromGSASearch=false&query={{{s}}}&site=support_external&client=support-f5-com&q={{{s}}}&prodName=ALL&prodVersText=&docTypeName=ALL&includeArchived=false&submit_form=&product=all&eolProducts=all&documentType=all",
-  },
-  {
     d: "ask.fedoraproject.org",
     s: "Ask Fedora",
     t: "askfedora",
@@ -2582,12 +2560,6 @@ export const bangs = [
     s: "Astray Recipes",
     t: "astray",
     u: "http://www.astray.com/recipes/?search={{{s}}}",
-  },
-  {
-    d: "www.astrobin.com",
-    s: "AstroBin",
-    t: "astrobin",
-    u: "http://www.astrobin.com/search/?q={{{s}}}&search_type=1&solar_system_main_subject=&telescope_type=any&camera_type=any&aperture_min=&aperture_max=&pixel_size_min=&pixel_size_max=&start_date=&end_date=&integration_min=&integration_max=&moon_phase_min=&moon_phase_max=",
   },
   {
     d: "www.asus.com",
@@ -3118,12 +3090,6 @@ export const bangs = [
     u: "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation&searchQuery={{{s}}} ",
   },
   {
-    d: "androidxref.com",
-    s: "androidxref",
-    t: "ax",
-    u: "http://androidxref.com/5.1.0_r1/search?&project=abi&project=art&project=bionic&project=bootable&project=build&project=cts&project=dalvik&project=developers&project=development&project=device&project=docs&project=external&project=frameworks&project=hardware&project=libcore&project=libnativehelper&project=ndk&project=packages&project=pdk&project=prebuilts&project=sdk&project=system&project=tools&q={{{s}}}",
-  },
-  {
     d: "ayrne.io",
     s: "Ayrne",
     t: "ayrne",
@@ -3404,11 +3370,6 @@ export const bangs = [
     s: "Bang good",
     t: "banggood",
     u: "http://www.banggood.com/index.php?keywords={{{s}}}&cat_id=0&com=search",
-  },
-  {
-    d: "de.pons.com",
-    s: "Pons",
-    t: "banglg",
   },
   {
     d: "pipl.com",
@@ -3801,12 +3762,6 @@ export const bangs = [
     u: "https://boxcritters.wiki/?search={{{s}}}",
   },
   {
-    d: "www.bing.com",
-    s: "Bing",
-    t: "bday",
-    u: 'https://www.bing.com/search?q={{{s}}}&filters=ex1%3a""ez1""',
-  },
-  {
     d: "www.baidu.com",
     s: "baidu",
     t: "bd",
@@ -3967,11 +3922,6 @@ export const bangs = [
     s: "Behind the Name",
     t: "behindthename",
     u: "http://www.behindthename.com/name/{{{s}}}",
-  },
-  {
-    d: "beinsa.bg",
-    s: "beinsa.bg",
-    t: "beinsa",
   },
   {
     d: "kgov.com",
@@ -5084,12 +5034,6 @@ export const bangs = [
     u: "https://www.bmonotes.com/Search/GeneralSearch?query={{{s}}}",
   },
   {
-    d: "www.bing.com",
-    s: "Bing",
-    t: "bmonth",
-    u: 'https://www.bing.com/search?q={{{s}}}&filters=ex1%3a""ez3""',
-  },
-  {
     d: "bookmyparts.com",
     s: "https://bookmyparts.com",
     t: "bmp",
@@ -5816,20 +5760,10 @@ export const bangs = [
     u: "https://www.brookings.edu/search/?s={{{s}}}",
   },
   {
-    d: "search.library.brown.edu",
-    s: "Brown University Library",
-    t: "brown",
-  },
-  {
     d: "www.brownells.com",
     s: "Brownells",
     t: "brownells",
     u: "https://www.brownells.com/search/index.htm?k={{{s}}}",
-  },
-  {
-    d: "search.library.brown.edu",
-    s: "Brown University Library",
-    t: "brownlib",
   },
   {
     d: "brawlstars.fandom.com",
@@ -6186,11 +6120,6 @@ export const bangs = [
     u: "http://www.burbuja.info/inmobiliaria/search.php?do=process&query={{{s}}}",
   },
   {
-    d: "burst.shopify.com",
-    s: "Burst",
-    t: "burst",
-  },
-  {
     d: "www.basketusa.com",
     s: "Basket USA",
     t: "busa",
@@ -6273,12 +6202,6 @@ export const bangs = [
     s: "Belfry Web Comics",
     t: "bwc",
     u: "http://belfrycomics.net/pg/?searchtype=Titles&searchpat={{{s}}}",
-  },
-  {
-    d: "www.bing.com",
-    s: "Bing",
-    t: "bweek",
-    u: 'https://www.bing.com/search?q={{{s}}}&filters=ex1%3a""ez2""',
   },
   {
     d: "bws.com.au",
@@ -6634,11 +6557,11 @@ export const bangs = [
     t: "canadacomputers",
     u: "http://www.canadacomputers.com/advanced_search_result.php?keywords={{{s}}} ",
   },
-  {
-    d: "www.canadapost.ca",
-    s: "Canada Post Tracking",
-    t: "canadapost",
-  },
+  // {
+  //   d: "www.canadapost.ca",
+  //   s: "Canada Post Tracking",
+  //   t: "canadapost",
+  // },
   {
     d: "www.canadiantire.ca",
     s: "Canadian Tire",
@@ -7324,11 +7247,6 @@ export const bangs = [
     u: "http://currentlydown.com/{{{s}}}",
   },
   {
-    d: "www.cdp.net",
-    s: "CDP (Carbon Disclosure Project)",
-    t: "cdp",
-  },
-  {
     d: "www.collinsdictionary.com",
     s: "Collins Thesaurus",
     t: "cdt",
@@ -7575,11 +7493,6 @@ export const bangs = [
     u: "https://www.chairish.com/search?q={{{s}}} ",
   },
   {
-    d: "chakraos.org",
-    s: "The Chakra Project",
-    t: "chakraforum",
-  },
-  {
     d: "www.chakraos.org",
     s: "The Chakra Project Packages",
     t: "chakrapkg",
@@ -7692,18 +7605,6 @@ export const bangs = [
     s: "Cheap Ass Gamer",
     t: "cheapassgamer",
     u: "http://www.cheapassgamer.com/query.php?keywords={{{s}}}",
-  },
-  {
-    d: "www.cheatcc.com",
-    s: "CheatCC.com",
-    t: "cheatcc",
-    u: "http://www.cheatcc.com/search_results.html?sitesearch=CheatCC.com&domains=CheatCC.com&q={{{s}}}&sa=Google+Search&client=pub-7081624040320322&forid=1&ie=UTF8&oe=UTF8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A0%3BLW%3A0%3BL%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Fccclink.gif%3BS%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Findex2.html%3BFORID%3A11",
-  },
-  {
-    d: "www.cheatcc.com",
-    s: "CheatCC",
-    t: "cheatcodes",
-    u: "http://www.cheatcc.com/search_results.html?sitesearch=CheatCC.com&domains=CheatCC.com&q={{{s}}}&sa=Google+Search&client=pub-7081624040320322&forid=1&ie=UTF8&oe=UTF8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A0%3BLW%3A0%3BL%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Fccclink.gif%3BS%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Findex2.html%3BFORID%3A11",
   },
   {
     d: "devhints.io",
@@ -7868,11 +7769,6 @@ export const bangs = [
     u: "https://www.chipoteka.hr/search?q={{{s}}}",
   },
   {
-    d: "churchhistorycatalog.lds.org",
-    s: "Church History Library",
-    t: "chl",
-  },
-  {
     d: "chalmers.summon.serialssolutions.com",
     s: "Chalmers Library",
     t: "chlib",
@@ -8021,12 +7917,6 @@ export const bangs = [
     s: "CIA World Factbook",
     t: "cia",
     u: "https://www.cia.gov/search?q={{{s}}}&site=WORLD_FACTBOOK&btnG=Search&x=0&y=0&output=xml_no_dtd&client=CIA&myAction=%2Fsearch&proxystylesheet=CIA&submitMethod=get&sort=date%3AD%3AL%3Ad1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1",
-  },
-  {
-    d: "web2.wipo.int",
-    s: "Classification Internationale des Brevets (2016)",
-    t: "cib",
-    u: "http://web2.wipo.int/classifications/ipc/ipcpub/#lang=fr&menulang=FR&refresh=page&fipcpc=yes&indexes=yes&notion=scheme&version=20160101&symbol={{{s}}}",
   },
   {
     d: "www.codeigniter.com",
@@ -10776,11 +10666,6 @@ export const bangs = [
     u: "http://www.darty.com/nav/recherche?text={{{s}}}",
   },
   {
-    d: "dash.harvard.edu",
-    s: "Digital Access to Scholarship at Harvard",
-    t: "dash",
-  },
-  {
     d: "dashradio.com",
     s: "Dash Radio",
     t: "dashradio",
@@ -11363,11 +11248,6 @@ export const bangs = [
     u: "http://duckduckhack.com/u/{{{s}}}",
   },
   {
-    d: "www.joindiaspora.com",
-    s: "Diaspora*",
-    t: "d*",
-  },
-  {
     d: "dic.daum.net",
     s: "Daum Dictionary",
     t: "ddic",
@@ -11408,11 +11288,6 @@ export const bangs = [
     s: "Den Danske Ordbog",
     t: "ddo",
     u: "http://ordnet.dk/ddo/ordbog?query={{{s}}} ",
-  },
-  {
-    d: "duckduckgo.com",
-    s: "Stack Overflow via DuckDuckGo",
-    t: "ddso",
   },
   {
     d: "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
@@ -11581,11 +11456,6 @@ export const bangs = [
     s: "Debian mailing list archives",
     t: "debmla",
     u: "http://lists.debian.org/debian-{{{s}}}/",
-  },
-  {
-    d: "lists.debian.org",
-    s: "Debian Mailing Lists",
-    t: "debml",
   },
   {
     d: "packages.debian.org",
@@ -11768,11 +11638,6 @@ export const bangs = [
     u: "https://sok.deichman.no/search?query={{{s}}}",
   },
   {
-    d: "www.deichmann.com",
-    s: "Deichmann (Deutschland)",
-    t: "dei",
-  },
-  {
     d: "dejure.org",
     s: "Dejure",
     t: "dejure",
@@ -11909,23 +11774,6 @@ export const bangs = [
     s: "deredactie.be",
     t: "deredactie",
     u: "http://deredactie.be/cm/vrtnieuws/1.516538?text={{{s}}}&action=submit",
-  },
-  {
-    d: "derpibooru.org",
-    s: "Derpibooru",
-    t: "derpibooru",
-    u: "https://derpibooru.org/search?utf8=%E2%9C%93&sbq={{{s}}}",
-  },
-  {
-    d: "derpibooru.org",
-    s: "Derpibooru.org",
-    t: "derpibooruorg",
-  },
-  {
-    d: "derpibooru.org",
-    s: "Derpibooru",
-    t: "derpi",
-    u: "https://derpibooru.org/search?q={{{s}}}",
   },
   {
     d: "translate.google.com",
@@ -12660,16 +12508,6 @@ export const bangs = [
     u: "http://distrowatch.com/table.php?distribution={{{s}}}",
   },
   {
-    d: "www.diva-portal.org",
-    s: "DiVA - Digitala Vetenskapliga Arkivet",
-    t: "diva",
-  },
-  {
-    d: "liu.diva-portal.org",
-    s: "divaliu",
-    t: "divaliu",
-  },
-  {
     d: "www.elegantthemes.com",
     s: "Divi",
     t: "divi",
@@ -13034,11 +12872,6 @@ export const bangs = [
     s: "MXToolbox",
     t: "dns",
     u: "http://mxtoolbox.com/SuperTool.aspx?action=a%3a{{{s}}}&run=toolpage",
-  },
-  {
-    d: "www.dnt.no",
-    s: "Norwegian Trekking Association",
-    t: "dnt",
   },
   {
     d: "search.danawa.com",
@@ -13515,11 +13348,6 @@ export const bangs = [
     u: "http://packages.debian.org/search?keywords={{{s}}}",
   },
   {
-    d: "dp.la",
-    s: "Digital Public Library of America",
-    t: "dpla",
-  },
-  {
     d: "www.dblp.org",
     s: "DPLB",
     t: "dplb",
@@ -13878,11 +13706,6 @@ export const bangs = [
     s: "snapshot.debian.org",
     t: "dsbin",
     u: "http://snapshot.debian.org/binary/?bin={{{s}}}",
-  },
-  {
-    d: "screenshots.debian.net",
-    s: "Debian Screenshots",
-    t: "dsc",
   },
   {
     d: "discordservers.com",
@@ -15113,11 +14936,6 @@ export const bangs = [
     s: "ebay.ie",
     t: "eie",
     u: "https://www.ebay.ie/sch/items/?_nkw={{{s}}}",
-  },
-  {
-    d: "github.com",
-    s: "GitHub",
-    t: "eips",
   },
   {
     d: "duckduckgo.com",
@@ -16644,17 +16462,6 @@ export const bangs = [
     u: "http://www.xe.com/currencyconverter/convert/?From=EUR&To=USD&Amount={{{s}}}",
   },
   {
-    d: "eur-lex.europa.eu",
-    s: "EUR-Lex",
-    t: "eurlex",
-  },
-  {
-    d: "www.eurobuch.com",
-    s: "Eurobuch",
-    t: "eurobuch",
-    u: "http://www.eurobuch.com/buch/isbn/3838758854.html?author=&coverState=&doAbeDe=1&doAchtungBuecher=1&doAko=1&doAlibris=1&doAmazon=1&doAmazonCa=1&doAmazonCom=1&doAmazonEs=1&doAmazonFr=1&doAmazonIt=1&doAmazonUk=1&doAudibile=1&doAudiobooks=1&doAum=1&doBUCH=1&doBUCHCH=1&doBbBuch=1&doBetterworld=1&doBiblio=1&doBlackwell=1&doBn=1&doBoeken=1&doBolCom=1&doBookdepository=1&doBooklooker=1&doBruna=1&doBuch24=1&doBuchfreund=1&doBuchmarie=1&doBuecherDe=1&doCasaDelLibro=1&doCiando=1&doEBS=1&doEBay=1&doEBooknl=1&doEbooks=1&doEbookscom=1&doEci=1&doElsevier=1&doFnac=1&doFoyles=1&doGoogle=1&doHive=1&doHoepli=1&doIbs=1&doImosver=1&doIndigo=1&doJokers=1&doKobo=1&doLaFeltrinelli=1&doLehmanns=1&doLibri=1&doLibriEB=1&doLibroco=1&doLuisterboeken=1&doMedimops=1&doMondadori=1&doMusicroom=1&doNotenbuch=1&doOnderwijsboek=1&doProlibri=1&doProxis=1&doRegalfrei=1&doRheinberg=1&doScholastic=1&doStudystore=1&doThaliaAt=1&doThaliaCh=1&doThaliaDe=1&doThriftbooks=1&doVoordeelboekenonline=1&doWaterstones=1&doWebster=1&doZVAB=1&fromDateDays=7&isbn=&land=&maxJahr=&maxPrice=&mediatype=0&minJahr=&minPrice=&noBids=0&noReprint=0&pageLen=20&proSearch=&professionalState=&publisher=&search={{{s}}}&search_submit=suchen&sisbn=&title=&updatePresets=1&updateProState=1&usedState=",
-  },
-  {
     d: "www.eurogamer.net",
     s: "Eurogamer.net",
     t: "eurogamer",
@@ -16731,12 +16538,6 @@ export const bangs = [
     s: "Eve Online",
     t: "eve",
     u: "http://wiki.eveonline.com/en/wiki/Special:Search/{{{s}}} ",
-  },
-  {
-    d: "cse.google.com",
-    s: "Electrek",
-    t: "ev",
-    u: "https://cse.google.com/cse?cx=008464549922976904202:3wy4ipwvlno&q={{{s}}}&oq={{{s}}}&gs_l=partner-generic.3...27208.27522.3.27758.3.3.0.0.0.0.67.174.3.3.0.gsnos%2Cn%3D13...0.1844j1376214j6j1...1.34.partner-generic..3.2.102.qiNHoIwD47w",
   },
   {
     d: "eve-marketdata.com",
@@ -18869,11 +18670,6 @@ export const bangs = [
     u: "http://www.fowtcg.com/cards?w={{{s}}}",
   },
   {
-    d: "www.fowsystem.com",
-    s: "Force of Will German Database",
-    t: "fowg",
-  },
-  {
     d: "fallout.wikia.com",
     s: "Fallout Wikia",
     t: "fowiki",
@@ -18896,12 +18692,6 @@ export const bangs = [
     s: "FoxNews",
     t: "foxnews",
     u: "http://www.foxnews.com/search-results/search?q={{{s}}}",
-  },
-  {
-    d: "www.foxracing.com",
-    s: "Fox Racing",
-    t: "foxracing",
-    u: "https://www.foxracing.com/store/browse?_dyncharset=UTF-8&Dy=1&Nty=1&searchBox=searchBox&siteScope=ok&_D%3AsiteScope=+&autoSuggestEnabled=true&autoSuggestURL=%2Fstore%2Fassembler%3FassemblerContentCollection%3D%2Fcontent%2FShared%2FAuto-Suggest%2520Panels%26format%3Djson%26Dy%3D1%26Ntt%3D&minAutoSuggestInputLength=3&%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=search&_D%3A%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=+&Ntt={{{s}}}",
   },
   {
     d: "duckduckgo.com",
@@ -20614,11 +20404,6 @@ export const bangs = [
     u: "https://genius.com/search?q={{{s}}}",
   },
   {
-    d: "duckduckgo.com",
-    s: "Le blog de Genma",
-    t: "genma",
-  },
-  {
     d: "packages.gentoo.org",
     s: "Gentoo Packages",
     t: "genpkg",
@@ -20989,16 +20774,6 @@ export const bangs = [
     s: "GhanaNews.xyz",
     t: "ghananews",
     u: "https://ghananews.xyz/?s={{{s}}}",
-  },
-  {
-    d: "github.com",
-    s: "GitHub Code",
-    t: "ghc",
-  },
-  {
-    d: "github.com",
-    s: "Github (code search)",
-    t: "ghcode",
   },
   {
     d: "github.com",
@@ -21425,11 +21200,6 @@ export const bangs = [
     s: "Google KR",
     t: "gkr",
     u: "http://www.google.co.kr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
-  },
-  {
-    d: "gitlab.com",
-    s: "GitLab",
-    t: "glab",
   },
   {
     d: "gladrys.com",
@@ -22101,13 +21871,13 @@ export const bangs = [
     d: "www.goodreads.com",
     s: "GoodReads",
     t: "goodreads",
-    u: "http://www.goodreads.com/search/search?search_type=books&search[query]={{{s}}}",
+    u: "https://www.goodreads.com/search?q={{{s}}}",
   },
   {
     d: "www.goodreads.com",
     s: "Goodreads Lists",
     t: "goodreadslist",
-    u: "https://www.goodreads.com/search?search_type=lists&q={{{s}}}",
+    u: "https://www.goodreads.com/search?q={{{s}}}",
   },
   {
     d: "www.goodsearch.com",
@@ -22234,18 +22004,6 @@ export const bangs = [
     s: "Goosh",
     t: "goosh",
     u: "http://goosh.org/#{{{s}}}",
-  },
-  {
-    d: "goout.net",
-    s: "Go Out BRNO",
-    t: "gooutbrno",
-    u: 'https://goout.net/cs/brno/#"?":"{{{s}}}"',
-  },
-  {
-    d: "goout.net",
-    s: "Go Out PRAGUE",
-    t: "gooutprague",
-    u: 'https://goout.net/cs/praha/#"?":"{{{s}}}"',
   },
   {
     d: "gopher.floodgap.com",
@@ -22689,6 +22447,7 @@ export const bangs = [
     d: "www.goodreads.com",
     s: "goodreads",
     t: "greads",
+    u: "https://www.goodreads.com/search?q={{{s}}}",
   },
   {
     d: "greasyfork.org",
@@ -22989,11 +22748,6 @@ export const bangs = [
     s: "GSMpunt",
     t: "gsmpunt",
     u: "https://www.gsmpunt.nl/zoeken?z={{{s}}}",
-  },
-  {
-    d: "google.com",
-    s: "Google over StackOverflow",
-    t: "gso",
   },
   {
     d: "glammingspace.blogspot.com",
@@ -25804,11 +25558,6 @@ export const bangs = [
     u: "https://www.heraldsun.com.au/?s={{{s}}}",
   },
   {
-    d: "duckduckgo.com",
-    s: "Herber",
-    t: "herber",
-  },
-  {
     d: "wego.here.com",
     s: "Here WeGo",
     t: "here",
@@ -25965,11 +25714,6 @@ export const bangs = [
     u: "https://nl.hideproxy.me/go.php?u={{{s}}}",
   },
   {
-    d: "success.highfive.com",
-    s: "Highfive",
-    t: "highfive",
-  },
-  {
     d: "www.highsnobiety.com",
     s: "highsnobiety",
     t: "highsnob",
@@ -26036,12 +25780,6 @@ export const bangs = [
     u: "http://www.hippressurecooking.com/?s={{{s}}} ",
   },
   {
-    d: "wiki.hippiestation.com",
-    s: "HippieStation wiki",
-    t: "hippie",
-    u: "https://wiki.hippiestation.com//index.php?title=Special%3ASearch&profile=default&search={{{s}}}",
-  },
-  {
     d: "historio.us",
     s: "Historious",
     t: "historious",
@@ -26058,11 +25796,6 @@ export const bangs = [
     s: "Hitchwiki",
     t: "hitchwiki",
     u: "http://hitchwiki.org/en/index.php?search={{{s}}}&fulltext=Search&title=Special%3ASearch",
-  },
-  {
-    d: "www.hitta.se",
-    s: "Hitta.se",
-    t: "hitta",
   },
   {
     d: "howjsay.com",
@@ -26941,11 +26674,6 @@ export const bangs = [
     u: "http://halo.umbc.edu/cgi-bin/haloweb/nrc1.pl?display=json&operation=search&keyword={{{s}}}",
   },
   {
-    d: "hi.wikipedia.org",
-    s: "Hindi Wikipedia",
-    t: "hwiki",
-  },
-  {
     d: "www.hackingwithswift.com",
     s: "Hacking With Swift",
     t: "hws",
@@ -27384,11 +27112,6 @@ export const bangs = [
     u: "https://www.doomworld.com/idgames//index.php?search=1&field=title&sort=time&order=desc&word={{{s}}}",
   },
   {
-    d: "idoimaging.com",
-    s: "I Do Imaging",
-    t: "idi",
-  },
-  {
     d: "idioms.thefreedictionary.com",
     s: "Idioms The Free Dictionary",
     t: "idiom",
@@ -27729,11 +27452,6 @@ export const bangs = [
     s: "Ikman",
     t: "ikman",
     u: "https://ikman.lk/en/ads?query={{{s}}}",
-  },
-  {
-    d: "kantaro.ikso.net",
-    s: "Ikso Kantaro",
-    t: "ikso",
   },
   {
     d: "duckduckgo.com",
@@ -28460,11 +28178,6 @@ export const bangs = [
     s: "inventaire.io",
     t: "inv",
     u: "https://inventaire.io/search?q={{{s}}}",
-  },
-  {
-    d: "www.inwx.com",
-    s: "InterNetworX",
-    t: "inwx",
   },
   {
     d: "io9.com",
@@ -29421,11 +29134,6 @@ export const bangs = [
     u: "http://www.jedisjeux.net/search_results.php?search={{{s}}}&button_search=Ok",
   },
   {
-    d: "extensions.joomla.org",
-    s: "Joomla Extensions",
-    t: "jed",
-  },
-  {
     d: "www.jegs.com",
     s: "Jegs",
     t: "jegs",
@@ -29532,11 +29240,6 @@ export const bangs = [
     s: "JGuitar",
     t: "jguitar",
     u: "http://jguitar.com/chordsearch?chordsearch={{{s}}}",
-  },
-  {
-    d: "catalyst.library.jhu.edu",
-    s: "Johns Hopkins University Library",
-    t: "jhulib",
   },
   {
     d: "items.jellyneo.net",
@@ -30535,11 +30238,6 @@ export const bangs = [
     u: "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/log/?h=v5.0.1&qt=grep&q={{{s}}}",
   },
   {
-    d: "ketab.io",
-    s: "Ketab",
-    t: "ketab",
-  },
-  {
     d: "keybase.io",
     s: "Keybase",
     t: "key",
@@ -30610,11 +30308,6 @@ export const bangs = [
     s: "KickNews",
     t: "kicknews",
     u: "http://www.kicknews.net/news/search?q={{{s}}} ",
-  },
-  {
-    d: "www.kickstarter.com",
-    s: "Kickstarter",
-    t: "kickstarter",
   },
   {
     d: "www.kicktraq.com",
@@ -31222,20 +30915,10 @@ export const bangs = [
     u: "https://www.kroger.com/search?query={{{s}}}",
   },
   {
-    d: "catalog.krl.org",
-    s: "Kitsap Regional Library",
-    t: "krl",
-  },
-  {
     d: "www.kroger.com",
     s: "Kroger",
     t: "kroger",
     u: "https://www.kroger.com/search?query={{{s}}}",
-  },
-  {
-    d: "www.kickstarter.com",
-    s: "Kickstarter",
-    t: "ks",
   },
   {
     d: "www.ksl.com",
@@ -31356,16 +31039,6 @@ export const bangs = [
     s: "Kult of Athena",
     t: "kultofathena",
     u: "http://kultofathena.com/s_results.asp?search={{{s}}}",
-  },
-  {
-    d: "www.kununu.com",
-    s: "kununu.com",
-    t: "kunu",
-  },
-  {
-    d: "www.kununu.com",
-    s: "kununu",
-    t: "kununu",
   },
   {
     d: "kuopassa.net",
@@ -32205,11 +31878,6 @@ export const bangs = [
     s: "last.fm",
     t: "lfm",
     u: "http://www.last.fm/music/{{{s}}}/",
-  },
-  {
-    d: "pac.lfpl.org",
-    s: "Louisville Free Public Library",
-    t: "lfpl",
   },
   {
     d: "lapfoxtrax.wikia.com",
@@ -33481,16 +33149,6 @@ export const bangs = [
     s: "Lulu",
     t: "lulu",
     u: "https://www.lulu.com/shop/search.ep?keyWords={{{s}}}",
-  },
-  {
-    d: "lumendatabase.org",
-    s: "LumenDatabase",
-    t: "lumen",
-  },
-  {
-    d: "duckduckgo.com",
-    t: "lupa",
-    u: "https://duckduckgo.com/?q={{{s}}}+site%3Apiaui.folha.uol.com.br+inurl%3Alupa&ia=web",
   },
   {
     d: "lurkmore.to",
@@ -35976,11 +35634,6 @@ export const bangs = [
     u: "http://listado.mercadolibre.com.ar/{{{s}}}",
   },
   {
-    d: "www.mlat.uzh.ch",
-    s: "Corpus Corporum: repositorium operum latinorum apud universitatem Turicensem",
-    t: "mlat",
-  },
-  {
     d: "mlb.mlb.com",
     s: "MLB.com",
     t: "mlb",
@@ -36977,11 +36630,6 @@ export const bangs = [
     u: "https://docs.microsoft.com/en-us/search/index?search={{{s}}}&scope=C%2B%2B",
   },
   {
-    d: "www.msdmanuals.com",
-    s: "MSD Manual Japanese",
-    t: "msdjp",
-  },
-  {
     d: "docs.microsoft.com",
     s: "Microsoft Docs",
     t: "msd",
@@ -37406,11 +37054,6 @@ export const bangs = [
     s: "Muppet Wiki",
     t: "muppet",
     u: "http://muppet.wikia.com/wiki/Special:Search?search={{{s}}}",
-  },
-  {
-    d: "muragon.com",
-    s: "Muragon",
-    t: "muragon",
   },
   {
     d: "www.murfie.com",
@@ -38318,11 +37961,6 @@ export const bangs = [
     u: "https://www.neb.com/search?q={{{s}}}",
   },
   {
-    d: "www.newegg.ca",
-    s: "Newegg Canada",
-    t: "neca",
-  },
-  {
     d: "crypt-of-the-necrodancer.wikia.com",
     s: "Crypt of the NecroDancer Wikia",
     t: "necrod",
@@ -38362,11 +38000,6 @@ export const bangs = [
     d: "music.163.com",
     t: "nem",
     u: "http://music.163.com/#/search/m/?s={{{s}}}",
-  },
-  {
-    d: "www.newegg.com",
-    s: "Newegg",
-    t: "ne",
   },
   {
     d: "neo4j.com",
@@ -38577,21 +38210,6 @@ export const bangs = [
     s: "Ne Vakit",
     t: "nevakit",
     u: "https://nevakit.com/ara/{{{s}}}",
-  },
-  {
-    d: "www.newark.com",
-    s: "Newark",
-    t: "newark",
-  },
-  {
-    d: "www.newegg.ca",
-    s: "Newegg Canada",
-    t: "neweggca",
-  },
-  {
-    d: "www.newegg.com",
-    s: "Newegg",
-    t: "newegg",
   },
   {
     d: "newffr.com",
@@ -39354,11 +38972,6 @@ export const bangs = [
     s: "Nordstrom",
     t: "nordstrom",
     u: "http://shop.nordstrom.com/sr?origin=keywordsearch&keyword={{{s}}}",
-  },
-  {
-    d: "www.norid.no",
-    s: "Norid",
-    t: "norid",
   },
   {
     d: "safeweb.norton.com",
@@ -40777,10 +40390,6 @@ export const bangs = [
     u: "http://www.imperialassembly.com/oracle/?quicksearch=1&search_13={{{s}}}",
   },
   {
-    d: "hu-berlin.hosted.exlibrisgroup.com",
-    t: "opachu",
-  },
-  {
     d: "duckduckgo.com",
     s: "OPAM",
     t: "opam",
@@ -41189,11 +40798,6 @@ export const bangs = [
     u: "http://www.ord.se/oversattning/franska/?s={{{s}}}&l=FRASVE",
   },
   {
-    d: "www.ordguru.se",
-    s: "Ordguru",
-    t: "ordguru",
-  },
-  {
     d: "ordnet.dk",
     s: "Den Danske Ordbog",
     t: "ordnet",
@@ -41308,11 +40912,6 @@ export const bangs = [
     u: "http://orthodoxwiki.org/index.php?title=Special%3ASearch&search={{{s}}}",
   },
   {
-    d: "osaa.dk",
-    s: "OSAA Wiki",
-    t: "osaa",
-  },
-  {
     d: "osalt.com",
     s: "Open Source Alternative",
     t: "osalt",
@@ -41385,11 +40984,6 @@ export const bangs = [
     u: "https://forum.openstreetmap.org/search.php?action=search&keywords={{{s}}}&forums[]=12",
   },
   {
-    d: "forum.openstreetmap.org",
-    s: "OpenStreetMap Forum",
-    t: "osmforum",
-  },
-  {
     d: "www.openlinkmap.org",
     s: "OpenLinkMap",
     t: "osmlink",
@@ -41436,11 +41030,6 @@ export const bangs = [
     s: "OSNews",
     t: "osnews",
     u: "http://www.osnews.com/search?q={{{s}}}",
-  },
-  {
-    d: "software.opensuse.org",
-    s: "openSUSE",
-    t: "os",
   },
   {
     d: "map.project-osrm.org",
@@ -42377,11 +41966,6 @@ export const bangs = [
     s: "PChome 24h",
     t: "pc24",
     u: "http://ecshweb.pchome.com.tw/search/?q={{{s}}}",
-  },
-  {
-    d: "catalog.princeton.edu",
-    s: "Princeton University Library Catalog",
-    t: "pcat",
   },
   {
     d: "search.pccasegear.com",
@@ -44130,16 +43714,6 @@ export const bangs = [
     u: "https://mobile.pons.com/dict/search/mobile-results/?q={{{s}}}&l=deen",
   },
   {
-    d: "pl.pons.com",
-    s: "Pons it<>pl",
-    t: "ponsitpl",
-  },
-  {
-    d: "pl.pons.com",
-    s: "Pons pl-de",
-    t: "ponsplde",
-  },
-  {
     d: "en.pons.com",
     s: "Pons PL-EN",
     t: "ponsplen",
@@ -44668,11 +44242,6 @@ export const bangs = [
     u: "https://www.primfx.com/q/{{{s}}}/",
   },
   {
-    d: "fu-berlin.hosted.exlibrisgroup.com",
-    s: "Bibliothekskatalog Primo der FU Berlin",
-    t: "primo",
-  },
-  {
     d: "library.princeton.edu",
     s: "Princeton University Library",
     t: "princetonlib",
@@ -44755,11 +44324,6 @@ export const bangs = [
     s: "Product Hunt",
     t: "producthunt",
     u: "https://www.producthunt.com/search?q={{{s}}}",
-  },
-  {
-    d: "www.proff.no",
-    s: "Proff",
-    t: "proff",
   },
   {
     d: "progaccess33.net",
@@ -45968,11 +45532,6 @@ export const bangs = [
     u: "http://www.radiotimes.com/search?q={{{s}}}",
   },
   {
-    d: "radiopaedia.org",
-    s: "Radiopaedia",
-    t: "rad",
-  },
-  {
     d: "animorphsforum.com",
     s: "Richard's Animorphs Forum",
     t: "raf",
@@ -46921,11 +46480,6 @@ export const bangs = [
     u: "https://remywiki.com/index.php?title=Special:Search&search={{{s}}}",
   },
   {
-    d: "context.reverso.net",
-    s: "context.reverso.net",
-    t: "renpl",
-  },
-  {
     d: "dictionary.reverso.net",
     s: "Reverso Dictionary",
     t: "ren",
@@ -46984,12 +46538,6 @@ export const bangs = [
     s: "ResearchGate",
     t: "researchgate",
     u: "https://www.researchgate.net/search/publications?q={{{s}}}",
-  },
-  {
-    d: "journals.plos.org",
-    s: "PLOS",
-    t: "research",
-    u: 'http://journals.plos.org/plosone/search?unformattedQuery=everything:"{{{s}}}"',
   },
   {
     d: "cekresi.com",
@@ -47952,11 +47500,6 @@ export const bangs = [
     u: "http://raspberrypi.stackexchange.com/search?q={{{s}}}",
   },
   {
-    d: "context.reverso.net",
-    s: "context.reverso.net",
-    t: "rplen",
-  },
-  {
     d: "rpmfind.net",
     s: "RPMfind.net",
     t: "rpmfind",
@@ -48364,11 +47907,6 @@ export const bangs = [
     u: "http://www.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8&sa=Search",
   },
   {
-    d: "www.ruby-toolbox.com",
-    s: "Ruby Toolbox",
-    t: "rubytoolbox",
-  },
-  {
     d: "translate.google.com",
     s: "Google Translate",
     t: "ruen",
@@ -48469,11 +48007,6 @@ export const bangs = [
     s: "Rust Nightly Standard Library Documentation",
     t: "rustn",
     u: "https://doc.rust-lang.org/nightly/std/?search={{{s}}}",
-  },
-  {
-    d: "github.com",
-    s: "Rust RFC GitHub.com",
-    t: "rustrfc",
   },
   {
     d: "doc.rust-lang.org",
@@ -49620,11 +49153,6 @@ export const bangs = [
     u: "https://www.scuba.com/resources/search1.aspx?Action=Search&Search={{{s}}}",
   },
   {
-    d: "syntaxdb.com",
-    s: "syntaxdb.com",
-    t: "sdb",
-  },
-  {
     d: "encore.sdcl.org",
     s: "San Diego County Library (EN)",
     t: "sdcl",
@@ -50199,11 +49727,6 @@ export const bangs = [
     s: "SFMOMA",
     t: "sfmoma",
     u: "https://www.sfmoma.org/search/?q={{{s}}}",
-  },
-  {
-    d: "na85.lightning.force.com",
-    s: "Salesforce Lightning",
-    t: "sforcel",
   },
   {
     d: "login.salesforce.com",
@@ -51700,11 +51223,6 @@ export const bangs = [
     u: "http://www.socwall.com/wallpapers/search:{{{s}}}",
   },
   {
-    d: "duckduckgo.com",
-    s: "Stackoverflow with DuckDuckGo",
-    t: "sod",
-  },
-  {
     d: "www.sofascore.com",
     s: "SofaScore",
     t: "sofasc",
@@ -51757,17 +51275,6 @@ export const bangs = [
     s: "SoFurry",
     t: "sofurry",
     u: "https://www.sofurry.com/browse/search?search={{{s}}}",
-  },
-  {
-    d: "www.google.com",
-    s: "Stack Overflow via Google",
-    t: "sog",
-  },
-  {
-    d: "www.ricerca24.ilsole24ore.com",
-    s: "Il Sole 24 Ore",
-    t: "sole24",
-    u: "https://www.ricerca24.ilsole24ore.com/fc?cmd=static&chId=30&path=%2Fsearch%2Fsearch_engine.jsp&field=Titolo%7CTesto&orderBy=score+desc&chId=30&keyWords={{{s}}}&button=",
   },
   {
     d: "solidaris.be",
@@ -52032,11 +51539,6 @@ export const bangs = [
     s: "SpanishDict",
     t: "spanish",
     u: "https://www.spanishdict.com/translate/{{{s}}}",
-  },
-  {
-    d: "www.speakinglatino.com",
-    s: "Speaking Latino",
-    t: "spanslang",
   },
   {
     d: "www.sparkfun.com",
@@ -52583,11 +52085,6 @@ export const bangs = [
     s: "Bos.zrs-sazu.si",
     t: "sskj",
     u: "http://bos.zrc-sazu.si/cgi/a03.exe?name=sskj_testa&expression={{{s}}}&hs=1",
-  },
-  {
-    d: "www.speakinglatino.com",
-    s: "Speaking Latino",
-    t: "sslang",
   },
   {
     d: "dev.ssllabs.com",
@@ -53154,11 +52651,6 @@ export const bangs = [
     u: "https://strategywiki.org/w/index.php?search={{{s}}}",
   },
   {
-    d: "www.strava.com",
-    s: "Strava",
-    t: "strava",
-  },
-  {
     d: "streeteasy.com",
     s: "StreetEasy",
     t: "street",
@@ -53507,11 +52999,6 @@ export const bangs = [
     u: "https://scratch.mit.edu/users/{{{s}}}",
   },
   {
-    d: "software.opensuse.org",
-    s: "openSUSE",
-    t: "sus",
-  },
-  {
     d: "superuser.com",
     s: "SuperUser",
     t: "su",
@@ -53744,11 +53231,6 @@ export const bangs = [
     s: "Swoop",
     t: "swoop",
     u: "https://www.swoop.ge/search?query={{{s}}}",
-  },
-  {
-    d: "searchworks.stanford.edu",
-    s: "Stanford SearchWorks",
-    t: "sworks",
   },
   {
     d: "simple.wikipedia.org",
@@ -54474,6 +53956,7 @@ export const bangs = [
     d: "theconversation.com",
     s: "The Conversation",
     t: "tcv",
+    u: "https://theconversation.com/ca/search?q={{{s}}}",
   },
   {
     d: "www.tdbank.com",
@@ -54671,6 +54154,7 @@ export const bangs = [
     d: "ed.ted.com",
     s: "TedEd",
     t: "teded",
+    u: "https://ed.ted.com/search?qs={{{s}}}",
   },
   {
     d: "www.tedi-shop.com",
@@ -54941,11 +54425,6 @@ export const bangs = [
     s: "The Elder Scrolls WIki",
     t: "teswiki",
     u: "http://elderscrolls.wikia.com/wiki/Special:Search?search={{{s}}}",
-  },
-  {
-    d: "eur-lex.europa.eu",
-    s: "TEU",
-    t: "teu",
   },
   {
     d: "te.wikipedia.org",
@@ -57186,11 +56665,6 @@ export const bangs = [
     u: "http://tutsplus.com/tutorials/search?utf8=%E2%9C%93&search[topic]=&search[terms]={{{s}}}&button=",
   },
   {
-    d: "hub.tutsplus.com",
-    s: "Tuts+",
-    t: "tuts",
-  },
-  {
     d: "www.tutti.ch",
     s: "tutti.ch",
     t: "tuttich",
@@ -58285,6 +57759,7 @@ export const bangs = [
     d: "unsplash.com",
     s: "unsplash.com",
     t: "unsplash",
+    u: "https://unsplash.com/search/photos/{{{s}}}",
   },
   {
     d: "unsplash.com",
@@ -58296,6 +57771,7 @@ export const bangs = [
     d: "unsplash.com",
     s: "Unsplash",
     t: "unspl",
+    u: "https://unsplash.com/search/photos/{{{s}}}",
   },
   {
     d: "unsplash.com",
@@ -58536,11 +58012,6 @@ export const bangs = [
     s: "USA Today",
     t: "usatoday",
     u: "http://www.usatoday.com/search/{{{s}}}/",
-  },
-  {
-    d: "search.usa.gov",
-    s: "USA.gov",
-    t: "usa",
   },
   {
     d: "www.uschess.org",
@@ -60079,17 +59550,6 @@ export const bangs = [
     u: "http://vtmb.wikia.com/wiki/Special:Search?query={{{s}}}",
   },
   {
-    d: "www.vulgumtechus.com",
-    s: "Vulgum Techus",
-    t: "vt",
-  },
-  {
-    d: "biblio.vub.ac.be",
-    s: "Bibliotheek van de Vrije Univesiteit Brussel",
-    t: "vub",
-    u: "http://biblio.vub.ac.be/vubissmartweb/List.csp?SearchT1={{{s}}}&Index1=Vuballewoorden&Database=3_UB01&OpacLanguage=dut&NumberToRetrieve=20&SearchMethod=Find_1&SearchTerm1=test&Profile=Default&PreviousList=Start&PageType=Start&EncodedRequest=p*20W*20*0A*20*B5*86*DF*D6*7E*A7*15*FD*0F*5E&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&MyChannelCount=",
-  },
-  {
     d: "www.vudu.com",
     s: "Vudu",
     t: "vudu",
@@ -61083,16 +60543,6 @@ export const bangs = [
     s: "Wikipedia (EO)",
     t: "weo",
     u: "http://eo.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-  },
-  {
-    d: "wesleyan.summon.serialssolutions.com",
-    s: "Wesleyan Library OneSearch",
-    t: "wes1",
-  },
-  {
-    d: "wesleyan.summon.serialssolutions.com",
-    s: "Wesleyan Library OneSearch",
-    t: "weslib",
   },
   {
     d: "www.westelm.com",
@@ -62307,11 +61757,6 @@ export const bangs = [
     u: "http://ja.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
   },
   {
-    d: "wiki.jvflux.com",
-    s: "Wiki de JV Flux",
-    t: "wjvf",
-  },
-  {
     d: "ja.wikipedia.org",
     s: "Wikipedia in Japanese",
     t: "wj",
@@ -62435,11 +61880,6 @@ export const bangs = [
     s: "Wikiloc French",
     t: "wlfr",
     u: "http://fr.wikiloc.com/wikiloc/find.do?q={{{s}}}",
-  },
-  {
-    d: "a.next.westlaw.com",
-    s: "WestlawNext",
-    t: "wln",
   },
   {
     d: "reference.wolfram.com",
@@ -63177,11 +62617,6 @@ export const bangs = [
     s: "WikiQuote Italian",
     t: "wqit",
     u: "https://it.wikiquote.org/?q={{{s}}}:",
-  },
-  {
-    d: "pl.wikiquote.org",
-    s: "Wikiquote Polish",
-    t: "wqpl",
   },
   {
     d: "en.wikiquote.org",
@@ -64819,11 +64254,6 @@ export const bangs = [
     s: "Zetax.net",
     t: "zetax",
     u: "http://zetax.net/search/?q={{{s}}}",
-  },
-  {
-    d: "foundation.zurb.com",
-    s: "Zurb Foundation Forum",
-    t: "zff",
   },
   {
     d: "duckduckgo.com",

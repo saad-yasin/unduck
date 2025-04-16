@@ -62,11 +62,7 @@ function getBangredirectUrl() {
 
   // Format of the url is:
   // https://www.google.com/search?q={{{s}}}
-  const searchUrl = selectedBang?.u?.replace(
-    "{{{s}}}",
-    // Replace %2F with / to fix formats like "!ghr+t3dotgg/unduck"
-    encodeURIComponent(cleanQuery).replace(/%2F/g, "/"),
-  );
+  const searchUrl = selectedBang?.u?.replace("{{{s}}}", encodeURIComponent(cleanQuery).replace(/%2F/g, "/"),);
   if (!searchUrl) return null;
 
   return searchUrl;
